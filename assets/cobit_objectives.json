@@ -1,0 +1,196 @@
+[
+  {
+    "id": "EDM01",
+    "name": "Ensured Governance Frameworks Setting and Maintenance",
+    "domain": "EDM"
+  },
+  {
+    "id": "EDM02",
+    "name": "Ensured Benefits Delivery",
+    "domain": "EDM"
+  },
+  {
+    "id": "EDM03",
+    "name": "Ensured Risk Optimization",
+    "domain": "EDM"
+  },
+  {
+    "id": "EDM04",
+    "name": "Ensured Resource Optimization",
+    "domain": "EDM"
+  },
+  {
+    "id": "EDM05",
+    "name": "Ensured Stakeholder Transparency",
+    "domain": "EDM"
+  },
+
+  {
+    "id": "APO01",
+    "name": "Managed I&T Management Framework",
+    "domain": "APO"
+  },
+  {
+    "id": "APO02",
+    "name": "Managed Strategy",
+    "domain": "APO"
+  },
+  {
+    "id": "APO03",
+    "name": "Managed Enterprise Architecture",
+    "domain": "APO"
+  },
+  {
+    "id": "APO04",
+    "name": "Managed Innovation",
+    "domain": "APO"
+  },
+  {
+    "id": "APO05",
+    "name": "Managed Portfolio",
+    "domain": "APO"
+  },
+  {
+    "id": "APO06",
+    "name": "Managed Budget and Costs",
+    "domain": "APO"
+  },
+  {
+    "id": "APO07",
+    "name": "Managed Human Resources",
+    "domain": "APO"
+  },
+  {
+    "id": "APO08",
+    "name": "Managed Relationships",
+    "domain": "APO"
+  },
+  {
+    "id": "APO09",
+    "name": "Managed Service Agreements",
+    "domain": "APO"
+  },
+  {
+    "id": "APO10",
+    "name": "Managed Vendors",
+    "domain": "APO"
+  },
+  {
+    "id": "APO11",
+    "name": "Managed Quality",
+    "domain": "APO"
+  },
+  {
+    "id": "APO12",
+    "name": "Managed Risk",
+    "domain": "APO"
+  },
+  {
+    "id": "APO13",
+    "name": "Managed Security",
+    "domain": "APO"
+  },
+
+  {
+    "id": "BAI01",
+    "name": "Managed Programs",
+    "domain": "BAI"
+  },
+  {
+    "id": "BAI02",
+    "name": "Managed Requirements Definition",
+    "domain": "BAI"
+  },
+  {
+    "id": "BAI03",
+    "name": "Managed Solutions Identification and Build",
+    "domain": "BAI"
+  },
+  {
+    "id": "BAI04",
+    "name": "Managed Availability and Capacity",
+    "domain": "BAI"
+  },
+  {
+    "id": "BAI05",
+    "name": "Managed Organizational Change",
+    "domain": "BAI"
+  },
+  {
+    "id": "BAI06",
+    "name": "Managed IT Changes",
+    "domain": "BAI"
+  },
+  {
+    "id": "BAI07",
+    "name": "Managed IT Change Acceptance and Transitioning",
+    "domain": "BAI"
+  },
+  {
+    "id": "BAI08",
+    "name": "Managed Knowledge",
+    "domain": "BAI"
+  },
+  {
+    "id": "BAI09",
+    "name": "Managed Assets",
+    "domain": "BAI"
+  },
+  {
+    "id": "BAI10",
+    "name": "Managed Configuration",
+    "domain": "BAI"
+  },
+  {
+    "id": "BAI11",
+    "name": "Managed Projects",
+    "domain": "BAI"
+  },
+
+  {
+    "id": "DSS01",
+    "name": "Managed Operations",
+    "domain": "DSS"
+  },
+  {
+    "id": "DSS02",
+    "name": "Managed Service Requests and Incidents",
+    "domain": "DSS"
+  },
+  {
+    "id": "DSS03",
+    "name": "Managed Problems",
+    "domain": "DSS"
+  },
+  {
+    "id": "DSS04",
+    "name": "Managed Continuity",
+    "domain": "DSS"
+  },
+  {
+    "id": "DSS05",
+    "name": "Managed Security Services",
+    "domain": "DSS"
+  },
+  {
+    "id": "DSS06",
+    "name": "Managed Business Process Controls",
+    "domain": "DSS"
+  },
+
+  {
+    "id": "MEA01",
+    "name": "Managed Performance and Conformance Monitoring",
+    "domain": "MEA"
+  },
+  {
+    "id": "MEA02",
+    "name": "Managed System of Internal Control",
+    "domain": "MEA"
+  },
+  {
+    "id": "MEA03",
+    "name": "Managed Compliance With External Requirements",
+    "domain": "MEA"
+  }
+]

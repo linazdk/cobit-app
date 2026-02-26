@@ -1,0 +1,311 @@
+[
+  {
+    "objectiveId": "EDM01",
+    "metrics": [
+      "Percentage of I&T governance roles formally defined and approved.",
+      "Frequency of I&T governance committee meetings.",
+      "Rate of I&T decisions taken in line with the defined governance framework."
+    ]
+  },
+  {
+    "objectiveId": "EDM02",
+    "metrics": [
+      "Percentage of I&T projects with an approved business case.",
+      "Rate of realization of expected benefits compared with forecasts.",
+      "Number of benefit reviews performed after go-live."
+    ]
+  },
+  {
+    "objectiveId": "EDM03",
+    "metrics": [
+      "Percentage of I&T risks identified, assessed, and documented.",
+      "Number of critical I&T risks without an approved treatment plan.",
+      "Frequency of updates to the I&T risk register."
+    ]
+  },
+  {
+    "objectiveId": "EDM04",
+    "metrics": [
+      "Utilization rate of critical I&T resources (people, infrastructure, applications).",
+      "Percentage of critical I&T skills covered internally or externally.",
+      "Gap between planned capacity and actual available capacity."
+    ]
+  },
+  {
+    "objectiveId": "EDM05",
+    "metrics": [
+      "Frequency of I&T reporting to key stakeholders.",
+      "Average stakeholder satisfaction level regarding I&T transparency.",
+      "Number of actions resulting from stakeholder feedback on I&T reports."
+    ]
+  },
+
+  {
+    "objectiveId": "APO01",
+    "metrics": [
+      "Percentage of I&T processes formally documented and approved.",
+      "Number of I&T management system reviews performed per year.",
+      "Level of compliance with selected frameworks (COBIT, ITIL, ISO, etc.)."
+    ]
+  },
+  {
+    "objectiveId": "APO02",
+    "metrics": [
+      "Perceived alignment between I&T strategy and business strategy (survey score).",
+      "Percentage of strategic I&T initiatives implemented as planned.",
+      "Average time to update the I&T strategy after changes in business strategy."
+    ]
+  },
+  {
+    "objectiveId": "APO03",
+    "metrics": [
+      "Coverage rate of enterprise architecture mapping (processes, data, applications).",
+      "Percentage of projects compliant with the target architecture.",
+      "Number of major architecture deviations identified in project reviews."
+    ]
+  },
+  {
+    "objectiveId": "APO04",
+    "metrics": [
+      "Number of I&T innovation ideas or initiatives evaluated per year.",
+      "Percentage of innovation initiatives leading to a pilot or POC.",
+      "Share of the I&T budget dedicated to innovation."
+    ]
+  },
+  {
+    "objectiveId": "APO05",
+    "metrics": [
+      "Percentage of portfolio projects aligned with strategic priorities.",
+      "Number of projects with significant cost or schedule overruns.",
+      "Total value of expected vs realized benefits for the portfolio."
+    ]
+  },
+  {
+    "objectiveId": "APO06",
+    "metrics": [
+      "Average variance between I&T budget and actual spend.",
+      "I&T cost per user or per key service.",
+      "Percentage of I&T services with a detailed cost communicated to the business."
+    ]
+  },
+  {
+    "objectiveId": "APO07",
+    "metrics": [
+      "Coverage rate of critical I&T skills.",
+      "Percentage of I&T staff with an annual training plan.",
+      "Turnover rate of I&T staff."
+    ]
+  },
+  {
+    "objectiveId": "APO08",
+    "metrics": [
+      "Business satisfaction level with the relationship with I&T.",
+      "Number of business/I&T committees held per year.",
+      "Average processing time for strategic business requests."
+    ]
+  },
+  {
+    "objectiveId": "APO09",
+    "metrics": [
+      "Percentage of I&T services included in a formal catalog.",
+      "SLA compliance rate for critical services.",
+      "Number of services with undefined or unmonitored service levels."
+    ]
+  },
+  {
+    "objectiveId": "APO10",
+    "metrics": [
+      "Percentage of critical suppliers assessed through a formal process.",
+      "Supplier compliance rate with performance (SLA) clauses.",
+      "Number of major supplier-related risks."
+    ]
+  },
+  {
+    "objectiveId": "APO11",
+    "metrics": [
+      "Percentage of I&T deliverables subject to a formal quality review.",
+      "Number of major defects detected after go-live.",
+      "Implementation rate of actions resulting from quality reviews."
+    ]
+  },
+  {
+    "objectiveId": "APO12",
+    "metrics": [
+      "Percentage of I&T risks covered by treatment plans.",
+      "Number of I&T risk analyses performed over the period.",
+      "Rate of reduction in overall exposure to I&T risk."
+    ]
+  },
+  {
+    "objectiveId": "APO13",
+    "metrics": [
+      "Percentage of information assets classified according to sensitivity.",
+      "Number of significant security incidents over the period.",
+      "Percentage of users who completed security training/awareness during the year.",
+      "Compliance rate with defined security policies and procedures."
+    ]
+  },
+
+  {
+    "objectiveId": "BAI01",
+    "metrics": [
+      "Percentage of projects delivered on time and within budget.",
+      "Number of projects cancelled or suspended before delivery.",
+      "Satisfaction rate of business sponsors with project management."
+    ]
+  },
+  {
+    "objectiveId": "BAI02",
+    "metrics": [
+      "Percentage of requirements validated and signed off by stakeholders.",
+      "Traceability rate between requirements, design, tests, and deliverables.",
+      "Number of late requirement changes impacting cost or schedule."
+    ]
+  },
+  {
+    "objectiveId": "BAI03",
+    "metrics": [
+      "Compliance rate of delivered solutions with the target architecture.",
+      "Number of major defects detected during testing.",
+      "Average time from design to solution availability."
+    ]
+  },
+  {
+    "objectiveId": "BAI04",
+    "metrics": [
+      "Availability of critical services/applications (in %).",
+      "Number of capacity threshold breaches.",
+      "Average recovery time for capacity-related incidents."
+    ]
+  },
+  {
+    "objectiveId": "BAI05",
+    "metrics": [
+      "Percentage of projects with a formal change management plan.",
+      "Adoption rate of new processes/tools by users.",
+      "Number of incidents or major resistance related to change."
+    ]
+  },
+  {
+    "objectiveId": "BAI06",
+    "metrics": [
+      "Percentage of changes successfully implemented without major incident.",
+      "Number of urgent changes compared to total changes.",
+      "Number of incidents related to poorly prepared changes."
+    ]
+  },
+  {
+    "objectiveId": "BAI07",
+    "metrics": [
+      "Percentage of deployments carried out according to a formal transition plan.",
+      "Number of rollbacks after deployment.",
+      "Compliance rate with acceptance criteria before go-live."
+    ]
+  },
+  {
+    "objectiveId": "BAI08",
+    "metrics": [
+      "Number of articles in the knowledge base.",
+      "Knowledge base reuse rate by support teams.",
+      "Reduction in average resolution time thanks to the knowledge base."
+    ]
+  },
+  {
+    "objectiveId": "BAI09",
+    "metrics": [
+      "Completeness rate of the I&T asset inventory.",
+      "Percentage of assets without an identified owner.",
+      "Software license compliance rate."
+    ]
+  },
+  {
+    "objectiveId": "BAI10",
+    "metrics": [
+      "Percentage of configuration items up to date in the CMDB.",
+      "Number of discrepancies detected between the CMDB and the actual environment.",
+      "Number of incidents whose root cause is incorrect configuration."
+    ]
+  },
+  {
+    "objectiveId": "BAI11",
+    "metrics": [
+      "Percentage of projects with regular reporting on costs, schedule, and risks.",
+      "Number of projects closed with a formal review and lessons learned.",
+      "Percentage of projects that achieve their quality objectives."
+    ]
+  },
+
+  {
+    "objectiveId": "DSS01",
+    "metrics": [
+      "Number of operations incidents per period.",
+      "Completion rate of planned operations tasks.",
+      "Number of operational errors related to incomplete procedures."
+    ]
+  },
+  {
+    "objectiveId": "DSS02",
+    "metrics": [
+      "Mean time to resolve incidents (MTTR).",
+      "Percentage of incidents resolved within SLA time.",
+      "Rate of recurring incidents."
+    ]
+  },
+  {
+    "objectiveId": "DSS03",
+    "metrics": [
+      "Number of open vs resolved problems.",
+      "Average time to identify the root cause of a problem.",
+      "Reduction in recurring incidents in the areas addressed."
+    ]
+  },
+  {
+    "objectiveId": "DSS04",
+    "metrics": [
+      "Compliance with RTO/RPO targets during continuity tests.",
+      "Number of DRP/BCP tests carried out per year.",
+      "Success rate of backup restorations."
+    ]
+  },
+  {
+    "objectiveId": "DSS05",
+    "metrics": [
+      "Number of recorded security incidents.",
+      "Average time to handle a security incident.",
+      "Percentage of critical vulnerabilities remediated within the defined timeframe."
+    ]
+  },
+  {
+    "objectiveId": "DSS06",
+    "metrics": [
+      "Percentage of key business controls tested.",
+      "Number of identified business control failures.",
+      "Reduction in business incidents thanks to strengthened controls."
+    ]
+  },
+
+  {
+    "objectiveId": "MEA01",
+    "metrics": [
+      "Number of I&T indicators monitored regularly.",
+      "Percentage of indicators meeting their targets.",
+      "Frequency of updates to I&T dashboards."
+    ]
+  },
+  {
+    "objectiveId": "MEA02",
+    "metrics": [
+      "Percentage of I&T internal controls assessed.",
+      "Number of identified internal control weaknesses.",
+      "Remediation rate of weaknesses within agreed timeframes."
+    ]
+  },
+  {
+    "objectiveId": "MEA03",
+    "metrics": [
+      "Number of detected regulatory or contractual non-compliances.",
+      "Average time to address non-compliances.",
+      "Overall compliance rate with applicable requirements."
+    ]
+  }
+]

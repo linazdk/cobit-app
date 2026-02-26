@@ -1,0 +1,22 @@
+[
+  {
+    "code": "EDM",
+    "name": "Evaluate, Direct and Monitor"
+  },
+  {
+    "code": "APO",
+    "name": "Align, Plan and Organise"
+  },
+  {
+    "code": "BAI",
+    "name": "Build, Acquire and Implement"
+  },
+  {
+    "code": "DSS",
+    "name": "Deliver, Service and Support"
+  },
+  {
+    "code": "MEA",
+    "name": "Monitor, Evaluate and Assess"
+  }
+]

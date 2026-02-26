@@ -1,0 +1,1145 @@
+[
+  {
+    "practiceId": "EDM01.01",
+    "activities": [
+      {
+        "id": "EDM01.01-A1",
+        "description": "Evaluate stakeholder needs and expectations for IT governance and management in relation to enterprise objectives"
+      },
+      {
+        "id": "EDM01.01-A2",
+        "description": "Approve IT governance and management objectives derived from stakeholder needs"
+      },
+      {
+        "id": "EDM01.01-A3",
+        "description": "Oversee the alignment of IT governance and management objectives with stakeholder needs"
+      }
+    ]
+  },
+  {
+    "practiceId": "EDM01.02",
+    "activities": [
+      {
+        "id": "EDM01.02-A1",
+        "description": "Define roles, responsibilities and decision-making authority for IT governance"
+      },
+      {
+        "id": "EDM01.02-A2",
+        "description": "Establish governance bodies (committees, boards) with appropriate representation"
+      },
+      {
+        "id": "EDM01.02-A3",
+        "description": "Mandate governance bodies and provide them with the necessary resources"
+      }
+    ]
+  },
+  {
+    "practiceId": "EDM01.03",
+    "activities": [
+      {
+        "id": "EDM01.03-A1",
+        "description": "Establish an IT governance framework that defines principles, policies and processes"
+      },
+      {
+        "id": "EDM01.03-A2",
+        "description": "Communicate the governance framework to all relevant stakeholders"
+      },
+      {
+        "id": "EDM01.03-A3",
+        "description": "Maintain and continuously improve the IT governance framework"
+      }
+    ]
+  },
+  {
+    "practiceId": "EDM02.01",
+    "activities": [
+      {
+        "id": "EDM02.01-A1",
+        "description": "Establish and maintain a governance model aligned with enterprise principles"
+      },
+      {
+        "id": "EDM02.01-A2",
+        "description": "Define information flows to support governance decision-making"
+      },
+      {
+        "id": "EDM02.01-A3",
+        "description": "Ensure coordination between IT governance bodies"
+      }
+    ]
+  },
+  {
+    "practiceId": "EDM02.02",
+    "activities": [
+      {
+        "id": "EDM02.02-A1",
+        "description": "Define key performance indicators (KPIs) to measure the effectiveness of IT governance"
+      },
+      {
+        "id": "EDM02.02-A2",
+        "description": "Implement mechanisms for collecting and analysing performance data"
+      },
+      {
+        "id": "EDM02.02-A3",
+        "description": "Regularly review performance and take corrective actions"
+      }
+    ]
+  },
+  {
+    "practiceId": "EDM02.03",
+    "activities": [
+      {
+        "id": "EDM02.03-A1",
+        "description": "Define IT risk appetite in coordination with enterprise risk management"
+      },
+      {
+        "id": "EDM02.03-A2",
+        "description": "Oversee the identification, assessment and response to IT risks"
+      },
+      {
+        "id": "EDM02.03-A3",
+        "description": "Ensure that IT risk exposure remains within acceptable limits"
+      }
+    ]
+  },
+  {
+    "practiceId": "EDM02.04",
+    "activities": [
+      {
+        "id": "EDM02.04-A1",
+        "description": "Approve the IT resource management framework (human, financial, technological)"
+      },
+      {
+        "id": "EDM02.04-A2",
+        "description": "Oversee optimal allocation of IT resources to support enterprise objectives"
+      },
+      {
+        "id": "EDM02.04-A3",
+        "description": "Regularly review the effectiveness of IT resource usage"
+      }
+    ]
+  },
+  {
+    "practiceId": "EDM02.05",
+    "activities": [
+      {
+        "id": "EDM02.05-A1",
+        "description": "Approve IT compliance policies and standards (regulatory, legal, contractual)"
+      },
+      {
+        "id": "EDM02.05-A2",
+        "description": "Oversee the implementation of compliance requirements"
+      },
+      {
+        "id": "EDM02.05-A3",
+        "description": "Receive reports on compliance and make decisions regarding deviations"
+      }
+    ]
+  },
+  {
+    "practiceId": "EDM02.06",
+    "activities": [
+      {
+        "id": "EDM02.06-A1",
+        "description": "Approve strategy and policies for IT supplier management"
+      },
+      {
+        "id": "EDM02.06-A2",
+        "description": "Oversee performance and risks related to IT suppliers"
+      },
+      {
+        "id": "EDM02.06-A3",
+        "description": "Review strategic relationships with key suppliers"
+      }
+    ]
+  },
+  {
+    "practiceId": "EDM03.01",
+    "activities": [
+      {
+        "id": "EDM03.01-A1",
+        "description": "Establish and maintain an IT policy framework aligned with enterprise values"
+      },
+      {
+        "id": "EDM03.01-A2",
+        "description": "Approve IT policies and communicate them across the organization"
+      },
+      {
+        "id": "EDM03.01-A3",
+        "description": "Oversee adherence to IT policies and the effectiveness of their implementation"
+      }
+    ]
+  },
+  {
+    "practiceId": "EDM03.02",
+    "activities": [
+      {
+        "id": "EDM03.02-A1",
+        "description": "Approve the IT internal control framework and related compliance procedures"
+      },
+      {
+        "id": "EDM03.02-A2",
+        "description": "Oversee assessment of the design and effectiveness of controls"
+      },
+      {
+        "id": "EDM03.02-A3",
+        "description": "Review audit reports and ensure follow-up of corrective actions"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "APO01.01",
+    "activities": [
+      {
+        "id": "APO01.01-A1",
+        "description": "Develop and maintain an IT strategic vision aligned with enterprise strategy"
+      },
+      {
+        "id": "APO01.01-A2",
+        "description": "Develop IT strategic plans that support enterprise objectives"
+      },
+      {
+        "id": "APO01.01-A3",
+        "description": "Communicate IT strategy to stakeholders and obtain their commitment"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO01.02",
+    "activities": [
+      {
+        "id": "APO01.02-A1",
+        "description": "Identify and document current and future IT capability requirements"
+      },
+      {
+        "id": "APO01.02-A2",
+        "description": "Analyse gaps between current capabilities and future needs"
+      },
+      {
+        "id": "APO01.02-A3",
+        "description": "Develop investment plans to close the identified gaps"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO01.03",
+    "activities": [
+      {
+        "id": "APO01.03-A1",
+        "description": "Establish an IT portfolio management framework (projects, services, assets)"
+      },
+      {
+        "id": "APO01.03-A2",
+        "description": "Prioritize IT initiatives based on value and strategic alignment"
+      },
+      {
+        "id": "APO01.03-A3",
+        "description": "Monitor and adjust the IT portfolio to optimize delivered value"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO01.04",
+    "activities": [
+      {
+        "id": "APO01.04-A1",
+        "description": "Identify IT innovation opportunities that can create business value"
+      },
+      {
+        "id": "APO01.04-A2",
+        "description": "Evaluate and select innovation initiatives based on their value potential"
+      },
+      {
+        "id": "APO01.04-A3",
+        "description": "Integrate successful innovations into IT operations and strategies"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "APO02.01",
+    "activities": [
+      {
+        "id": "APO02.01-A1",
+        "description": "Develop and maintain an enterprise architecture that integrates IT dimensions"
+      },
+      {
+        "id": "APO02.01-A2",
+        "description": "Develop and maintain IT architecture (applications, data, infrastructure, security)"
+      },
+      {
+        "id": "APO02.01-A3",
+        "description": "Ensure alignment and consistency between IT architecture and enterprise architecture"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO02.02",
+    "activities": [
+      {
+        "id": "APO02.02-A1",
+        "description": "Establish technology standards and principles to guide investment decisions"
+      },
+      {
+        "id": "APO02.02-A2",
+        "description": "Assess emerging technologies and their relevance for the organization"
+      },
+      {
+        "id": "APO02.02-A3",
+        "description": "Manage the technology lifecycle from adoption to retirement"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO02.03",
+    "activities": [
+      {
+        "id": "APO02.03-A1",
+        "description": "Promote a culture of innovation within the IT organization"
+      },
+      {
+        "id": "APO02.03-A2",
+        "description": "Implement processes to capture and evaluate innovation ideas"
+      },
+      {
+        "id": "APO02.03-A3",
+        "description": "Integrate innovative solutions into IT architecture and operations"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "APO03.01",
+    "activities": [
+      {
+        "id": "APO03.01-A1",
+        "description": "Define the IT organizational structure with clear roles and responsibilities"
+      },
+      {
+        "id": "APO03.01-A2",
+        "description": "Establish governance processes for IT direction and oversight"
+      },
+      {
+        "id": "APO03.01-A3",
+        "description": "Ensure that the IT organization is aligned with enterprise needs"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO03.02",
+    "activities": [
+      {
+        "id": "APO03.02-A1",
+        "description": "Identify the skills required to support IT strategy and operations"
+      },
+      {
+        "id": "APO03.02-A2",
+        "description": "Develop and implement skills development plans"
+      },
+      {
+        "id": "APO03.02-A3",
+        "description": "Assess the effectiveness of skills development programs"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO03.03",
+    "activities": [
+      {
+        "id": "APO03.03-A1",
+        "description": "Establish an organizational culture that supports IT objectives"
+      },
+      {
+        "id": "APO03.03-A2",
+        "description": "Promote engagement and retention of IT staff"
+      },
+      {
+        "id": "APO03.03-A3",
+        "description": "Measure and improve IT staff satisfaction and productivity"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "APO04.01",
+    "activities": [
+      {
+        "id": "APO04.01-A1",
+        "description": "Establish and maintain an IT risk management framework integrated with enterprise risk management"
+      },
+      {
+        "id": "APO04.01-A2",
+        "description": "Identify, assess and treat IT risks in a systematic way"
+      },
+      {
+        "id": "APO04.01-A3",
+        "description": "Monitor and report IT risk exposure to stakeholders"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO04.02",
+    "activities": [
+      {
+        "id": "APO04.02-A1",
+        "description": "Develop and maintain an information security framework aligned with business needs"
+      },
+      {
+        "id": "APO04.02-A2",
+        "description": "Implement security controls to protect information assets"
+      },
+      {
+        "id": "APO04.02-A3",
+        "description": "Continuously monitor and improve the security posture"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO04.03",
+    "activities": [
+      {
+        "id": "APO04.03-A1",
+        "description": "Define and communicate information security policies and standards"
+      },
+      {
+        "id": "APO04.03-A2",
+        "description": "Raise awareness and train staff on security risks and responsibilities"
+      },
+      {
+        "id": "APO04.03-A3",
+        "description": "Monitor compliance with security policies and take corrective actions"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "APO05.01",
+    "activities": [
+      {
+        "id": "APO05.01-A1",
+        "description": "Establish an IT financial management framework integrated with enterprise financial management"
+      },
+      {
+        "id": "APO05.01-A2",
+        "description": "Prepare and monitor IT budgets according to strategic priorities"
+      },
+      {
+        "id": "APO05.01-A3",
+        "description": "Optimize IT costs while maintaining service quality"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO05.02",
+    "activities": [
+      {
+        "id": "APO05.02-A1",
+        "description": "Establish cost and charging models for IT services"
+      },
+      {
+        "id": "APO05.02-A2",
+        "description": "Allocate IT costs to business units in a transparent manner"
+      },
+      {
+        "id": "APO05.02-A3",
+        "description": "Analyse and optimize the structure of IT costs"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO05.03",
+    "activities": [
+      {
+        "id": "APO05.03-A1",
+        "description": "Establish models to measure and demonstrate the value of IT investments"
+      },
+      {
+        "id": "APO05.03-A2",
+        "description": "Monitor and report the value delivered by IT initiatives"
+      },
+      {
+        "id": "APO05.03-A3",
+        "description": "Optimize the value of IT investments throughout their life cycle"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "APO06.01",
+    "activities": [
+      {
+        "id": "APO06.01-A1",
+        "description": "Identify and document business needs for IT solutions"
+      },
+      {
+        "id": "APO06.01-A2",
+        "description": "Analyse and prioritize needs based on business value"
+      },
+      {
+        "id": "APO06.01-A3",
+        "description": "Validate functional specifications with business stakeholders"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO06.02",
+    "activities": [
+      {
+        "id": "APO06.02-A1",
+        "description": "Select development approaches (buy, build, outsource)"
+      },
+      {
+        "id": "APO06.02-A2",
+        "description": "Manage the solution life cycle from design to deployment"
+      },
+      {
+        "id": "APO06.02-A3",
+        "description": "Ensure solution quality through rigorous testing"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO06.03",
+    "activities": [
+      {
+        "id": "APO06.03-A1",
+        "description": "Plan and manage solution deployment into the production environment"
+      },
+      {
+        "id": "APO06.03-A2",
+        "description": "Train users and provide appropriate documentation"
+      },
+      {
+        "id": "APO06.03-A3",
+        "description": "Provide post-deployment support and measure user satisfaction"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "APO07.01",
+    "activities": [
+      {
+        "id": "APO07.01-A1",
+        "description": "Define IT sourcing strategy (internal, external, cloud, etc.)"
+      },
+      {
+        "id": "APO07.01-A2",
+        "description": "Select suppliers based on objective and verifiable criteria"
+      },
+      {
+        "id": "APO07.01-A3",
+        "description": "Negotiate contracts that protect the organization’s interests"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO07.02",
+    "activities": [
+      {
+        "id": "APO07.02-A1",
+        "description": "Monitor supplier performance against defined SLAs and KPIs"
+      },
+      {
+        "id": "APO07.02-A2",
+        "description": "Manage supplier relationships to optimize value"
+      },
+      {
+        "id": "APO07.02-A3",
+        "description": "Renegotiate contracts based on performance and changing needs"
+      }
+    ]
+  },
+  {
+    "practiceId": "APO07.03",
+    "activities": [
+      {
+        "id": "APO07.03-A1",
+        "description": "Plan supplier exit strategies to minimize impact on operations"
+      },
+      {
+        "id": "APO07.03-A2",
+        "description": "Manage the transition of services to new suppliers or back in-house"
+      },
+      {
+        "id": "APO07.03-A3",
+        "description": "Ensure continuity of services during supplier transitions"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "BAI01.01",
+    "activities": [
+      {
+        "id": "BAI01.01-A1",
+        "description": "Establish a program and project management framework aligned with industry standards"
+      },
+      {
+        "id": "BAI01.01-A2",
+        "description": "Initiate, plan and execute IT programs and projects according to established methodologies"
+      },
+      {
+        "id": "BAI01.01-A3",
+        "description": "Monitor and control project performance and take corrective actions when needed"
+      }
+    ]
+  },
+  {
+    "practiceId": "BAI01.02",
+    "activities": [
+      {
+        "id": "BAI01.02-A1",
+        "description": "Define quality requirements for solutions, data and documentation"
+      },
+      {
+        "id": "BAI01.02-A2",
+        "description": "Implement quality assurance processes throughout the solution life cycle"
+      },
+      {
+        "id": "BAI01.02-A3",
+        "description": "Conduct quality reviews and audits to validate compliance with standards"
+      }
+    ]
+  },
+  {
+    "practiceId": "BAI01.03",
+    "activities": [
+      {
+        "id": "BAI01.03-A1",
+        "description": "Identify and assess risks specific to IT programs and projects"
+      },
+      {
+        "id": "BAI01.03-A2",
+        "description": "Develop and implement project risk mitigation plans"
+      },
+      {
+        "id": "BAI01.03-A3",
+        "description": "Continuously monitor project risks and adjust mitigation strategies"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "BAI02.01",
+    "activities": [
+      {
+        "id": "BAI02.01-A1",
+        "description": "Establish a formal change management process with defined roles and responsibilities"
+      },
+      {
+        "id": "BAI02.01-A2",
+        "description": "Assess the impact, priority and risk of each change request"
+      },
+      {
+        "id": "BAI02.01-A3",
+        "description": "Make approval decisions based on impact analysis and risk management"
+      }
+    ]
+  },
+  {
+    "practiceId": "BAI02.02",
+    "activities": [
+      {
+        "id": "BAI02.02-A1",
+        "description": "Plan the implementation of changes to minimize service disruption"
+      },
+      {
+        "id": "BAI02.02-A2",
+        "description": "Execute changes according to established procedures, including back-out plans"
+      },
+      {
+        "id": "BAI02.02-A3",
+        "description": "Validate successful completion of changes and update relevant documentation"
+      }
+    ]
+  },
+  {
+    "practiceId": "BAI02.03",
+    "activities": [
+      {
+        "id": "BAI02.03-A1",
+        "description": "Maintain an up-to-date configuration management database (CMDB) with all changes"
+      },
+      {
+        "id": "BAI02.03-A2",
+        "description": "Document changes, their impacts and lessons learned"
+      },
+      {
+        "id": "BAI02.03-A3",
+        "description": "Communicate relevant changes to affected stakeholders"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "BAI03.01",
+    "activities": [
+      {
+        "id": "BAI03.01-A1",
+        "description": "Identify knowledge requirements to support IT solutions and processes"
+      },
+      {
+        "id": "BAI03.01-A2",
+        "description": "Develop and maintain knowledge bases, procedures and documentation"
+      },
+      {
+        "id": "BAI03.01-A3",
+        "description": "Share knowledge across the organization to improve collective capabilities"
+      }
+    ]
+  },
+  {
+    "practiceId": "BAI03.02",
+    "activities": [
+      {
+        "id": "BAI03.02-A1",
+        "description": "Identify training needs for users and IT personnel"
+      },
+      {
+        "id": "BAI03.02-A2",
+        "description": "Develop training programs tailored to different roles and skill levels"
+      },
+      {
+        "id": "BAI03.02-A3",
+        "description": "Evaluate training effectiveness and adjust programs accordingly"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "BAI04.01",
+    "activities": [
+      {
+        "id": "BAI04.01-A1",
+        "description": "Plan and organize IT operations to ensure service availability and performance"
+      },
+      {
+        "id": "BAI04.01-A2",
+        "description": "Carry out operational activities according to established procedures and SLAs"
+      },
+      {
+        "id": "BAI04.01-A3",
+        "description": "Monitor operations and take proactive actions to prevent incidents"
+      }
+    ]
+  },
+  {
+    "practiceId": "BAI04.02",
+    "activities": [
+      {
+        "id": "BAI04.02-A1",
+        "description": "Detect, record and classify incidents according to their impact and urgency"
+      },
+      {
+        "id": "BAI04.02-A2",
+        "description": "Investigate and diagnose incident causes to determine appropriate resolutions"
+      },
+      {
+        "id": "BAI04.02-A3",
+        "description": "Resolve incidents, restore services and communicate status to users"
+      }
+    ]
+  },
+  {
+    "practiceId": "BAI04.03",
+    "activities": [
+      {
+        "id": "BAI04.03-A1",
+        "description": "Identify and analyse root causes of recurring or major incidents"
+      },
+      {
+        "id": "BAI04.03-A2",
+        "description": "Develop and implement permanent solutions to eliminate root causes"
+      },
+      {
+        "id": "BAI04.03-A3",
+        "description": "Monitor the effectiveness of solutions and prevent recurrence of problems"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "BAI05.01",
+    "activities": [
+      {
+        "id": "BAI05.01-A1",
+        "description": "Define security requirements for systems, applications and data"
+      },
+      {
+        "id": "BAI05.01-A2",
+        "description": "Design and implement security controls within IT solutions"
+      },
+      {
+        "id": "BAI05.01-A3",
+        "description": "Test and validate solution security before going into production"
+      }
+    ]
+  },
+  {
+    "practiceId": "BAI05.02",
+    "activities": [
+      {
+        "id": "BAI05.02-A1",
+        "description": "Establish processes for identity and access management (IAM)"
+      },
+      {
+        "id": "BAI05.02-A2",
+        "description": "Create, modify and remove user accounts based on the principle of least privilege"
+      },
+      {
+        "id": "BAI05.02-A3",
+        "description": "Regularly audit access rights and privileges to detect anomalies"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "BAI06.01",
+    "activities": [
+      {
+        "id": "BAI06.01-A1",
+        "description": "Define requirements for data quality, integrity and confidentiality"
+      },
+      {
+        "id": "BAI06.01-A2",
+        "description": "Implement controls to ensure data accuracy and consistency"
+      },
+      {
+        "id": "BAI06.01-A3",
+        "description": "Continuously monitor and improve data quality"
+      }
+    ]
+  },
+  {
+    "practiceId": "BAI06.02",
+    "activities": [
+      {
+        "id": "BAI06.02-A1",
+        "description": "Establish backup strategies based on data criticality"
+      },
+      {
+        "id": "BAI06.02-A2",
+        "description": "Perform regular backups and test restore procedures"
+      },
+      {
+        "id": "BAI06.02-A3",
+        "description": "Protect backup media from loss, theft or destruction"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "DSS01.01",
+    "activities": [
+      {
+        "id": "DSS01.01-A1",
+        "description": "Define and document operational services with their expected service levels"
+      },
+      {
+        "id": "DSS01.01-A2",
+        "description": "Deliver operational services according to established procedures and SLAs"
+      },
+      {
+        "id": "DSS01.01-A3",
+        "description": "Monitor service performance and take actions to maintain service levels"
+      }
+    ]
+  },
+  {
+    "practiceId": "DSS01.02",
+    "activities": [
+      {
+        "id": "DSS01.02-A1",
+        "description": "Establish a single point of contact for all service requests"
+      },
+      {
+        "id": "DSS01.02-A2",
+        "description": "Record, classify and prioritize service requests"
+      },
+      {
+        "id": "DSS01.02-A3",
+        "description": "Handle requests according to defined procedures and communicate status to requesters"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "DSS02.01",
+    "activities": [
+      {
+        "id": "DSS02.01-A1",
+        "description": "Detect, record and classify incidents according to their impact on services"
+      },
+      {
+        "id": "DSS02.01-A2",
+        "description": "Investigate and diagnose incidents to determine appropriate resolution actions"
+      },
+      {
+        "id": "DSS02.01-A3",
+        "description": "Restore services as quickly as possible and document the solutions applied"
+      }
+    ]
+  },
+  {
+    "practiceId": "DSS02.02",
+    "activities": [
+      {
+        "id": "DSS02.02-A1",
+        "description": "Analyse incident trends to identify systemic problems"
+      },
+      {
+        "id": "DSS02.02-A2",
+        "description": "Investigate the root causes of recurring or major incidents"
+      },
+      {
+        "id": "DSS02.02-A3",
+        "description": "Implement permanent fixes to eliminate the root causes of problems"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "DSS03.01",
+    "activities": [
+      {
+        "id": "DSS03.01-A1",
+        "description": "Develop and maintain business continuity plans for critical IT services"
+      },
+      {
+        "id": "DSS03.01-A2",
+        "description": "Regularly test continuity plans and update procedures"
+      },
+      {
+        "id": "DSS03.01-A3",
+        "description": "Train personnel on business continuity procedures"
+      }
+    ]
+  },
+  {
+    "practiceId": "DSS03.02",
+    "activities": [
+      {
+        "id": "DSS03.02-A1",
+        "description": "Establish disaster recovery plans for critical systems and data"
+      },
+      {
+        "id": "DSS03.02-A2",
+        "description": "Maintain backup infrastructures and failover procedures"
+      },
+      {
+        "id": "DSS03.02-A3",
+        "description": "Test recovery capabilities and adjust plans based on test results"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "DSS04.01",
+    "activities": [
+      {
+        "id": "DSS04.01-A1",
+        "description": "Implement and maintain security controls to protect information assets"
+      },
+      {
+        "id": "DSS04.01-A2",
+        "description": "Monitor systems to detect suspicious activities or security breaches"
+      },
+      {
+        "id": "DSS04.01-A3",
+        "description": "Respond to security incidents and implement preventive measures"
+      }
+    ]
+  },
+  {
+    "practiceId": "DSS04.02",
+    "activities": [
+      {
+        "id": "DSS04.02-A1",
+        "description": "Manage identities and access in accordance with established security policies"
+      },
+      {
+        "id": "DSS04.02-A2",
+        "description": "Control access to systems and data based on functional needs"
+      },
+      {
+        "id": "DSS04.02-A3",
+        "description": "Audit access activities and detect abnormal behaviour"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "DSS05.01",
+    "activities": [
+      {
+        "id": "DSS05.01-A1",
+        "description": "Identify and document all configuration items (CIs) in a CMDB"
+      },
+      {
+        "id": "DSS05.01-A2",
+        "description": "Control changes to configuration items through the change management process"
+      },
+      {
+        "id": "DSS05.01-A3",
+        "description": "Regularly verify the accuracy of configuration information"
+      }
+    ]
+  },
+  {
+    "practiceId": "DSS05.02",
+    "activities": [
+      {
+        "id": "DSS05.02-A1",
+        "description": "Assess the impact of proposed changes on services and configuration"
+      },
+      {
+        "id": "DSS05.02-A2",
+        "description": "Plan and coordinate the implementation of changes to minimize disruption"
+      },
+      {
+        "id": "DSS05.02-A3",
+        "description": "Validate successful completion of changes and update configuration documentation"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "DSS06.01",
+    "activities": [
+      {
+        "id": "DSS06.01-A1",
+        "description": "Implement controls to ensure data integrity and accuracy"
+      },
+      {
+        "id": "DSS06.01-A2",
+        "description": "Monitor data quality and detect anomalies or errors"
+      },
+      {
+        "id": "DSS06.01-A3",
+        "description": "Correct data errors and implement preventive controls"
+      }
+    ]
+  },
+  {
+    "practiceId": "DSS06.02",
+    "activities": [
+      {
+        "id": "DSS06.02-A1",
+        "description": "Perform regular backups according to frequencies defined by data criticality"
+      },
+      {
+        "id": "DSS06.02-A2",
+        "description": "Periodically test restore procedures to ensure their effectiveness"
+      },
+      {
+        "id": "DSS06.02-A3",
+        "description": "Keep backup media in secure and appropriate conditions"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "MEA01.01",
+    "activities": [
+      {
+        "id": "MEA01.01-A1",
+        "description": "Define and implement a performance measurement framework for IT services and processes"
+      },
+      {
+        "id": "MEA01.01-A2",
+        "description": "Collect and analyse performance data against objectives and SLAs"
+      },
+      {
+        "id": "MEA01.01-A3",
+        "description": "Report performance to stakeholders and identify trends"
+      }
+    ]
+  },
+  {
+    "practiceId": "MEA01.02",
+    "activities": [
+      {
+        "id": "MEA01.02-A1",
+        "description": "Establish measurable performance objectives for IT services and processes"
+      },
+      {
+        "id": "MEA01.02-A2",
+        "description": "Compare actual performance to objectives and analyse variances"
+      },
+      {
+        "id": "MEA01.02-A3",
+        "description": "Take actions to improve performance and achieve objectives"
+      }
+    ]
+  },
+  {
+    "practiceId": "MEA01.03",
+    "activities": [
+      {
+        "id": "MEA01.03-A1",
+        "description": "Establish continuous improvement processes based on performance measurements"
+      },
+      {
+        "id": "MEA01.03-A2",
+        "description": "Identify improvement opportunities through performance data analysis"
+      },
+      {
+        "id": "MEA01.03-A3",
+        "description": "Implement improvements and measure their impact on performance"
+      }
+    ]
+  },
+
+  {
+    "practiceId": "MEA02.01",
+    "activities": [
+      {
+        "id": "MEA02.01-A1",
+        "description": "Establish and maintain an internal control system for IT processes"
+      },
+      {
+        "id": "MEA02.01-A2",
+        "description": "Regularly assess the effectiveness of internal controls"
+      },
+      {
+        "id": "MEA02.01-A3",
+        "description": "Document control deficiencies and implement corrective actions"
+      }
+    ]
+  },
+  {
+    "practiceId": "MEA02.02",
+    "activities": [
+      {
+        "id": "MEA02.02-A1",
+        "description": "Plan and perform independent internal audits of IT processes"
+      },
+      {
+        "id": "MEA02.02-A2",
+        "description": "Assess compliance with policies, standards and regulations"
+      },
+      {
+        "id": "MEA02.02-A3",
+        "description": "Report audit results and ensure follow-up of recommendations"
+      }
+    ]
+  },
+  {
+    "practiceId": "MEA02.03",
+    "activities": [
+      {
+        "id": "MEA02.03-A1",
+        "description": "Identify applicable legal, regulatory and contractual requirements"
+      },
+      {
+        "id": "MEA02.03-A2",
+        "description": "Assess the organization’s compliance with the identified requirements"
+      },
+      {
+        "id": "MEA02.03-A3",
+        "description": "Take corrective actions to address compliance gaps"
+      }
+    ]
+  }
+]

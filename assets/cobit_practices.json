@@ -1,0 +1,880 @@
+[
+  {
+    "id": "EDM01",
+    "name": "Ensure governance framework setting and maintenance",
+    "name_en": "Ensured Governance Framework Setting and Maintenance",
+    "purpose": "Analyze and articulate enterprise governance requirements and establish effective structures, principles, processes and practices.",
+    "management_practices": [
+      {
+        "id": "EDM01.01",
+        "name": "Evaluate the governance system",
+        "description": "Continuously evaluate the current and future governance system, including stakeholder needs."
+      },
+      {
+        "id": "EDM01.02",
+        "name": "Direct the governance system",
+        "description": "Guide the definition of governance principles, structures and practices, and arbitrate key decisions."
+      },
+      {
+        "id": "EDM01.03",
+        "name": "Monitor the governance system",
+        "description": "Monitor the implementation, effectiveness and compliance of the governance system."
+      }
+    ]
+  },
+  {
+    "id": "EDM02",
+    "name": "Ensure benefits delivery",
+    "name_en": "Ensured Benefits Delivery",
+    "purpose": "Optimize the contribution to enterprise objectives from investments in business processes, I&T services and I&T assets.",
+    "management_practices": [
+      {
+        "id": "EDM02.01",
+        "name": "Evaluate value optimization",
+        "description": "Continuously review the portfolio of I&T investments and services to assess their value contribution."
+      },
+      {
+        "id": "EDM02.02",
+        "name": "Direct value optimization",
+        "description": "Guide decisions on investment, prioritization and divestment to maximize created value."
+      },
+      {
+        "id": "EDM02.03",
+        "name": "Monitor value optimization",
+        "description": "Monitor the realization of benefits, costs, risks and performance associated with I&T investments."
+      }
+    ]
+  },
+  {
+    "id": "EDM03",
+    "name": "Ensure risk optimization",
+    "name_en": "Ensured Risk Optimization",
+    "purpose": "Ensure that the enterprise risk appetite and tolerance are understood, articulated and communicated, and that I&T-related risks are identified and managed.",
+    "management_practices": [
+      {
+        "id": "EDM03.01",
+        "name": "Evaluate risk management",
+        "description": "Continuously assess and judge the impact of risks related to the current and future use of I&T."
+      },
+      {
+        "id": "EDM03.02",
+        "name": "Direct risk management",
+        "description": "Define and direct risk management practices, including risk appetite and tolerance."
+      },
+      {
+        "id": "EDM03.03",
+        "name": "Monitor risk management",
+        "description": "Monitor the effectiveness of risk management measures and treatment plans."
+      }
+    ]
+  },
+  {
+    "id": "EDM04",
+    "name": "Ensure resource optimization",
+    "name_en": "Ensured Resource Optimization",
+    "purpose": "Ensure that adequate and sufficient I&T capabilities and resources are available to support enterprise objectives efficiently and cost-effectively.",
+    "management_practices": [
+      {
+        "id": "EDM04.01",
+        "name": "Evaluate resource management",
+        "description": "Review the current and future use of I&T resources (people, applications, infrastructure, data)."
+      },
+      {
+        "id": "EDM04.02",
+        "name": "Direct resource management",
+        "description": "Guide decisions on allocation, prioritization and sourcing of I&T resources."
+      },
+      {
+        "id": "EDM04.03",
+        "name": "Monitor resource management",
+        "description": "Monitor objectives, capacity and performance of critical I&T resources."
+      }
+    ]
+  },
+  {
+    "id": "EDM05",
+    "name": "Ensure stakeholder engagement",
+    "name_en": "Ensured Stakeholder Engagement",
+    "purpose": "Ensure effective stakeholder engagement and appropriate reporting on I&T performance, risks and costs.",
+    "management_practices": [
+      {
+        "id": "EDM05.01",
+        "name": "Evaluate stakeholder engagement",
+        "description": "Continuously assess the effectiveness of communications, reporting and interactions with stakeholders."
+      },
+      {
+        "id": "EDM05.02",
+        "name": "Direct engagement and communication",
+        "description": "Define and direct approaches for stakeholder communication, consultation and reporting."
+      },
+      {
+        "id": "EDM05.03",
+        "name": "Monitor stakeholder engagement",
+        "description": "Monitor stakeholder satisfaction, needs and feedback and adjust engagement mechanisms accordingly."
+      }
+    ]
+  },
+
+  {
+    "id": "APO01",
+    "name": "Manage the I&T management framework",
+    "name_en": "Managed I&T Management Framework",
+    "purpose": "Provide an integrated and consistent I&T management framework aligned with enterprise objectives.",
+    "management_practices": [
+      {
+        "id": "APO01.01",
+        "name": "Establish the I&T management framework",
+        "description": "Define I&T management principles, policies, processes and structures aligned with enterprise governance."
+      },
+      {
+        "id": "APO01.02",
+        "name": "Implement and communicate the framework",
+        "description": "Deploy the I&T management framework, communicate it to stakeholders and support its adoption."
+      },
+      {
+        "id": "APO01.03",
+        "name": "Monitor and improve the framework",
+        "description": "Periodically review framework effectiveness and incorporate lessons learned and environmental changes."
+      }
+    ]
+  },
+  {
+    "id": "APO02",
+    "name": "Manage strategy",
+    "name_en": "Managed Strategy",
+    "purpose": "Define, maintain and communicate an I&T strategy aligned with business strategy and priorities.",
+    "management_practices": [
+      {
+        "id": "APO02.01",
+        "name": "Analyze the environment and needs",
+        "description": "Analyze business strategy and the internal and external environment to identify key I&T drivers."
+      },
+      {
+        "id": "APO02.02",
+        "name": "Define the I&T strategy",
+        "description": "Formulate the I&T strategy, target trajectory and major medium- and long-term directions."
+      },
+      {
+        "id": "APO02.03",
+        "name": "Communicate and track the strategy",
+        "description": "Communicate the I&T strategy, monitor its execution and adjust based on feedback and changes."
+      }
+    ]
+  },
+  {
+    "id": "APO03",
+    "name": "Manage enterprise architecture",
+    "name_en": "Managed Enterprise Architecture",
+    "purpose": "Provide and maintain an integrated enterprise architecture covering processes, data, applications and technologies.",
+    "management_practices": [
+      {
+        "id": "APO03.01",
+        "name": "Define the target architecture",
+        "description": "Define the target architecture vision covering business processes, information, applications and technologies."
+      },
+      {
+        "id": "APO03.02",
+        "name": "Manage architecture principles and standards",
+        "description": "Develop and maintain architecture principles, norms and standards and control their application."
+      },
+      {
+        "id": "APO03.03",
+        "name": "Govern architecture decisions",
+        "description": "Establish committees and mechanisms to validate architecture decisions in projects and investments."
+      }
+    ]
+  },
+  {
+    "id": "APO04",
+    "name": "Manage innovation",
+    "name_en": "Managed Innovation",
+    "purpose": "Identify, evaluate and integrate new value-creating I&T ideas and technologies.",
+    "management_practices": [
+      {
+        "id": "APO04.01",
+        "name": "Identify innovation opportunities",
+        "description": "Scan the internal and external environment to identify relevant innovative ideas and technologies."
+      },
+      {
+        "id": "APO04.02",
+        "name": "Assess and experiment",
+        "description": "Analyze the feasibility, risks and benefits of innovations and carry out pilots or proofs of concept."
+      },
+      {
+        "id": "APO04.03",
+        "name": "Industrialize and capitalize",
+        "description": "Integrate adopted innovations into the portfolio and operations and capture lessons learned."
+      }
+    ]
+  },
+  {
+    "id": "APO05",
+    "name": "Manage the I&T portfolio",
+    "name_en": "Managed Portfolio",
+    "purpose": "Optimize the portfolio of I&T programs, projects, services and assets to maximize value.",
+    "management_practices": [
+      {
+        "id": "APO05.01",
+        "name": "Build and maintain the portfolio",
+        "description": "Identify and structure all I&T projects, programs and services within a single portfolio."
+      },
+      {
+        "id": "APO05.02",
+        "name": "Prioritize and arbitrate",
+        "description": "Define prioritization criteria and arbitrate investments, divestments and postponements."
+      },
+      {
+        "id": "APO05.03",
+        "name": "Monitor portfolio performance",
+        "description": "Monitor progress, risks, costs and benefits at the overall portfolio level."
+      }
+    ]
+  },
+  {
+    "id": "APO06",
+    "name": "Manage budget and costs",
+    "name_en": "Managed Budget and Costs",
+    "purpose": "Plan, allocate and control I&T budgets and costs in line with business priorities.",
+    "management_practices": [
+      {
+        "id": "APO06.01",
+        "name": "Plan I&T budgets",
+        "description": "Establish multi-year and annual I&T budgets aligned with strategy and business demand."
+      },
+      {
+        "id": "APO06.02",
+        "name": "Track costs and variances",
+        "description": "Measure expenditures by service, project and unit, analyze budget versus actual variances and trigger actions."
+      },
+      {
+        "id": "APO06.03",
+        "name": "Optimize costs",
+        "description": "Identify I&T cost optimization opportunities and manage cost-reduction or rationalization plans."
+      }
+    ]
+  },
+  {
+    "id": "APO07",
+    "name": "Manage I&T human resources",
+    "name_en": "Managed Human Resources",
+    "purpose": "Ensure the availability of suitable, motivated and well-organized I&T skills to deliver value.",
+    "management_practices": [
+      {
+        "id": "APO07.01",
+        "name": "Plan capabilities",
+        "description": "Identify required I&T skills and develop training and recruitment plans."
+      },
+      {
+        "id": "APO07.02",
+        "name": "Organize roles and responsibilities",
+        "description": "Define job descriptions, responsibilities and organizational models for I&T teams."
+      },
+      {
+        "id": "APO07.03",
+        "name": "Develop and retain talent",
+        "description": "Implement training, certification, career management and motivation initiatives."
+      }
+    ]
+  },
+  {
+    "id": "APO08",
+    "name": "Manage relationships with business",
+    "name_en": "Managed Relationships",
+    "purpose": "Ensure effective and continuous collaboration between I&T and the business.",
+    "management_practices": [
+      {
+        "id": "APO08.01",
+        "name": "Organize the I&T–business interface",
+        "description": "Establish liaison roles (BRM, business representatives) and regular forums for dialogue."
+      },
+      {
+        "id": "APO08.02",
+        "name": "Manage demand",
+        "description": "Collect, analyze and prioritize business demand and feed it into the portfolio."
+      },
+      {
+        "id": "APO08.03",
+        "name": "Measure satisfaction",
+        "description": "Regularly assess business satisfaction with I&T services and projects."
+      }
+    ]
+  },
+  {
+    "id": "APO09",
+    "name": "Manage service agreements",
+    "name_en": "Managed Service Agreements",
+    "purpose": "Define, negotiate and manage I&T service level commitments.",
+    "management_practices": [
+      {
+        "id": "APO09.01",
+        "name": "Define the service catalog",
+        "description": "Identify and describe I&T services delivered to the business and their key characteristics."
+      },
+      {
+        "id": "APO09.02",
+        "name": "Negotiate SLAs",
+        "description": "Define and negotiate service levels (SLAs/OLAs) with the business and internal providers."
+      },
+      {
+        "id": "APO09.03",
+        "name": "Monitor service performance",
+        "description": "Measure service performance against commitments, analyze deviations and drive improvements."
+      }
+    ]
+  },
+  {
+    "id": "APO10",
+    "name": "Manage vendors",
+    "name_en": "Managed Vendors",
+    "purpose": "Manage the life cycle of I&T vendors and contracts to optimize value, risk and performance.",
+    "management_practices": [
+      {
+        "id": "APO10.01",
+        "name": "Segment and select vendors",
+        "description": "Segment vendors, define selection criteria and conduct sourcing and tender processes."
+      },
+      {
+        "id": "APO10.02",
+        "name": "Manage contracts",
+        "description": "Formalize contracts including service, security and compliance commitments and manage their follow-up."
+      },
+      {
+        "id": "APO10.03",
+        "name": "Monitor vendor performance",
+        "description": "Measure key vendor performance, conduct reviews and manage improvement plans."
+      }
+    ]
+  },
+  {
+    "id": "APO11",
+    "name": "Manage quality",
+    "name_en": "Managed Quality",
+    "purpose": "Ensure the quality of I&T services, projects and deliverables.",
+    "management_practices": [
+      {
+        "id": "APO11.01",
+        "name": "Define the I&T quality framework",
+        "description": "Establish a quality policy, standards, methods and responsibilities for I&T quality."
+      },
+      {
+        "id": "APO11.02",
+        "name": "Implement quality controls",
+        "description": "Apply quality controls to projects, developments, configurations and services."
+      },
+      {
+        "id": "APO11.03",
+        "name": "Monitor and improve quality",
+        "description": "Collect quality data, analyze defects and manage continuous improvement plans."
+      }
+    ]
+  },
+  {
+    "id": "APO12",
+    "name": "Manage I&T risk",
+    "name_en": "Managed Risk",
+    "purpose": "Identify, analyze, treat and monitor I&T-related risks.",
+    "management_practices": [
+      {
+        "id": "APO12.01",
+        "name": "Identify and analyze risks",
+        "description": "Identify I&T risks, assess their causes, impacts and likelihood, and document them."
+      },
+      {
+        "id": "APO12.02",
+        "name": "Define and implement treatments",
+        "description": "Select risk responses (mitigate, transfer, accept, avoid) and implement the corresponding actions."
+      },
+      {
+        "id": "APO12.03",
+        "name": "Monitor risks",
+        "description": "Monitor the evolution of the risk profile and treatment effectiveness and report to governance bodies."
+      }
+    ]
+  },
+  {
+    "id": "APO13",
+    "name": "Manage information security",
+    "name_en": "Managed Security",
+    "purpose": "Protect information and I&T services in line with confidentiality, integrity and availability requirements.",
+    "management_practices": [
+      {
+        "id": "APO13.01",
+        "name": "Define the security framework",
+        "description": "Establish a security policy, roles, standards and procedures consistent with risks and obligations."
+      },
+      {
+        "id": "APO13.02",
+        "name": "Implement security controls",
+        "description": "Deploy organizational and technical controls (access management, logging, data protection, etc.)."
+      },
+      {
+        "id": "APO13.03",
+        "name": "Monitor and improve security",
+        "description": "Monitor security incidents, vulnerabilities and control effectiveness and manage remediation plans."
+      }
+    ]
+  },
+
+  {
+    "id": "BAI01",
+    "name": "Manage programs and projects",
+    "name_en": "Managed Programs and Projects",
+    "purpose": "Plan and execute I&T programs and projects while meeting objectives, timelines, costs and quality.",
+    "management_practices": [
+      {
+        "id": "BAI01.01",
+        "name": "Initiate and scope projects",
+        "description": "Define project objectives, scope, stakeholders, risks and business case."
+      },
+      {
+        "id": "BAI01.02",
+        "name": "Control project execution",
+        "description": "Plan, track and control project progress, costs, risks and quality."
+      },
+      {
+        "id": "BAI01.03",
+        "name": "Close and learn",
+        "description": "Formally close projects, measure objective achievement and capture lessons learned."
+      }
+    ]
+  },
+  {
+    "id": "BAI02",
+    "name": "Manage requirements definition",
+    "name_en": "Managed Requirements Definition",
+    "purpose": "Collect, analyze, validate and maintain business and I&T requirements.",
+    "management_practices": [
+      {
+        "id": "BAI02.01",
+        "name": "Collect requirements",
+        "description": "Identify stakeholder needs and formalize them as requirements."
+      },
+      {
+        "id": "BAI02.02",
+        "name": "Analyze and validate",
+        "description": "Validate the coherence, feasibility and prioritization of requirements with the business."
+      },
+      {
+        "id": "BAI02.03",
+        "name": "Manage traceability",
+        "description": "Ensure end-to-end traceability of requirements through design, testing and deployment."
+      }
+    ]
+  },
+  {
+    "id": "BAI03",
+    "name": "Manage solutions identification and build",
+    "name_en": "Managed Solutions Identification and Build",
+    "purpose": "Design, build or acquire I&T solutions that meet the defined requirements.",
+    "management_practices": [
+      {
+        "id": "BAI03.01",
+        "name": "Design the solution",
+        "description": "Define the functional and technical architecture of the solution, including security and compliance."
+      },
+      {
+        "id": "BAI03.02",
+        "name": "Build or configure",
+        "description": "Develop, parameterize or configure the solution according to quality and security standards."
+      },
+      {
+        "id": "BAI03.03",
+        "name": "Test the solution",
+        "description": "Plan and execute unit, integration, performance, security and user acceptance tests and fix defects."
+      }
+    ]
+  },
+  {
+    "id": "BAI04",
+    "name": "Manage availability and capacity",
+    "name_en": "Managed Availability and Capacity",
+    "purpose": "Ensure that I&T services achieve the required levels of availability and capacity.",
+    "management_practices": [
+      {
+        "id": "BAI04.01",
+        "name": "Plan capacity",
+        "description": "Analyze current and projected demand to define capacity and performance objectives."
+      },
+      {
+        "id": "BAI04.02",
+        "name": "Manage availability",
+        "description": "Implement mechanisms required to ensure the availability of critical services."
+      },
+      {
+        "id": "BAI04.03",
+        "name": "Monitor and optimize",
+        "description": "Monitor usage and performance, anticipate saturation and optimize resources."
+      }
+    ]
+  },
+  {
+    "id": "BAI05",
+    "name": "Manage organizational change",
+    "name_en": "Managed Organizational Change",
+    "purpose": "Support stakeholders in adopting the changes induced by I&T solutions.",
+    "management_practices": [
+      {
+        "id": "BAI05.01",
+        "name": "Analyze business impacts",
+        "description": "Identify project impacts on processes, roles, skills and organizational culture."
+      },
+      {
+        "id": "BAI05.02",
+        "name": "Plan change management",
+        "description": "Define communication, training and user support plans."
+      },
+      {
+        "id": "BAI05.03",
+        "name": "Measure adoption",
+        "description": "Assess the adoption of new solutions and processes and adjust support actions if needed."
+      }
+    ]
+  },
+  {
+    "id": "BAI06",
+    "name": "Manage I&T changes",
+    "name_en": "Managed IT Changes",
+    "purpose": "Control the life cycle of changes made to services, applications and infrastructure.",
+    "management_practices": [
+      {
+        "id": "BAI06.01",
+        "name": "Record and assess changes",
+        "description": "Record change requests and analyze their risks, impacts and priorities."
+      },
+      {
+        "id": "BAI06.02",
+        "name": "Authorize and plan",
+        "description": "Submit significant changes to a CAB, decide on approvals and plan deployments."
+      },
+      {
+        "id": "BAI06.03",
+        "name": "Track and close",
+        "description": "Control change execution, analyze failures and update documentation and the CMDB."
+      }
+    ]
+  },
+  {
+    "id": "BAI07",
+    "name": "Manage change acceptance and transitioning",
+    "name_en": "Managed Change Acceptance and Transitioning",
+    "purpose": "Ensure that solutions are properly deployed and accepted in production.",
+    "management_practices": [
+      {
+        "id": "BAI07.01",
+        "name": "Plan go-live",
+        "description": "Prepare deliverables and deployment, communication, cutover and rollback plans."
+      },
+      {
+        "id": "BAI07.02",
+        "name": "Execute the transition",
+        "description": "Execute deployment, data migration and cutover activities to the target solution."
+      },
+      {
+        "id": "BAI07.03",
+        "name": "Stabilize post-production",
+        "description": "Monitor the solution after go-live, handle incidents and confirm stability."
+      }
+    ]
+  },
+  {
+    "id": "BAI08",
+    "name": "Manage knowledge",
+    "name_en": "Managed Knowledge",
+    "purpose": "Create, maintain and share knowledge required for I&T management.",
+    "management_practices": [
+      {
+        "id": "BAI08.01",
+        "name": "Identify critical knowledge",
+        "description": "Identify key knowledge and information to retain and share (procedures, solutions, templates)."
+      },
+      {
+        "id": "BAI08.02",
+        "name": "Manage the knowledge repository",
+        "description": "Structure, store and maintain an accessible and up-to-date knowledge base."
+      },
+      {
+        "id": "BAI08.03",
+        "name": "Encourage use and enrichment",
+        "description": "Promote use of the knowledge base and regular contribution by I&T teams."
+      }
+    ]
+  },
+  {
+    "id": "BAI09",
+    "name": "Manage assets",
+    "name_en": "Managed Assets",
+    "purpose": "Manage the life cycle of I&T assets to optimize their value, cost and risk.",
+    "management_practices": [
+      {
+        "id": "BAI09.01",
+        "name": "Inventory assets",
+        "description": "Identify and record hardware, software, license and data assets with their key attributes."
+      },
+      {
+        "id": "BAI09.02",
+        "name": "Manage the life cycle",
+        "description": "Plan acquisition, operation, maintenance and retirement of I&T assets."
+      },
+      {
+        "id": "BAI09.03",
+        "name": "Monitor usage and risks",
+        "description": "Control usage, compliance (e.g., licenses) and risks associated with assets."
+      }
+    ]
+  },
+  {
+    "id": "BAI10",
+    "name": "Manage configuration",
+    "name_en": "Managed Configuration",
+    "purpose": "Maintain reliable, up-to-date information about I&T configuration items.",
+    "management_practices": [
+      {
+        "id": "BAI10.01",
+        "name": "Define the configuration data model",
+        "description": "Define the CMDB structure, configuration item types and their relationships."
+      },
+      {
+        "id": "BAI10.02",
+        "name": "Maintain the CMDB",
+        "description": "Record and update configuration items and their changes."
+      },
+      {
+        "id": "BAI10.03",
+        "name": "Use configuration data",
+        "description": "Use the CMDB to analyze the impact of incidents, problems and changes."
+      }
+    ]
+  },
+  {
+    "id": "BAI11",
+    "name": "Manage projects",
+    "name_en": "Managed Projects",
+    "purpose": "Apply consistent project management practices across all I&T projects.",
+    "management_practices": [
+      {
+        "id": "BAI11.01",
+        "name": "Standardize project management",
+        "description": "Define a methodology, templates and roles for I&T project management."
+      },
+      {
+        "id": "BAI11.02",
+        "name": "Monitor project performance",
+        "description": "Measure progress, costs, risks and quality and decide on corrective actions."
+      },
+      {
+        "id": "BAI11.03",
+        "name": "Improve project practices",
+        "description": "Capture lessons learned and update project management standards."
+      }
+    ]
+  },
+
+  {
+    "id": "DSS01",
+    "name": "Manage operations",
+    "name_en": "Managed Operations",
+    "purpose": "Ensure the effective and secure day-to-day operation of I&T services.",
+    "management_practices": [
+      {
+        "id": "DSS01.01",
+        "name": "Plan and schedule operations",
+        "description": "Define recurring activities (jobs, backups, checks) and schedule them."
+      },
+      {
+        "id": "DSS01.02",
+        "name": "Execute and monitor",
+        "description": "Perform operations, monitor execution and handle operational incidents."
+      },
+      {
+        "id": "DSS01.03",
+        "name": "Improve operations",
+        "description": "Analyze incidents and deviations, automate and optimize operational tasks."
+      }
+    ]
+  },
+  {
+    "id": "DSS02",
+    "name": "Manage service requests and incidents",
+    "name_en": "Managed Service Requests and Incidents",
+    "purpose": "Log, prioritize and efficiently resolve user service requests and incidents.",
+    "management_practices": [
+      {
+        "id": "DSS02.01",
+        "name": "Log and classify",
+        "description": "Receive tickets and log, categorize and prioritize them based on common rules."
+      },
+      {
+        "id": "DSS02.02",
+        "name": "Handle and escalate",
+        "description": "Resolve tickets at the appropriate support level or escalate them according to procedures."
+      },
+      {
+        "id": "DSS02.03",
+        "name": "Close and communicate",
+        "description": "Close tickets after verifying resolution and inform users."
+      }
+    ]
+  },
+  {
+    "id": "DSS03",
+    "name": "Manage problems",
+    "name_en": "Managed Problems",
+    "purpose": "Identify and address root causes of recurring incidents to prevent their reoccurrence.",
+    "management_practices": [
+      {
+        "id": "DSS03.01",
+        "name": "Identify and log problems",
+        "description": "Analyze recurring incidents to detect underlying problems and log them."
+      },
+      {
+        "id": "DSS03.02",
+        "name": "Analyze root causes",
+        "description": "Conduct detailed analyses to identify technical and organizational root causes."
+      },
+      {
+        "id": "DSS03.03",
+        "name": "Implement permanent fixes or workarounds",
+        "description": "Define and implement corrective and preventive actions and update the knowledge base."
+      }
+    ]
+  },
+  {
+    "id": "DSS04",
+    "name": "Manage continuity",
+    "name_en": "Managed Continuity",
+    "purpose": "Ensure continuity and recovery of I&T services in the event of a major incident.",
+    "management_practices": [
+      {
+        "id": "DSS04.01",
+        "name": "Define continuity requirements",
+        "description": "Identify critical services and define RTO/RPO and disaster scenarios with the business."
+      },
+      {
+        "id": "DSS04.02",
+        "name": "Implement continuity arrangements",
+        "description": "Design and deploy technical and organizational solutions for continuity and recovery."
+      },
+      {
+        "id": "DSS04.03",
+        "name": "Test and maintain plans",
+        "description": "Regularly test continuity and disaster recovery plans and update them after changes or incidents."
+      }
+    ]
+  },
+  {
+    "id": "DSS05",
+    "name": "Manage security services",
+    "name_en": "Managed Security Services",
+    "purpose": "Protect I&T services against security threats and manage security incidents.",
+    "management_practices": [
+      {
+        "id": "DSS05.01",
+        "name": "Monitor security",
+        "description": "Set up collection and analysis of security logs and alerts."
+      },
+      {
+        "id": "DSS05.02",
+        "name": "Manage security incidents",
+        "description": "Detect, analyze, contain and handle security incidents and communicate appropriately."
+      },
+      {
+        "id": "DSS05.03",
+        "name": "Strengthen security posture",
+        "description": "Analyze trends, remediate vulnerabilities and improve security controls."
+      }
+    ]
+  },
+  {
+    "id": "DSS06",
+    "name": "Manage business process controls",
+    "name_en": "Managed Business Process Controls",
+    "purpose": "Ensure the effectiveness of automated and manual controls in business processes supported by I&T.",
+    "management_practices": [
+      {
+        "id": "DSS06.01",
+        "name": "Identify key controls",
+        "description": "Identify key controls in business processes supported by information systems."
+      },
+      {
+        "id": "DSS06.02",
+        "name": "Implement and document controls",
+        "description": "Design, configure and document automated and manual controls."
+      },
+      {
+        "id": "DSS06.03",
+        "name": "Test and improve controls",
+        "description": "Periodically test control effectiveness and implement improvements when needed."
+      }
+    ]
+  },
+
+  {
+    "id": "MEA01",
+    "name": "Monitor, evaluate and assess performance and conformance",
+    "name_en": "Managed Performance and Conformance Monitoring",
+    "purpose": "Ensure regular monitoring of I&T performance and conformance with internal policies and obligations.",
+    "management_practices": [
+      {
+        "id": "MEA01.01",
+        "name": "Define indicators and reports",
+        "description": "Establish an I&T dashboard aligned with business and governance objectives."
+      },
+      {
+        "id": "MEA01.02",
+        "name": "Collect and analyze results",
+        "description": "Measure performance and conformance and analyze trends and significant deviations."
+      },
+      {
+        "id": "MEA01.03",
+        "name": "Report and trigger actions",
+        "description": "Publish reports to stakeholders and drive action plans when deviations occur."
+      }
+    ]
+  },
+  {
+    "id": "MEA02",
+    "name": "Monitor, evaluate and assess the system of internal control",
+    "name_en": "Managed System of Internal Control",
+    "purpose": "Regularly evaluate the design and effectiveness of the I&T internal control system.",
+    "management_practices": [
+      {
+        "id": "MEA02.01",
+        "name": "Define the internal control framework",
+        "description": "Document principles, responsibilities and reference frameworks for I&T internal control."
+      },
+      {
+        "id": "MEA02.02",
+        "name": "Evaluate controls",
+        "description": "Perform control reviews and tests to assess their design and operating effectiveness."
+      },
+      {
+        "id": "MEA02.03",
+        "name": "Track remediation plans",
+        "description": "Record control weaknesses, define corrective actions and track their implementation."
+      }
+    ]
+  },
+  {
+    "id": "MEA03",
+    "name": "Monitor, evaluate and assess compliance with external requirements",
+    "name_en": "Managed Compliance with External Requirements",
+    "purpose": "Ensure compliance with external requirements applicable to I&T (regulatory, contractual, standards).",
+    "management_practices": [
+      {
+        "id": "MEA03.01",
+        "name": "Identify external requirements",
+        "description": "Identify laws, regulations, standards and contractual clauses applicable to I&T."
+      },
+      {
+        "id": "MEA03.02",
+        "name": "Assess compliance",
+        "description": "Perform compliance reviews or audits to detect non-compliance."
+      },
+      {
+        "id": "MEA03.03",
+        "name": "Address non-compliance",
+        "description": "Implement corrective and preventive actions and track progress until resolution."
+      }
+    ]
+  }
+]

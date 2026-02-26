@@ -1,0 +1,5038 @@
+[
+  {
+    "questionId": "APO01-Q1",
+    "items": [
+      {
+        "id": "APO01_Q1_I1",
+        "text": "A comprehensive IT management framework (policies, processes, structures) is formally documented in writing."
+      },
+      {
+        "id": "APO01_Q1_I2",
+        "text": "The IT management framework covers the main dimensions: strategy, risks, security, projects, operations."
+      },
+      {
+        "id": "APO01_Q1_I3",
+        "text": "The IT management framework is known and used by key IT managers."
+      }
+    ]
+  },
+  {
+    "questionId": "APO01-Q2",
+    "items": [
+      {
+        "id": "APO01_Q2_I1",
+        "text": "IT policies are formally approved by management (executive committee, IT committee, etc.)."
+      },
+      {
+        "id": "APO01_Q2_I2",
+        "text": "IT policies are communicated to teams through structured channels (intranet, email, training)."
+      },
+      {
+        "id": "APO01_Q2_I3",
+        "text": "Employees can easily access up-to-date IT policies (document repository, portal)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO01-Q3",
+    "items": [
+      {
+        "id": "APO01_Q3_I1",
+        "text": "Key IT processes are described (diagrams, process sheets, procedures)."
+      },
+      {
+        "id": "APO01_Q3_I2",
+        "text": "Process descriptions are kept up to date in case of significant changes."
+      },
+      {
+        "id": "APO01_Q3_I3",
+        "text": "Teams know the processes to follow for their activities (support, projects, changes, etc.)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO01-Q4",
+    "items": [
+      {
+        "id": "APO01_Q4_I1",
+        "text": "Performance indicators are defined for the IT management system (e.g., compliance, timeline, quality)."
+      },
+      {
+        "id": "APO01_Q4_I2",
+        "text": "Indicators are monitored regularly and are the subject of reports."
+      },
+      {
+        "id": "APO01_Q4_I3",
+        "text": "Indicator results lead to decisions or improvement actions for the IT management system."
+      }
+    ]
+  },
+  {
+    "questionId": "APO01-Q5",
+    "items": [
+      {
+        "id": "APO01_Q5_I1",
+        "text": "Key IT management roles (CIO, domain managers, etc.) are formalized in role or job descriptions."
+      },
+      {
+        "id": "APO01_Q5_I2",
+        "text": "Decision-making and escalation responsibilities are clearly defined for each IT role."
+      },
+      {
+        "id": "APO01_Q5_I3",
+        "text": "Relevant stakeholders are informed of their responsibilities and actually assume them."
+      }
+    ]
+  },
+  {
+    "questionId": "APO01-Q6",
+    "items": [
+      {
+        "id": "APO01_Q6_I1",
+        "text": "The IT management system explicitly references recognized frameworks (COBIT, ITIL, ISO, etc.)."
+      },
+      {
+        "id": "APO01_Q6_I2",
+        "text": "Internal IT practices are periodically compared to best practices from these frameworks."
+      },
+      {
+        "id": "APO01_Q6_I3",
+        "text": "Some IT processes have been designed or adjusted based on these frameworks."
+      }
+    ]
+  },
+  {
+    "questionId": "APO01-Q7",
+    "items": [
+      {
+        "id": "APO01_Q7_I1",
+        "text": "Formal reviews of the IT management system are planned (at least annually)."
+      },
+      {
+        "id": "APO01_Q7_I2",
+        "text": "IT management system review reports are documented and distributed to stakeholders."
+      },
+      {
+        "id": "APO01_Q7_I3",
+        "text": "Review conclusions are integrated into IT improvement plans."
+      }
+    ]
+  },
+  {
+    "questionId": "APO01-Q8",
+    "items": [
+      {
+        "id": "APO01_Q8_I1",
+        "text": "Gaps identified during IT management system reviews are recorded with their root causes."
+      },
+      {
+        "id": "APO01_Q8_I2",
+        "text": "Action plans are defined, with owners and deadlines, to correct these gaps."
+      },
+      {
+        "id": "APO01_Q8_I3",
+        "text": "Action plan monitoring is ensured and gaps are reclassified once addressed."
+      }
+    ]
+  },
+  {
+    "questionId": "APO02-Q1",
+    "items": [
+      {
+        "id": "APO02_Q1_I1",
+        "text": "A formal IT strategy document (or equivalent) exists and covers a multi-year horizon."
+      },
+      {
+        "id": "APO02_Q1_I2",
+        "text": "Senior management or the executive committee has validated the IT strategy."
+      },
+      {
+        "id": "APO02_Q1_I3",
+        "text": "The IT strategy defines clear and measurable objectives for the organization."
+      }
+    ]
+  },
+  {
+    "questionId": "APO02-Q2",
+    "items": [
+      {
+        "id": "APO02_Q2_I1",
+        "text": "IT strategy objectives are explicitly aligned with business strategic objectives."
+      },
+      {
+        "id": "APO02_Q2_I2",
+        "text": "Business stakeholders participated in the development or validation of the IT strategy."
+      },
+      {
+        "id": "APO02_Q2_I3",
+        "text": "Major IT projects and initiatives are directly linked to business objectives."
+      }
+    ]
+  },
+  {
+    "questionId": "APO02-Q3",
+    "items": [
+      {
+        "id": "APO02_Q3_I1",
+        "text": "The IT strategy includes a vision for the organization's digital transformation."
+      },
+      {
+        "id": "APO02_Q3_I2",
+        "text": "Technological innovation (data, cloud, AI, etc.) is considered as a strategic lever."
+      },
+      {
+        "id": "APO02_Q3_I3",
+        "text": "Identified digital opportunities are translated into concrete initiatives or programs."
+      }
+    ]
+  },
+  {
+    "questionId": "APO02-Q4",
+    "items": [
+      {
+        "id": "APO02_Q4_I1",
+        "text": "The IT strategy is presented and explained to business managers."
+      },
+      {
+        "id": "APO02_Q4_I2",
+        "text": "IT managers communicate the strategy to their teams (meetings, materials, intranet)."
+      },
+      {
+        "id": "APO02_Q4_I3",
+        "text": "IT employees know the main directions of the IT strategy."
+      }
+    ]
+  },
+  {
+    "questionId": "APO02-Q5",
+    "items": [
+      {
+        "id": "APO02_Q5_I1",
+        "text": "IT roadmaps (or strategic action plans) are defined with dated milestones."
+      },
+      {
+        "id": "APO02_Q5_I2",
+        "text": "Priorities of IT actions or projects are clearly ranked in the roadmap."
+      },
+      {
+        "id": "APO02_Q5_I3",
+        "text": "IT roadmaps are reviewed periodically and adjusted if necessary."
+      }
+    ]
+  },
+  {
+    "questionId": "APO02-Q6",
+    "items": [
+      {
+        "id": "APO02_Q6_I1",
+        "text": "The IT strategy is reviewed regularly (for example, annually)."
+      },
+      {
+        "id": "APO02_Q6_I2",
+        "text": "Internal changes (organization, business priorities) are taken into account during reviews."
+      },
+      {
+        "id": "APO02_Q6_I3",
+        "text": "External changes (regulation, market, technologies) are also integrated into strategic thinking."
+      }
+    ]
+  },
+  {
+    "questionId": "APO02-Q7",
+    "items": [
+      {
+        "id": "APO02_Q7_I1",
+        "text": "Risks related to technological choices and digital transformation are identified in the IT strategy."
+      },
+      {
+        "id": "APO02_Q7_I2",
+        "text": "IT opportunities (new services, new markets) are analyzed at the strategic level."
+      },
+      {
+        "id": "APO02_Q7_I3",
+        "text": "Strategic IT trade-offs take into account a risk/opportunity balance."
+      }
+    ]
+  },
+  {
+    "questionId": "APO02-Q8",
+    "items": [
+      {
+        "id": "APO02_Q8_I1",
+        "text": "Business representatives participate in forums where IT strategy is discussed."
+      },
+      {
+        "id": "APO02_Q8_I2",
+        "text": "Business units are consulted to express their needs and expectations during IT strategy development."
+      },
+      {
+        "id": "APO02_Q8_I3",
+        "text": "Business feedback on IT strategy is taken into account in adjustments."
+      }
+    ]
+  },
+  {
+    "questionId": "APO03-Q1",
+    "items": [
+      {
+        "id": "APO03_Q1_I1",
+        "text": "A formal enterprise architecture approach is defined (framework, principles, roles)."
+      },
+      {
+        "id": "APO03_Q1_I2",
+        "text": "The architecture covers at minimum processes, data, applications, and technologies."
+      },
+      {
+        "id": "APO03_Q1_I3",
+        "text": "An enterprise architecture manager or team is identified."
+      }
+    ]
+  },
+  {
+    "questionId": "APO03-Q2",
+    "items": [
+      {
+        "id": "APO03_Q2_I1",
+        "text": "Urbanization or architecture repositories (maps, models, standards) are documented."
+      },
+      {
+        "id": "APO03_Q2_I2",
+        "text": "These repositories are regularly updated to reflect the current architecture."
+      },
+      {
+        "id": "APO03_Q2_I3",
+        "text": "The repositories are accessible and used by project and technical teams."
+      }
+    ]
+  },
+  {
+    "questionId": "APO03-Q3",
+    "items": [
+      {
+        "id": "APO03_Q3_I1",
+        "text": "IT projects must obtain an architecture review (or equivalent) before key decisions."
+      },
+      {
+        "id": "APO03_Q3_I2",
+        "text": "Any deviations from architecture principles are documented and justified."
+      },
+      {
+        "id": "APO03_Q3_I3",
+        "text": "Decisions not to comply with architecture are validated at an appropriate level."
+      }
+    ]
+  },
+  {
+    "questionId": "APO03-Q4",
+    "items": [
+      {
+        "id": "APO03_Q4_I1",
+        "text": "A mapping of existing applications is maintained."
+      },
+      {
+        "id": "APO03_Q4_I2",
+        "text": "The main data flows between applications are documented."
+      },
+      {
+        "id": "APO03_Q4_I3",
+        "text": "The mapping is used to analyze impacts of changes or rationalization of the IS."
+      }
+    ]
+  },
+  {
+    "questionId": "APO03-Q5",
+    "items": [
+      {
+        "id": "APO03_Q5_I1",
+        "text": "Decisions to acquire or develop solutions take into account the target architecture."
+      },
+      {
+        "id": "APO03_Q5_I2",
+        "text": "Project committees must demonstrate their consistency with architecture principles."
+      },
+      {
+        "id": "APO03_Q5_I3",
+        "text": "The target architecture is used as a criterion in solution option studies."
+      }
+    ]
+  },
+  {
+    "questionId": "APO03-Q6",
+    "items": [
+      {
+        "id": "APO03_Q6_I1",
+        "text": "Enterprise architecture is subject to regular reviews (e.g., annual)."
+      },
+      {
+        "id": "APO03_Q6_I2",
+        "text": "Major technological developments (cloud, data, etc.) are integrated into architecture thinking."
+      },
+      {
+        "id": "APO03_Q6_I3",
+        "text": "Major business changes (new products, acquisitions) are taken into account in the architecture."
+      }
+    ]
+  },
+  {
+    "questionId": "APO03-Q7",
+    "items": [
+      {
+        "id": "APO03_Q7_I1",
+        "text": "Gaps between target architecture and current architecture are identified and mapped."
+      },
+      {
+        "id": "APO03_Q7_I2",
+        "text": "Gap reduction plans (projects, initiatives) are defined."
+      },
+      {
+        "id": "APO03_Q7_I3",
+        "text": "Priority gaps are specifically tracked in IT roadmaps."
+      }
+    ]
+  },
+  {
+    "questionId": "APO03-Q8",
+    "items": [
+      {
+        "id": "APO03_Q8_I1",
+        "text": "Architecture committees (or equivalent forums) examine structural solution choices."
+      },
+      {
+        "id": "APO03_Q8_I2",
+        "text": "Architecture decisions (technologies, integration, cloud) are recorded and tracked."
+      },
+      {
+        "id": "APO03_Q8_I3",
+        "text": "Architecture committee members understand the business issues associated with technical decisions."
+      }
+    ]
+  },
+  {
+    "questionId": "APO04-Q1",
+    "items": [
+      {
+        "id": "APO04_Q1_I1",
+        "text": "A formal IT innovation management process or framework is defined."
+      },
+      {
+        "id": "APO04_Q1_I2",
+        "text": "The innovation approach stages (idea, evaluation, experimentation, industrialization) are described."
+      },
+      {
+        "id": "APO04_Q1_I3",
+        "text": "Roles and responsibilities for driving IT innovation are identified."
+      }
+    ]
+  },
+  {
+    "questionId": "APO04-Q2",
+    "items": [
+      {
+        "id": "APO04_Q2_I1",
+        "text": "A channel (tool, suggestion box, process) allows users and internal teams to propose ideas."
+      },
+      {
+        "id": "APO04_Q2_I2",
+        "text": "Submitted ideas are evaluated and receive feedback (acceptance, rejection, pending)."
+      },
+      {
+        "id": "APO04_Q2_I3",
+        "text": "Business units are encouraged to contribute to IT innovation (workshops, challenges, hackathons)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO04-Q3",
+    "items": [
+      {
+        "id": "APO04_Q3_I1",
+        "text": "Evaluation criteria for innovation ideas are defined (value, risk, feasibility, strategic alignment)."
+      },
+      {
+        "id": "APO04_Q3_I2",
+        "text": "Prioritization decisions for innovation initiatives are based on these criteria."
+      },
+      {
+        "id": "APO04_Q3_I3",
+        "text": "Decisions to launch, defer, or abandon an idea are tracked and justified."
+      }
+    ]
+  },
+  {
+    "questionId": "APO04-Q4",
+    "items": [
+      {
+        "id": "APO04_Q4_I1",
+        "text": "Experiments (POC, pilots) are framed by a clear and measurable objective."
+      },
+      {
+        "id": "APO04_Q4_I2",
+        "text": "Risks associated with experiments (technical, security, reputation) are assessed and limited."
+      },
+      {
+        "id": "APO04_Q4_I3",
+        "text": "Success/stop criteria are defined before launching each experiment."
+      }
+    ]
+  },
+  {
+    "questionId": "APO04-Q5",
+    "items": [
+      {
+        "id": "APO04_Q5_I1",
+        "text": "Results of innovation projects (successes or failures) are formally evaluated."
+      },
+      {
+        "id": "APO04_Q5_I2",
+        "text": "Lessons learned from innovation initiatives are documented."
+      },
+      {
+        "id": "APO04_Q5_I3",
+        "text": "Best practices or mistakes to avoid are shared with relevant teams."
+      }
+    ]
+  },
+  {
+    "questionId": "APO04-Q6",
+    "items": [
+      {
+        "id": "APO04_Q6_I1",
+        "text": "Innovation projects are aligned with the company's strategic axes."
+      },
+      {
+        "id": "APO04_Q6_I2",
+        "text": "Innovation vs. other project trade-offs take strategic priorities into account."
+      },
+      {
+        "id": "APO04_Q6_I3",
+        "text": "Business sponsors validate the consistency of innovation projects with their objectives."
+      }
+    ]
+  },
+  {
+    "questionId": "APO04-Q7",
+    "items": [
+      {
+        "id": "APO04_Q7_I1",
+        "text": "A budget dedicated to IT innovation (or envelope) is identified."
+      },
+      {
+        "id": "APO04_Q7_I2",
+        "text": "Time is allocated to teams to contribute to innovation initiatives."
+      },
+      {
+        "id": "APO04_Q7_I3",
+        "text": "Skills necessary for innovation (UX, data, cloud, etc.) are available or developed."
+      }
+    ]
+  },
+  {
+    "questionId": "APO04-Q8",
+    "items": [
+      {
+        "id": "APO04_Q8_I1",
+        "text": "Technological, security, and regulatory risks related to innovations are assessed upfront."
+      },
+      {
+        "id": "APO04_Q8_I2",
+        "text": "Risk/security managers are involved in evaluating sensitive innovation projects."
+      },
+      {
+        "id": "APO04_Q8_I3",
+        "text": "Innovations presenting high risk are subject to enhanced controls or mitigation measures."
+      }
+    ]
+  },
+  {
+    "questionId": "APO05-Q1",
+    "items": [
+      {
+        "id": "APO05_Q1_I1",
+        "text": "A consolidated portfolio of IT projects is maintained (global view)."
+      },
+      {
+        "id": "APO05_Q1_I2",
+        "text": "Recurring IT services (run) are also visible in a global portfolio view."
+      },
+      {
+        "id": "APO05_Q1_I3",
+        "text": "Portfolio information (status, priorities, resources) is regularly updated."
+      }
+    ]
+  },
+  {
+    "questionId": "APO05-Q2",
+    "items": [
+      {
+        "id": "APO05_Q2_I1",
+        "text": "Project requests follow a formalized submission process (file, form, tool)."
+      },
+      {
+        "id": "APO05_Q2_I2",
+        "text": "A committee or forum decides on the selection/rejection of project requests."
+      },
+      {
+        "id": "APO05_Q2_I3",
+        "text": "Selection criteria are known (value, risks, costs, strategic alignment)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO05-Q3",
+    "items": [
+      {
+        "id": "APO05_Q3_I1",
+        "text": "Portfolio prioritization criteria are defined (benefits, risks, costs, resources)."
+      },
+      {
+        "id": "APO05_Q3_I2",
+        "text": "Prioritization decisions are based on these criteria (not solely on perceived urgency)."
+      },
+      {
+        "id": "APO05_Q3_I3",
+        "text": "Prioritization is reviewed periodically according to context evolution."
+      }
+    ]
+  },
+  {
+    "questionId": "APO05-Q4",
+    "items": [
+      {
+        "id": "APO05_Q4_I1",
+        "text": "The IT portfolio is presented and reviewed regularly by management or a dedicated committee."
+      },
+      {
+        "id": "APO05_Q4_I2",
+        "text": "Portfolio arbitration decisions (launch, stop, delay) are documented."
+      },
+      {
+        "id": "APO05_Q4_I3",
+        "text": "Portfolio reviews enable detection of projects in difficulty and decision on actions."
+      }
+    ]
+  },
+  {
+    "questionId": "APO05-Q5",
+    "items": [
+      {
+        "id": "APO05_Q5_I1",
+        "text": "Projects in difficulty (delays, cost overruns, quality issues) are identified using objective criteria."
+      },
+      {
+        "id": "APO05_Q5_I2",
+        "text": "Formal decisions are made for these projects (recovery plan, re-scoping, termination)."
+      },
+      {
+        "id": "APO05_Q5_I3",
+        "text": "Decisions are communicated to relevant stakeholders."
+      }
+    ]
+  },
+  {
+    "questionId": "APO05-Q6",
+    "items": [
+      {
+        "id": "APO05_Q6_I1",
+        "text": "The portfolio is aligned with the company's strategic priorities (overall view)."
+      },
+      {
+        "id": "APO05_Q6_I2",
+        "text": "Low-value or off-strategy projects are challenged."
+      },
+      {
+        "id": "APO05_Q6_I3",
+        "text": "The organization's capacities (resources, budget) are taken into account in portfolio size."
+      }
+    ]
+  },
+  {
+    "questionId": "APO05-Q7",
+    "items": [
+      {
+        "id": "APO05_Q7_I1",
+        "text": "Load on critical resources is visible in portfolio tools or reports."
+      },
+      {
+        "id": "APO05_Q7_I2",
+        "text": "Priority conflicts on these resources are arbitrated at portfolio level."
+      },
+      {
+        "id": "APO05_Q7_I3",
+        "text": "Decisions are made to limit overload on certain teams or key profiles."
+      }
+    ]
+  },
+  {
+    "questionId": "APO05-Q8",
+    "items": [
+      {
+        "id": "APO05_Q8_I1",
+        "text": "Project progress information (costs, timelines, risks) is updated in the portfolio."
+      },
+      {
+        "id": "APO05_Q8_I2",
+        "text": "Portfolio data is considered reliable by management."
+      },
+      {
+        "id": "APO05_Q8_I3",
+        "text": "Portfolio reports are produced at a frequency appropriate for decision-making."
+      }
+    ]
+  },
+  {
+    "questionId": "APO06-Q1",
+    "items": [
+      {
+        "id": "APO06_Q1_I1",
+        "text": "A formal IT budgeting process is defined and aligned with the overall budget calendar."
+      },
+      {
+        "id": "APO06_Q1_I2",
+        "text": "The different components of the IT budget (projects, run, investments, OPEX) are identified."
+      },
+      {
+        "id": "APO06_Q1_I3",
+        "text": "Business units are involved in IT budget development when relevant."
+      }
+    ]
+  },
+  {
+    "questionId": "APO06-Q2",
+    "items": [
+      {
+        "id": "APO06_Q2_I1",
+        "text": "IT costs are broken down by nature (licenses, maintenance, personnel, etc.)."
+      },
+      {
+        "id": "APO06_Q2_I2",
+        "text": "IT costs are broken down by service or domain (e.g., key applications, infrastructure services)."
+      },
+      {
+        "id": "APO06_Q2_I3",
+        "text": "Cost breakdown enables identification of main expense items."
+      }
+    ]
+  },
+  {
+    "questionId": "APO06-Q3",
+    "items": [
+      {
+        "id": "APO06_Q3_I1",
+        "text": "IT projects have business cases or investment files."
+      },
+      {
+        "id": "APO06_Q3_I2",
+        "text": "Cost and benefit assumptions are formalized in these business cases."
+      },
+      {
+        "id": "APO06_Q3_I3",
+        "text": "Business cases are reviewed and validated before budget approval."
+      }
+    ]
+  },
+  {
+    "questionId": "APO06-Q4",
+    "items": [
+      {
+        "id": "APO06_Q4_I1",
+        "text": "Actual project expenses are tracked against approved budgets."
+      },
+      {
+        "id": "APO06_Q4_I2",
+        "text": "Significant overruns are reported and analyzed."
+      },
+      {
+        "id": "APO06_Q4_I3",
+        "text": "Budget adjustments are decided and tracked when necessary."
+      }
+    ]
+  },
+  {
+    "questionId": "APO06-Q5",
+    "items": [
+      {
+        "id": "APO06_Q5_I1",
+        "text": "Significant budget variances (projects or run) are identified in reports."
+      },
+      {
+        "id": "APO06_Q5_I2",
+        "text": "Causes of these variances are analyzed (estimation errors, scope, risks, etc.)."
+      },
+      {
+        "id": "APO06_Q5_I3",
+        "text": "Lessons learned are taken into account in subsequent budgeting cycles."
+      }
+    ]
+  },
+  {
+    "questionId": "APO06-Q6",
+    "items": [
+      {
+        "id": "APO06_Q6_I1",
+        "text": "IT costs are explained to business units in an understandable manner (reports, presentations)."
+      },
+      {
+        "id": "APO06_Q6_I2",
+        "text": "A chargeback or showback mechanism exists where applicable."
+      },
+      {
+        "id": "APO06_Q6_I3",
+        "text": "Business units understand the main drivers of their IT costs."
+      }
+    ]
+  },
+  {
+    "questionId": "APO06-Q7",
+    "items": [
+      {
+        "id": "APO06_Q7_I1",
+        "text": "IT cost optimization initiatives are identified (rationalization, pooling, cloud, etc.)."
+      },
+      {
+        "id": "APO06_Q7_I2",
+        "text": "These initiatives are managed and tracked (savings targets, progress, results)."
+      },
+      {
+        "id": "APO06_Q7_I3",
+        "text": "Optimization decisions take into account impacts on quality and risks."
+      }
+    ]
+  },
+  {
+    "questionId": "APO06-Q8",
+    "items": [
+      {
+        "id": "APO06_Q8_I1",
+        "text": "Financial risks related to IT activities (cost overruns, penalties, contracts, obsolescence) are identified."
+      },
+      {
+        "id": "APO06_Q8_I2",
+        "text": "These risks are assessed and tracked in a register or appropriate tool."
+      },
+      {
+        "id": "APO06_Q8_I3",
+        "text": "Mitigation actions are defined for major financial risks."
+      }
+    ]
+  },
+  {
+    "questionId": "APO07-Q1",
+    "items": [
+      {
+        "id": "APO07_Q1_I1",
+        "text": "A specific HR strategy for IT teams is defined (recruitment, retention, skill development)."
+      },
+      {
+        "id": "APO07_Q1_I2",
+        "text": "Medium-term IT resource needs are assessed."
+      },
+      {
+        "id": "APO07_Q1_I3",
+        "text": "Concrete actions are planned to attract and retain IT talent."
+      }
+    ]
+  },
+  {
+    "questionId": "APO07-Q2",
+    "items": [
+      {
+        "id": "APO07_Q2_I1",
+        "text": "Key necessary skills (technical, functional, security, management) are identified."
+      },
+      {
+        "id": "APO07_Q2_I2",
+        "text": "A mapping of existing skills in IT teams is available."
+      },
+      {
+        "id": "APO07_Q2_I3",
+        "text": "Gaps between necessary skills and available skills are analyzed."
+      }
+    ]
+  },
+  {
+    "questionId": "APO07-Q3",
+    "items": [
+      {
+        "id": "APO07_Q3_I1",
+        "text": "A training or IT skill development plan is formalized."
+      },
+      {
+        "id": "APO07_Q3_I2",
+        "text": "Certification and technical training needs are identified and prioritized."
+      },
+      {
+        "id": "APO07_Q3_I3",
+        "text": "Completed training actions are tracked and evaluated."
+      }
+    ]
+  },
+  {
+    "questionId": "APO07-Q4",
+    "items": [
+      {
+        "id": "APO07_Q4_I1",
+        "text": "IT job descriptions are formalized and up to date."
+      },
+      {
+        "id": "APO07_Q4_I2",
+        "text": "Job descriptions reflect responsibilities actually exercised."
+      },
+      {
+        "id": "APO07_Q4_I3",
+        "text": "Job descriptions are used during recruitment and performance evaluations."
+      }
+    ]
+  },
+  {
+    "questionId": "APO07-Q5",
+    "items": [
+      {
+        "id": "APO07_Q5_I1",
+        "text": "Individual and team objectives are defined for IT employees."
+      },
+      {
+        "id": "APO07_Q5_I2",
+        "text": "Performance evaluations are conducted regularly."
+      },
+      {
+        "id": "APO07_Q5_I3",
+        "text": "Results of these evaluations feed into HR decisions (evolution, training, recognition)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO07-Q6",
+    "items": [
+      {
+        "id": "APO07_Q6_I1",
+        "text": "Knowledge transfer mechanisms are in place (pair programming, documentation, co-facilitation, etc.)."
+      },
+      {
+        "id": "APO07_Q6_I2",
+        "text": "Critical knowledge does not rely solely on a single person."
+      },
+      {
+        "id": "APO07_Q6_I3",
+        "text": "Departures or transfers of key people are managed with handover plans."
+      }
+    ]
+  },
+  {
+    "questionId": "APO07-Q7",
+    "items": [
+      {
+        "id": "APO07_Q7_I1",
+        "text": "The turnover rate in IT teams is monitored."
+      },
+      {
+        "id": "APO07_Q7_I2",
+        "text": "Risks of departure of critical profiles are identified."
+      },
+      {
+        "id": "APO07_Q7_I3",
+        "text": "Actions are implemented to limit the loss of critical skills (retention, backup, etc.)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO07-Q8",
+    "items": [
+      {
+        "id": "APO07_Q8_I1",
+        "text": "IT team workload is monitored to avoid chronic overload."
+      },
+      {
+        "id": "APO07_Q8_I2",
+        "text": "Working conditions (remote work, tools, environment) are taken into account in team management."
+      },
+      {
+        "id": "APO07_Q8_I3",
+        "text": "Actions are taken to improve IT team well-being and engagement."
+      }
+    ]
+  },
+  {
+    "questionId": "APO08-Q1",
+    "items": [
+      {
+        "id": "APO08_Q1_I1",
+        "text": "Main business stakeholders are identified for each IT service."
+      },
+      {
+        "id": "APO08_Q1_I2",
+        "text": "Roles of these stakeholders (sponsor, process owner, key user) are defined."
+      },
+      {
+        "id": "APO08_Q1_I3",
+        "text": "Contact information for business contacts is kept up to date."
+      }
+    ]
+  },
+  {
+    "questionId": "APO08-Q2",
+    "items": [
+      {
+        "id": "APO08_Q2_I1",
+        "text": "Business relationship managers or business correspondents are designated."
+      },
+      {
+        "id": "APO08_Q2_I2",
+        "text": "Formal communication channels (committees, regular meetings) with business units are defined."
+      },
+      {
+        "id": "APO08_Q2_I3",
+        "text": "Business contacts know who to address for their IT topics."
+      }
+    ]
+  },
+  {
+    "questionId": "APO08-Q3",
+    "items": [
+      {
+        "id": "APO08_Q3_I1",
+        "text": "Business needs for IT services are collected in a structured manner (workshops, interviews, surveys)."
+      },
+      {
+        "id": "APO08_Q3_I2",
+        "text": "Business requests are analyzed and prioritized with their participation."
+      },
+      {
+        "id": "APO08_Q3_I3",
+        "text": "Business feedback on the adequacy of services to their needs is regularly taken into account."
+      }
+    ]
+  },
+  {
+    "questionId": "APO08-Q4",
+    "items": [
+      {
+        "id": "APO08_Q4_I1",
+        "text": "User satisfaction surveys or measurements are regularly conducted."
+      },
+      {
+        "id": "APO08_Q4_I2",
+        "text": "Satisfaction results are analyzed and shared with IT and business teams."
+      },
+      {
+        "id": "APO08_Q4_I3",
+        "text": "Improvement plans are defined based on satisfaction results."
+      }
+    ]
+  },
+  {
+    "questionId": "APO08-Q5",
+    "items": [
+      {
+        "id": "APO08_Q5_I1",
+        "text": "Service commitments (SLAs, support levels) are discussed with business units before implementation."
+      },
+      {
+        "id": "APO08_Q5_I2",
+        "text": "Business units validate the proposed commitments (schedules, timelines, availability)."
+      },
+      {
+        "id": "APO08_Q5_I3",
+        "text": "Commitments are formalized in shared documents (SLAs, service contracts)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO08-Q6",
+    "items": [
+      {
+        "id": "APO08_Q6_I1",
+        "text": "Recurring pain points between business and IT are identified (delays, quality, understanding, etc.)."
+      },
+      {
+        "id": "APO08_Q6_I2",
+        "text": "These pain points are subject to concrete action plans (process improvement, communication, tools)."
+      },
+      {
+        "id": "APO08_Q6_I3",
+        "text": "The results of these actions are monitored to verify the reduction of pain points."
+      }
+    ]
+  },
+  {
+    "questionId": "APO08-Q7",
+    "items": [
+      {
+        "id": "APO08_Q7_I1",
+        "text": "Business units are informed in advance of changes impacting services (maintenance, migration, outages)."
+      },
+      {
+        "id": "APO08_Q7_I2",
+        "text": "Communication plans are defined for major changes."
+      },
+      {
+        "id": "APO08_Q7_I3",
+        "text": "Communicated information is understandable for business users (impact, duration, expected actions)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO08-Q8",
+    "items": [
+      {
+        "id": "APO08_Q8_I1",
+        "text": "Regular monitoring committees between IT and business management exist (steering committees, service committees, etc.)."
+      },
+      {
+        "id": "APO08_Q8_I2",
+        "text": "Minutes of these committees are documented and shared."
+      },
+      {
+        "id": "APO08_Q8_I3",
+        "text": "Decisions made in these forums are effectively implemented."
+      }
+    ]
+  },
+  {
+    "questionId": "APO09-Q1",
+    "items": [
+      {
+        "id": "APO09_Q1_I1",
+        "text": "A formal IT service catalog exists."
+      },
+      {
+        "id": "APO09_Q1_I2",
+        "text": "The catalog describes services in terms understandable for users (description, recipients, etc.)."
+      },
+      {
+        "id": "APO09_Q1_I3",
+        "text": "The catalog is accessible to users (portal, intranet)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO09-Q2",
+    "items": [
+      {
+        "id": "APO09_Q2_I1",
+        "text": "SLAs are defined for critical services (availability, response time, resolution time)."
+      },
+      {
+        "id": "APO09_Q2_I2",
+        "text": "SLAs are accepted by business units and documented."
+      },
+      {
+        "id": "APO09_Q2_I3",
+        "text": "SLAs serve as the basis for support and production commitments."
+      }
+    ]
+  },
+  {
+    "questionId": "APO09-Q3",
+    "items": [
+      {
+        "id": "APO09_Q3_I1",
+        "text": "Service performance indicators (availability, incidents, response time) are monitored."
+      },
+      {
+        "id": "APO09_Q3_I2",
+        "text": "Results are regularly reported to IT and business managers."
+      },
+      {
+        "id": "APO09_Q3_I3",
+        "text": "Deviations or performance degradations lead to analyses and actions."
+      }
+    ]
+  },
+  {
+    "questionId": "APO09-Q4",
+    "items": [
+      {
+        "id": "APO09_Q4_I1",
+        "text": "SLAs are reviewed periodically with business units."
+      },
+      {
+        "id": "APO09_Q4_I2",
+        "text": "SLAs are adjusted when business needs or technical capabilities evolve."
+      },
+      {
+        "id": "APO09_Q4_I3",
+        "text": "SLA reviews are tracked and changes are formalized."
+      }
+    ]
+  },
+  {
+    "questionId": "APO09-Q5",
+    "items": [
+      {
+        "id": "APO09_Q5_I1",
+        "text": "Significant deviations from SLAs are identified."
+      },
+      {
+        "id": "APO09_Q5_I2",
+        "text": "The causes of these deviations are analyzed (capacity, incidents, organization)."
+      },
+      {
+        "id": "APO09_Q5_I3",
+        "text": "Improvement plans are defined to reduce these deviations."
+      }
+    ]
+  },
+  {
+    "questionId": "APO09-Q6",
+    "items": [
+      {
+        "id": "APO09_Q6_I1",
+        "text": "Internal OLAs are defined between IT teams to support SLAs (operations, network, security, etc.)."
+      },
+      {
+        "id": "APO09_Q6_I2",
+        "text": "OLAs detail the responsibilities and intervention timelines for each team."
+      },
+      {
+        "id": "APO09_Q6_I3",
+        "text": "OLA compliance is monitored and discussed between internal teams."
+      }
+    ]
+  },
+  {
+    "questionId": "APO09-Q7",
+    "items": [
+      {
+        "id": "APO09_Q7_I1",
+        "text": "Users have clear channels to report incidents or requests (portal, phone, email)."
+      },
+      {
+        "id": "APO09_Q7_I2",
+        "text": "Channels are communicated and easily accessible."
+      },
+      {
+        "id": "APO09_Q7_I3",
+        "text": "Requests are recorded and tracked until their resolution."
+      }
+    ]
+  },
+  {
+    "questionId": "APO09-Q8",
+    "items": [
+      {
+        "id": "APO09_Q8_I1",
+        "text": "IT service costs are documented and, where applicable, communicated to business units."
+      },
+      {
+        "id": "APO09_Q8_I2",
+        "text": "Billing or chargeback mechanisms are transparent."
+      },
+      {
+        "id": "APO09_Q8_I3",
+        "text": "Business units understand the cost composition of their main services."
+      }
+    ]
+  },
+  {
+    "questionId": "APO10-Q1",
+    "items": [
+      {
+        "id": "APO10_Q1_I1",
+        "text": "An IT supplier management policy is formalized."
+      },
+      {
+        "id": "APO10_Q1_I2",
+        "text": "This policy covers the supplier lifecycle (selection, contracting, monitoring, exit)."
+      },
+      {
+        "id": "APO10_Q1_I3",
+        "text": "Relevant teams know the principles of this policy."
+      }
+    ]
+  },
+  {
+    "questionId": "APO10-Q2",
+    "items": [
+      {
+        "id": "APO10_Q2_I1",
+        "text": "Supplier selection criteria are defined (quality, costs, security, compliance, location, etc.)."
+      },
+      {
+        "id": "APO10_Q2_I2",
+        "text": "Tenders or consultations integrate these criteria into their evaluation grids."
+      },
+      {
+        "id": "APO10_Q2_I3",
+        "text": "Selection decisions are justified against these criteria."
+      }
+    ]
+  },
+  {
+    "questionId": "APO10-Q3",
+    "items": [
+      {
+        "id": "APO10_Q3_I1",
+        "text": "IT contracts include clauses on service levels (SLAs)."
+      },
+      {
+        "id": "APO10_Q3_I2",
+        "text": "Contracts include security and confidentiality clauses appropriate to the context."
+      },
+      {
+        "id": "APO10_Q3_I3",
+        "text": "Specific regulatory obligations (e.g., data protection) are integrated into contracts."
+      }
+    ]
+  },
+  {
+    "questionId": "APO10-Q4",
+    "items": [
+      {
+        "id": "APO10_Q4_I1",
+        "text": "Supplier performance is monitored through indicators (quality, timelines, availability, etc.)."
+      },
+      {
+        "id": "APO10_Q4_I2",
+        "text": "Regular performance reviews are organized with key suppliers."
+      },
+      {
+        "id": "APO10_Q4_I3",
+        "text": "Improvement plans are defined in case of insufficient performance."
+      }
+    ]
+  },
+  {
+    "questionId": "APO10-Q5",
+    "items": [
+      {
+        "id": "APO10_Q5_I1",
+        "text": "Risks related to IT suppliers (dependency, security, continuity, location) are identified."
+      },
+      {
+        "id": "APO10_Q5_I2",
+        "text": "These risks are assessed and integrated into overall IT risk management."
+      },
+      {
+        "id": "APO10_Q5_I3",
+        "text": "Mitigation measures are in place for critical supplier risks."
+      }
+    ]
+  },
+  {
+    "questionId": "APO10-Q6",
+    "items": [
+      {
+        "id": "APO10_Q6_I1",
+        "text": "Contracts with critical suppliers include continuity or reversibility clauses."
+      },
+      {
+        "id": "APO10_Q6_I2",
+        "text": "Exit or supplier replacement scenarios are considered."
+      },
+      {
+        "id": "APO10_Q6_I3",
+        "text": "Failover or continuity capabilities are tested if necessary."
+      }
+    ]
+  },
+  {
+    "questionId": "APO10-Q7",
+    "items": [
+      {
+        "id": "APO10_Q7_I1",
+        "text": "Regulatory requirements (GDPR, regulated sector, etc.) are taken into account when selecting suppliers."
+      },
+      {
+        "id": "APO10_Q7_I2",
+        "text": "Contracts include specific regulatory compliance clauses."
+      },
+      {
+        "id": "APO10_Q7_I3",
+        "text": "Supplier compliance with these requirements is reviewed periodically."
+      }
+    ]
+  },
+  {
+    "questionId": "APO10-Q8",
+    "items": [
+      {
+        "id": "APO10_Q8_I1",
+        "text": "Disputes or contractual breaches with suppliers are formalized."
+      },
+      {
+        "id": "APO10_Q8_I2",
+        "text": "A defined process exists to handle these disputes (escalation levels, mediation, termination)."
+      },
+      {
+        "id": "APO10_Q8_I3",
+        "text": "Decisions made in the context of these disputes are documented and communicated."
+      }
+    ]
+  },
+  {
+    "questionId": "APO11-Q1",
+    "items": [
+      {
+        "id": "APO11_Q1_I1",
+        "text": "A quality policy covering IT activities is formalized."
+      },
+      {
+        "id": "APO11_Q1_I2",
+        "text": "This policy is communicated to IT teams and relevant business units."
+      },
+      {
+        "id": "APO11_Q1_I3",
+        "text": "IT quality objectives are defined (e.g., defect rate, user satisfaction)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO11-Q2",
+    "items": [
+      {
+        "id": "APO11_Q2_I1",
+        "text": "IT processes include quality control points (reviews, tests, validations)."
+      },
+      {
+        "id": "APO11_Q2_I2",
+        "text": "Quality controls are tracked (minutes, reports, tickets)."
+      },
+      {
+        "id": "APO11_Q2_I3",
+        "text": "Anomalies detected during controls lead to corrections before production deployment."
+      }
+    ]
+  },
+  {
+    "questionId": "APO11-Q3",
+    "items": [
+      {
+        "id": "APO11_Q3_I1",
+        "text": "Recurring incidents or defects are inventoried and analyzed."
+      },
+      {
+        "id": "APO11_Q3_I2",
+        "text": "Root causes of major defects are investigated."
+      },
+      {
+        "id": "APO11_Q3_I3",
+        "text": "Recurring causes (processes, tools, skills) are subject to improvement actions."
+      }
+    ]
+  },
+  {
+    "questionId": "APO11-Q4",
+    "items": [
+      {
+        "id": "APO11_Q4_I1",
+        "text": "Continuous improvement plans are defined based on quality results."
+      },
+      {
+        "id": "APO11_Q4_I2",
+        "text": "These plans include actions, owners, and deadlines."
+      },
+      {
+        "id": "APO11_Q4_I3",
+        "text": "Monitoring of these plans is performed and results are measured."
+      }
+    ]
+  },
+  {
+    "questionId": "APO11-Q5",
+    "items": [
+      {
+        "id": "APO11_Q5_I1",
+        "text": "Quality requirements (standards, regulations, contracts) applicable to IT are identified."
+      },
+      {
+        "id": "APO11_Q5_I2",
+        "text": "These requirements are taken into account in the design of processes and solutions."
+      },
+      {
+        "id": "APO11_Q5_I3",
+        "text": "Teams are informed of quality requirements that concern them."
+      }
+    ]
+  },
+  {
+    "questionId": "APO11-Q6",
+    "items": [
+      {
+        "id": "APO11_Q6_I1",
+        "text": "Internal or external audits evaluate the quality of IT processes and deliverables."
+      },
+      {
+        "id": "APO11_Q6_I2",
+        "text": "Audit reports are shared with IT managers."
+      },
+      {
+        "id": "APO11_Q6_I3",
+        "text": "Audit recommendations are subject to monitored action plans."
+      }
+    ]
+  },
+  {
+    "questionId": "APO11-Q7",
+    "items": [
+      {
+        "id": "APO11_Q7_I1",
+        "text": "The quality of project deliverables (specifications, developments, tests) is evaluated according to defined criteria."
+      },
+      {
+        "id": "APO11_Q7_I2",
+        "text": "Defects detected in testing or production are analyzed by type and origin."
+      },
+      {
+        "id": "APO11_Q7_I3",
+        "text": "Improvement actions target the most deficient phases or deliverable types."
+      }
+    ]
+  },
+  {
+    "questionId": "APO11-Q8",
+    "items": [
+      {
+        "id": "APO11_Q8_I1",
+        "text": "User feedback on IT service quality is collected (surveys, feedback)."
+      },
+      {
+        "id": "APO11_Q8_I2",
+        "text": "This feedback is analyzed to identify improvement areas."
+      },
+      {
+        "id": "APO11_Q8_I3",
+        "text": "Actions decided following user feedback are implemented and monitored."
+      }
+    ]
+  },
+  {
+    "questionId": "APO12-Q1",
+    "items": [
+      {
+        "id": "APO12_Q1_I1",
+        "text": "An IT risk management method is defined (steps, deliverables, criteria)."
+      },
+      {
+        "id": "APO12_Q1_I2",
+        "text": "Roles for IT risk management (risk owners, managers) are identified."
+      },
+      {
+        "id": "APO12_Q1_I3",
+        "text": "Expected deliverables (risk register, treatment plans) are formalized."
+      }
+    ]
+  },
+  {
+    "questionId": "APO12-Q2",
+    "items": [
+      {
+        "id": "APO12_Q2_I1",
+        "text": "Structured workshops are organized to identify IT risks."
+      },
+      {
+        "id": "APO12_Q2_I2",
+        "text": "Specific analyses (mapping, scenario analyses, risk studies) are conducted."
+      },
+      {
+        "id": "APO12_Q2_I3",
+        "text": "An IT risk map is produced and used."
+      }
+    ]
+  },
+  {
+    "questionId": "APO12-Q3",
+    "items": [
+      {
+        "id": "APO12_Q3_I1",
+        "text": "IT risks are assessed in probability according to a defined scale."
+      },
+      {
+        "id": "APO12_Q3_I2",
+        "text": "Risk impacts (financial, operational, reputational, compliance) are assessed with a consistent method."
+      },
+      {
+        "id": "APO12_Q3_I3",
+        "text": "Assessments are documented in a risk register."
+      }
+    ]
+  },
+  {
+    "questionId": "APO12-Q4",
+    "items": [
+      {
+        "id": "APO12_Q4_I1",
+        "text": "Treatment options are defined for each significant risk (reduction, transfer, acceptance, avoidance)."
+      },
+      {
+        "id": "APO12_Q4_I2",
+        "text": "Treatment plans include actions, owners, and deadlines."
+      },
+      {
+        "id": "APO12_Q4_I3",
+        "text": "Decisions to accept certain risks are formalized."
+      }
+    ]
+  },
+  {
+    "questionId": "APO12-Q5",
+    "items": [
+      {
+        "id": "APO12_Q5_I1",
+        "text": "The IT risk register is updated regularly."
+      },
+      {
+        "id": "APO12_Q5_I2",
+        "text": "Progress of treatment plans is monitored (completion rate, delayed actions)."
+      },
+      {
+        "id": "APO12_Q5_I3",
+        "text": "Residual risks after treatment are reassessed."
+      }
+    ]
+  },
+  {
+    "questionId": "APO12-Q6",
+    "items": [
+      {
+        "id": "APO12_Q6_I1",
+        "text": "IT risks are included in the organization's global risk register."
+      },
+      {
+        "id": "APO12_Q6_I2",
+        "text": "Risk classes and scales used are consistent with those of global risk management."
+      },
+      {
+        "id": "APO12_Q6_I3",
+        "text": "Global risk committees review major IT risks."
+      }
+    ]
+  },
+  {
+    "questionId": "APO12-Q7",
+    "items": [
+      {
+        "id": "APO12_Q7_I1",
+        "text": "Major incidents (outage, cyberattack, data leak, etc.) are subject to formal lessons learned."
+      },
+      {
+        "id": "APO12_Q7_I2",
+        "text": "Lessons learned from these incidents lead to updates of the risk register."
+      },
+      {
+        "id": "APO12_Q7_I3",
+        "text": "Risk treatment actions are adjusted following significant incidents."
+      }
+    ]
+  },
+  {
+    "questionId": "APO12-Q8",
+    "items": [
+      {
+        "id": "APO12_Q8_I1",
+        "text": "Risk appetite for IT is defined by management (acceptable risk level)."
+      },
+      {
+        "id": "APO12_Q8_I2",
+        "text": "Tolerance thresholds are set for certain major IT risks (e.g., availability, security)."
+      },
+      {
+        "id": "APO12_Q8_I3",
+        "text": "These thresholds guide treatment decisions and risk prioritization."
+      }
+    ]
+  },
+  {
+    "questionId": "APO13-Q1",
+    "items": [
+      {
+        "id": "APO13_Q1_I1",
+        "text": "An information security policy is defined and approved by management."
+      },
+      {
+        "id": "APO13_Q1_I2",
+        "text": "The policy covers the main dimensions (confidentiality, integrity, availability, compliance)."
+      },
+      {
+        "id": "APO13_Q1_I3",
+        "text": "The policy is communicated to employees and accessible."
+      }
+    ]
+  },
+  {
+    "questionId": "APO13-Q2",
+    "items": [
+      {
+        "id": "APO13_Q2_I1",
+        "text": "Information security risks are assessed regularly through a structured approach."
+      },
+      {
+        "id": "APO13_Q2_I2",
+        "text": "Security risks are recorded in a register or appropriate tool."
+      },
+      {
+        "id": "APO13_Q2_I3",
+        "text": "Identified security risks feed into security plans (projects, technical measures, organizational measures)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO13-Q3",
+    "items": [
+      {
+        "id": "APO13_Q3_I1",
+        "text": "Technical security measures are deployed (access control, encryption, antivirus, firewall, etc.)."
+      },
+      {
+        "id": "APO13_Q3_I2",
+        "text": "Organizational measures are in place (charters, procedures, segregation of duties)."
+      },
+      {
+        "id": "APO13_Q3_I3",
+        "text": "Measures are proportionate to identified risks."
+      }
+    ]
+  },
+  {
+    "questionId": "APO13-Q4",
+    "items": [
+      {
+        "id": "APO13_Q4_I1",
+        "text": "Security awareness campaigns are regularly organized (phishing, passwords, etc.)."
+      },
+      {
+        "id": "APO13_Q4_I2",
+        "text": "New hires are sensitized to security during their onboarding."
+      },
+      {
+        "id": "APO13_Q4_I3",
+        "text": "Awareness is adapted to different profiles (users, administrators, managers)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO13-Q5",
+    "items": [
+      {
+        "id": "APO13_Q5_I1",
+        "text": "Security incident management procedures are defined (detection, alert, treatment, recovery)."
+      },
+      {
+        "id": "APO13_Q5_I2",
+        "text": "These procedures are known to relevant teams (SOC, support, operations, etc.)."
+      },
+      {
+        "id": "APO13_Q5_I3",
+        "text": "Procedures are tested periodically (crisis management exercises, simulations)."
+      }
+    ]
+  },
+  {
+    "questionId": "APO13-Q6",
+    "items": [
+      {
+        "id": "APO13_Q6_I1",
+        "text": "Regulatory requirements for security and data protection are identified (e.g., GDPR)."
+      },
+      {
+        "id": "APO13_Q6_I2",
+        "text": "Compliance with these requirements is assessed regularly (reviews, audits)."
+      },
+      {
+        "id": "APO13_Q6_I3",
+        "text": "Compliance gaps are subject to monitored action plans."
+      }
+    ]
+  },
+  {
+    "questionId": "APO13-Q7",
+    "items": [
+      {
+        "id": "APO13_Q7_I1",
+        "text": "Privileged accounts (administrators, sensitive access) are inventoried."
+      },
+      {
+        "id": "APO13_Q7_I2",
+        "text": "Access to these accounts is controlled (password management, vault, bastion, etc.)."
+      },
+      {
+        "id": "APO13_Q7_I3",
+        "text": "Rights and usage of privileged accounts are reviewed periodically."
+      }
+    ]
+  },
+  {
+    "questionId": "APO13-Q8",
+    "items": [
+      {
+        "id": "APO13_Q8_I1",
+        "text": "Security tests are performed (intrusion tests, vulnerability scans)."
+      },
+      {
+        "id": "APO13_Q8_I2",
+        "text": "The results of these tests are analyzed and prioritized."
+      },
+      {
+        "id": "APO13_Q8_I3",
+        "text": "Identified vulnerabilities are subject to monitored remediation plans."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM01-Q1",
+    "items": [
+      {
+        "id": "EDM01_Q1_I1",
+        "text": "An I&T governance framework (principles, policies, bodies, roles) is formally documented."
+      },
+      {
+        "id": "EDM01_Q1_I2",
+        "text": "This I&T governance framework is approved by the appropriate management bodies (board, steering committee, I&T governance committee)."
+      },
+      {
+        "id": "EDM01_Q1_I3",
+        "text": "The I&T governance framework covers key domains: value, risks, resources, compliance, performance."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM01-Q2",
+    "items": [
+      {
+        "id": "EDM01_Q2_I1",
+        "text": "I&T governance roles and responsibilities (process owners, committees, I&T management, business functions) are formalized."
+      },
+      {
+        "id": "EDM01_Q2_I2",
+        "text": "A responsibility matrix (RACI type or equivalent) exists for the main I&T governance decisions."
+      },
+      {
+        "id": "EDM01_Q2_I3",
+        "text": "The concerned stakeholders know their governance roles (decide, validate, be consulted, be informed)."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM01-Q3",
+    "items": [
+      {
+        "id": "EDM01_Q3_I1",
+        "text": "Applicable regulatory and normative requirements (GDPR, sectoral regulations, ISO standards, etc.) are identified for I&T."
+      },
+      {
+        "id": "EDM01_Q3_I2",
+        "text": "These requirements are integrated into the I&T governance framework (policies, procedures, controls)."
+      },
+      {
+        "id": "EDM01_Q3_I3",
+        "text": "Compliance with these requirements is regularly reviewed by the I&T governance bodies."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM01-Q4",
+    "items": [
+      {
+        "id": "EDM01_Q4_I1",
+        "text": "Governance decision mechanisms (committees, bodies, validation circuits) are defined and documented."
+      },
+      {
+        "id": "EDM01_Q4_I2",
+        "text": "Escalation rules exist for sensitive subjects (major risks, critical incidents, priority arbitration)."
+      },
+      {
+        "id": "EDM01_Q4_I3",
+        "text": "Decisions made in the I&T governance committee are tracked (minutes, action plans)."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM01-Q5",
+    "items": [
+      {
+        "id": "EDM01_Q5_I1",
+        "text": "The I&T governance framework is aligned with the organization's global governance framework."
+      },
+      {
+        "id": "EDM01_Q5_I2",
+        "text": "Interactions between I&T governance and other bodies (risks, audit, finance, business functions) are defined."
+      },
+      {
+        "id": "EDM01_Q5_I3",
+        "text": "I&T representatives participate in global governance bodies when relevant."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM01-Q6",
+    "items": [
+      {
+        "id": "EDM01_Q6_I1",
+        "text": "Periodic reviews of the I&T governance framework are planned (at least annually)."
+      },
+      {
+        "id": "EDM01_Q6_I2",
+        "text": "These reviews take into account changes in context (strategy, organization, technology, regulation)."
+      },
+      {
+        "id": "EDM01_Q6_I3",
+        "text": "The conclusions of the reviews lead to decisions to adjust the governance framework."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM01-Q7",
+    "items": [
+      {
+        "id": "EDM01_Q7_I1",
+        "text": "The I&T governance framework is communicated to key stakeholders (management, business functions, I&T)."
+      },
+      {
+        "id": "EDM01_Q7_I2",
+        "text": "Communication materials (charters, guides, intranet, training) are available and up-to-date."
+      },
+      {
+        "id": "EDM01_Q7_I3",
+        "text": "Governance stakeholders receive, if necessary, specific awareness or training for their roles."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM01-Q8",
+    "items": [
+      {
+        "id": "EDM01_Q8_I1",
+        "text": "Audits or maturity assessments of I&T governance are carried out periodically."
+      },
+      {
+        "id": "EDM01_Q8_I2",
+        "text": "Recommendations from these assessments are prioritized and integrated into improvement plans."
+      },
+      {
+        "id": "EDM01_Q8_I3",
+        "text": "The progress of I&T governance is monitored through indicators or maturity objectives."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM02-Q1",
+    "items": [
+      {
+        "id": "EDM02_Q1_I1",
+        "text": "Major I&T projects and programs have formalized business cases."
+      },
+      {
+        "id": "EDM02_Q1_I2",
+        "text": "Expected benefits (financial and non-financial) are explicitly described in these business cases."
+      },
+      {
+        "id": "EDM02_Q1_I3",
+        "text": "Key assumptions related to benefits (volumes, productivity gains, quality improvement, etc.) are documented."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM02-Q2",
+    "items": [
+      {
+        "id": "EDM02_Q2_I1",
+        "text": "Value and benefit indicators are defined for I&T investments (KPIs)."
+      },
+      {
+        "id": "EDM02_Q2_I2",
+        "text": "Target objectives are set for these indicators (success thresholds, ROI, adoption, satisfaction)."
+      },
+      {
+        "id": "EDM02_Q2_I3",
+        "text": "Measurement methods (data source, frequency, responsible party) are defined."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM02-Q3",
+    "items": [
+      {
+        "id": "EDM02_Q3_I1",
+        "text": "Realized benefits are tracked after solutions are put into production (post-project monitoring)."
+      },
+      {
+        "id": "EDM02_Q3_I2",
+        "text": "The results of benefit realization are compared to the initial expected benefits."
+      },
+      {
+        "id": "EDM02_Q3_I3",
+        "text": "Significant deviations (benefits not achieved or exceeded) are subject to analysis and decisions."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM02-Q4",
+    "items": [
+      {
+        "id": "EDM02_Q4_I1",
+        "text": "IT and business responsibilities for achieving benefits are clearly assigned."
+      },
+      {
+        "id": "EDM02_Q4_I2",
+        "text": "Benefit owners (business sponsors) are identified for the main projects."
+      },
+      {
+        "id": "EDM02_Q4_I3",
+        "text": "Governance committees monitor the contribution of each I&T initiative to value creation."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM02-Q5",
+    "items": [
+      {
+        "id": "EDM02_Q5_I1",
+        "text": "Post-implementation reviews (PIR or equivalent) are carried out for major I&T projects."
+      },
+      {
+        "id": "EDM02_Q5_I2",
+        "text": "These reviews assess benefit realization, actual costs, risks, and lessons learned."
+      },
+      {
+        "id": "EDM02_Q5_I3",
+        "text": "Lessons learned from these reviews feed into value and project management practices."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM02-Q6",
+    "items": [
+      {
+        "id": "EDM02_Q6_I1",
+        "text": "Decisions to launch, continue, or stop I&T initiatives take into account whether value is being created."
+      },
+      {
+        "id": "EDM02_Q6_I2",
+        "text": "Projects with low value contribution or a poor benefit/cost ratio are challenged."
+      },
+      {
+        "id": "EDM02_Q6_I3",
+        "text": "Portfolio arbitrations systematically include a consolidated view of benefits."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM02-Q7",
+    "items": [
+      {
+        "id": "EDM02_Q7_I1",
+        "text": "Non-financial benefits (customer satisfaction, quality, compliance, image) are also taken into account."
+      },
+      {
+        "id": "EDM02_Q7_I2",
+        "text": "These non-financial benefits are measured and reported when relevant."
+      },
+      {
+        "id": "EDM02_Q7_I3",
+        "text": "Governance committees examine the balance between financial and non-financial benefits."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM02-Q8",
+    "items": [
+      {
+        "id": "EDM02_Q8_I1",
+        "text": "I&T value management practices are periodically reviewed (methods, indicators, roles)."
+      },
+      {
+        "id": "EDM02_Q8_I2",
+        "text": "Identified improvements (better definition of benefits, reinforced monitoring, tooling) are implemented."
+      },
+      {
+        "id": "EDM02_Q8_I3",
+        "text": "The maturity of I&T value management progresses over time (lessons learned, benchmarking)."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM03-Q1",
+    "items": [
+      {
+        "id": "EDM03_Q1_I1",
+        "text": "An I&T risk management policy is formalized and approved by management."
+      },
+      {
+        "id": "EDM03_Q1_I2",
+        "text": "This policy is aligned with the organization's global risk management framework."
+      },
+      {
+        "id": "EDM03_Q1_I3",
+        "text": "The policy specifies the objectives, roles, responsibilities, and principles of I&T risk management."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM03-Q2",
+    "items": [
+      {
+        "id": "EDM03_Q2_I1",
+        "text": "An I&T risk register (strategic, operational, cyber, compliance) is maintained."
+      },
+      {
+        "id": "EDM03_Q2_I2",
+        "text": "I&T risks are identified in a structured manner (workshops, analyses, incident feedback, audits)."
+      },
+      {
+        "id": "EDM03_Q2_I3",
+        "text": "Major risks are clearly distinguished from lower-level risks."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM03-Q3",
+    "items": [
+      {
+        "id": "EDM03_Q3_I1",
+        "text": "I&T risks are assessed according to probability and impact criteria consistent with the global risk framework."
+      },
+      {
+        "id": "EDM03_Q3_I2",
+        "text": "Risk appetite and tolerance thresholds specific to I&T are defined and validated."
+      },
+      {
+        "id": "EDM03_Q3_I3",
+        "text": "Risks exceeding tolerance thresholds are identified and escalated to governance bodies."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM03-Q4",
+    "items": [
+      {
+        "id": "EDM03_Q4_I1",
+        "text": "Treatment plans are defined for significant I&T risks (reduction, transfer, acceptance, avoidance)."
+      },
+      {
+        "id": "EDM03_Q4_I2",
+        "text": "Treatment plans specify the actions, responsible parties, deadlines, and necessary resources."
+      },
+      {
+        "id": "EDM03_Q4_I3",
+        "text": "Decisions to accept certain risks are formalized and validated at the appropriate hierarchical level."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM03-Q5",
+    "items": [
+      {
+        "id": "EDM03_Q5_I1",
+        "text": "Decisions regarding I&T projects and investments take into account the analysis of corresponding risks."
+      },
+      {
+        "id": "EDM03_Q5_I2",
+        "text": "Major I&T risks are presented to governance committees for arbitration."
+      },
+      {
+        "id": "EDM03_Q5_I3",
+        "text": "Decisions to continue, redirect, or stop initiatives integrate the risk dimension."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM03-Q6",
+    "items": [
+      {
+        "id": "EDM03_Q6_I1",
+        "text": "I&T risk dashboards or maps are produced for governance bodies."
+      },
+      {
+        "id": "EDM03_Q6_I2",
+        "text": "Risk evolution trends (improvement, degradation) are monitored and commented upon."
+      },
+      {
+        "id": "EDM03_Q6_I3",
+        "text": "Governance decisions take into account this consolidated risk information."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM03-Q7",
+    "items": [
+      {
+        "id": "EDM03_Q7_I1",
+        "text": "Major incidents (cyber, unavailability, data breaches) result in formalized lessons learned."
+      },
+      {
+        "id": "EDM03_Q7_I2",
+        "text": "Lessons learned from incidents are integrated into the I&T risk register and analysis."
+      },
+      {
+        "id": "EDM03_Q7_I3",
+        "text": "Risk treatment plans are adapted following significant incidents."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM03-Q8",
+    "items": [
+      {
+        "id": "EDM03_Q8_I1",
+        "text": "The overall I&T risk profile is periodically reviewed at the governance level (risk committee, I&T committee)."
+      },
+      {
+        "id": "EDM03_Q8_I2",
+        "text": "Risk appetite and tolerance thresholds are reassessed based on context changes."
+      },
+      {
+        "id": "EDM03_Q8_I3",
+        "text": "Improvements to the I&T risk management framework are decided and monitored."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM04-Q1",
+    "items": [
+      {
+        "id": "EDM04_Q1_I1",
+        "text": "A consolidated view of key I&T resources (people, applications, infrastructure, data, suppliers) exists."
+      },
+      {
+        "id": "EDM04_Q1_I2",
+        "text": "Critical resources for business continuity are identified."
+      },
+      {
+        "id": "EDM04_Q1_I3",
+        "text": "Dependencies between resources (e.g., applications and associated infrastructure) are known."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM04-Q2",
+    "items": [
+      {
+        "id": "EDM04_Q2_I1",
+        "text": "I&T resource allocation decisions are aligned with strategic priorities."
+      },
+      {
+        "id": "EDM04_Q2_I2",
+        "text": "Governance committees arbitrate the distribution of resources among projects, run, and innovation."
+      },
+      {
+        "id": "EDM04_Q2_I3",
+        "text": "Capacity constraints (human, technical, budgetary) are taken into account in decisions."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM04-Q3",
+    "items": [
+      {
+        "id": "EDM04_Q3_I1",
+        "text": "Indicators of I&T resource load, capacity, and utilization are monitored."
+      },
+      {
+        "id": "EDM04_Q3_I2",
+        "text": "Situations of significant overload or under-utilization are identified."
+      },
+      {
+        "id": "EDM04_Q3_I3",
+        "text": "Rebalancing actions (prioritization, reinforcement, decommissioning) are decided when necessary."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM04-Q4",
+    "items": [
+      {
+        "id": "EDM04_Q4_I1",
+        "text": "An I&T sourcing strategy (insourcing, outsourcing, cloud, partners) is defined."
+      },
+      {
+        "id": "EDM04_Q4_I2",
+        "text": "Sourcing decisions take into account risks, costs, skills, and supplier dependencies."
+      },
+      {
+        "id": "EDM04_Q4_I3",
+        "text": "Long-term impacts (vendor lock-in, reversibility) are considered in decisions."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM04-Q5",
+    "items": [
+      {
+        "id": "EDM04_Q5_I1",
+        "text": "Critical and emerging I&T skills are identified (cyber, cloud, data, etc.)."
+      },
+      {
+        "id": "EDM04_Q5_I2",
+        "text": "Plans are in place to develop or acquire these skills (training, recruitment, partnership)."
+      },
+      {
+        "id": "EDM04_Q5_I3",
+        "text": "Risks related to dependence on certain key personnel are analyzed and mitigated."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM04-Q6",
+    "items": [
+      {
+        "id": "EDM04_Q6_I1",
+        "text": "Costs associated with I&T resources (human, technical, suppliers) are known and tracked."
+      },
+      {
+        "id": "EDM04_Q6_I2",
+        "text": "Governance decisions incorporate the search for a balance between costs, risks, and value."
+      },
+      {
+        "id": "EDM04_Q6_I3",
+        "text": "Resource optimization initiatives (rationalization, mutualization, automation) are managed."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM04-Q7",
+    "items": [
+      {
+        "id": "EDM04_Q7_I1",
+        "text": "The lifecycle of I&T resources (acquisition, operation, renewal, retirement) is managed in a structured manner."
+      },
+      {
+        "id": "EDM04_Q7_I2",
+        "text": "Decisions on resource renewal or retirement take into account criticality and risks."
+      },
+      {
+        "id": "EDM04_Q7_I3",
+        "text": "Obsolete or redundant resources are identified and progressively eliminated."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM04-Q8",
+    "items": [
+      {
+        "id": "EDM04_Q8_I1",
+        "text": "The overall adequacy of I&T resources (quantity, quality, skills, technologies) is regularly reviewed by governance."
+      },
+      {
+        "id": "EDM04_Q8_I2",
+        "text": "Feedback from business functions and I&T teams on resource constraints is taken into account."
+      },
+      {
+        "id": "EDM04_Q8_I3",
+        "text": "Decisions made gradually improve the effectiveness and efficiency of resource usage."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM05-Q1",
+    "items": [
+      {
+        "id": "EDM05_Q1_I1",
+        "text": "Key I&T stakeholders (management, business functions, users, regulators, partners) are identified."
+      },
+      {
+        "id": "EDM05_Q1_I2",
+        "text": "Their information expectations (frequency, level of detail, topics) are analyzed."
+      },
+      {
+        "id": "EDM05_Q1_I3",
+        "text": "A stakeholder map with their information needs is available."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM05-Q2",
+    "items": [
+      {
+        "id": "EDM05_Q2_I1",
+        "text": "An I&T reporting model to stakeholders is defined (formats, channels, bodies)."
+      },
+      {
+        "id": "EDM05_Q2_I2",
+        "text": "This reporting model covers performance, risks, compliance, costs, and value."
+      },
+      {
+        "id": "EDM05_Q2_I3",
+        "text": "Responsibilities for producing, consolidating, and validating reports are clear."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM05-Q3",
+    "items": [
+      {
+        "id": "EDM05_Q3_I1",
+        "text": "Regular dashboards on the performance of I&T services and projects are produced."
+      },
+      {
+        "id": "EDM05_Q3_I2",
+        "text": "The indicators presented are understandable for non-technical stakeholders."
+      },
+      {
+        "id": "EDM05_Q3_I3",
+        "text": "Significant deviations (performance degradation, failure to meet objectives) are explained and accompanied by action plans."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM05-Q4",
+    "items": [
+      {
+        "id": "EDM05_Q4_I1",
+        "text": "Major I&T risks and significant incidents are reported to the relevant governance bodies and stakeholders."
+      },
+      {
+        "id": "EDM05_Q4_I2",
+        "text": "Information communicated on risks is balanced (transparency without unnecessary alarmism)."
+      },
+      {
+        "id": "EDM05_Q4_I3",
+        "text": "Decisions on risk treatment or acceptance are documented and communicated."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM05-Q5",
+    "items": [
+      {
+        "id": "EDM05_Q5_I1",
+        "text": "The results of audits, controls, and assessments (internal or external) concerning I&T are shared with the relevant stakeholders."
+      },
+      {
+        "id": "EDM05_Q5_I2",
+        "text": "Action plans resulting from these assessments are communicated (at least to responsible parties and governance bodies)."
+      },
+      {
+        "id": "EDM05_Q5_I3",
+        "text": "The status of these action plans is integrated, when relevant, into regular reports."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM05-Q6",
+    "items": [
+      {
+        "id": "EDM05_Q6_I1",
+        "text": "Mechanisms for stakeholder feedback on the information provided exist (committees, surveys, bilateral exchanges)."
+      },
+      {
+        "id": "EDM05_Q6_I2",
+        "text": "Requests for changes to reports (content, frequency, format) are analyzed and addressed."
+      },
+      {
+        "id": "EDM05_Q6_I3",
+        "text": "Modifications made to the reporting mechanism are communicated to stakeholders."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM05-Q7",
+    "items": [
+      {
+        "id": "EDM05_Q7_I1",
+        "text": "Specific communication arrangements are planned for crisis situations or major I&T incidents."
+      },
+      {
+        "id": "EDM05_Q7_I2",
+        "text": "Messages addressed to stakeholders in case of an incident are coordinated and validated at the appropriate level."
+      },
+      {
+        "id": "EDM05_Q7_I3",
+        "text": "Stakeholder feedback after a crisis is taken into account to improve future communication."
+      }
+    ]
+  },
+  {
+    "questionId": "EDM05-Q8",
+    "items": [
+      {
+        "id": "EDM05_Q8_I1",
+        "text": "The overall effectiveness of I&T transparency and reporting is periodically evaluated (relevance, usefulness, comprehension)."
+      },
+      {
+        "id": "EDM05_Q8_I2",
+        "text": "Changes in stakeholder needs (new requirements, new regulators, new risks) are integrated into the framework."
+      },
+      {
+        "id": "EDM05_Q8_I3",
+        "text": "Continuous improvement actions for I&T reporting and transparency are planned and monitored."
+      }
+    ]
+  },
+  
+  {
+    "questionId": "BAI01-Q1",
+    "items": [
+      {
+        "id": "BAI01_Q1_I1",
+        "text": "A program and project management methodology (lifecycle, phases, deliverables) is defined and formalised."
+      },
+      {
+        "id": "BAI01_Q1_I2",
+        "text": "This methodology is aligned with the organisation's practices (PMO, portfolio, governance)."
+      },
+      {
+        "id": "BAI01_Q1_I3",
+        "text": "Project managers and stakeholders know the methodology and the main expected deliverables."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI01-Q2",
+    "items": [
+      {
+        "id": "BAI01_Q2_I1",
+        "text": "Each project has an approved charter or initiation document (objectives, scope, budget, deadlines)."
+      },
+      {
+        "id": "BAI01_Q2_I2",
+        "text": "Business sponsors formally validate the objectives and scope of I&T projects."
+      },
+      {
+        "id": "BAI01_Q2_I3",
+        "text": "Project success criteria are defined from the start (expected benefits, indicators)."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI01-Q3",
+    "items": [
+      {
+        "id": "BAI01_Q3_I1",
+        "text": "Detailed project plans exist (schedule, milestones, resources, budget)."
+      },
+      {
+        "id": "BAI01_Q3_I2",
+        "text": "Dependencies between projects and programs are identified and tracked."
+      },
+      {
+        "id": "BAI01_Q3_I3",
+        "text": "Plans are updated based on progress and arbitration decisions."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI01-Q4",
+    "items": [
+      {
+        "id": "BAI01_Q4_I1",
+        "text": "Project risks and opportunities are formalised in a specific register."
+      },
+      {
+        "id": "BAI01_Q4_I2",
+        "text": "Risk response plans (reduction, transfer, acceptance) are defined and tracked."
+      },
+      {
+        "id": "BAI01_Q4_I3",
+        "text": "Quality control mechanisms are planned in projects (reviews, validations, tests)."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI01-Q5",
+    "items": [
+      {
+        "id": "BAI01_Q5_I1",
+        "text": "Project progress (costs, deadlines, scope, risks) is monitored using reports or indicators."
+      },
+      {
+        "id": "BAI01_Q5_I2",
+        "text": "Projects in difficulty are identified based on objective criteria (delays, budget overruns, quality)."
+      },
+      {
+        "id": "BAI01_Q5_I3",
+        "text": "Decisions (remedial plan, re-scoping, stop) are taken for projects in difficulty."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI01-Q6",
+    "items": [
+      {
+        "id": "BAI01_Q6_I1",
+        "text": "Scope changes are formalised and assessed (impact on costs, deadlines, risks)."
+      },
+      {
+        "id": "BAI01_Q6_I2",
+        "text": "Decisions on these changes are taken at the right level (project committee, sponsor, governance committee)."
+      },
+      {
+        "id": "BAI01_Q6_I3",
+        "text": "Project documents are updated to reflect approved changes."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI01-Q7",
+    "items": [
+      {
+        "id": "BAI01_Q7_I1",
+        "text": "Projects are formally closed (closing report, deliverable validation, assessment)."
+      },
+      {
+        "id": "BAI01_Q7_I2",
+        "text": "Lessons learned (REX - retour d'expérience) are carried out for significant projects."
+      },
+      {
+        "id": "BAI01_Q7_I3",
+        "text": "Lessons learned from projects feed into the improvement of project management practices."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI01-Q8",
+    "items": [
+      {
+        "id": "BAI01_Q8_I1",
+        "text": "Programs (coherent sets of projects) are managed with a consolidated view of benefits, risks, and dependencies."
+      },
+      {
+        "id": "BAI01_Q8_I2",
+        "text": "Portfolio decisions (prioritisation, launch, stop) take this consolidated view into account."
+      },
+      {
+        "id": "BAI01_Q8_I3",
+        "text": "Governance bodies receive a global view on the status of major programs and projects."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI02-Q1",
+    "items": [
+      {
+        "id": "BAI02_Q1_I1",
+        "text": "A structured approach to requirements management (collection, analysis, validation) is defined."
+      },
+      {
+        "id": "BAI02_Q1_I2",
+        "text": "Roles for requirements management (business, analysts, architects) are clearly identified."
+      },
+      {
+        "id": "BAI02_Q1_I3",
+        "text": "Standardised models or templates are used to document requirements."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI02-Q2",
+    "items": [
+      {
+        "id": "BAI02_Q2_I1",
+        "text": "Business needs are gathered via appropriate techniques (workshops, interviews, observation, prototyping)."
+      },
+      {
+        "id": "BAI02_Q2_I2",
+        "text": "Needs are formalised in language understandable by both business and I&T."
+      },
+      {
+        "id": "BAI02_Q2_I3",
+        "text": "Business stakeholders validate the expressed needs before their translation into detailed requirements."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI02-Q3",
+    "items": [
+      {
+        "id": "BAI02_Q3_I1",
+        "text": "Functional and non-functional requirements (performance, security, usability, etc.) are defined."
+      },
+      {
+        "id": "BAI02_Q3_I2",
+        "text": "Requirements are analysed to detect inconsistencies, redundancies, or gaps."
+      },
+      {
+        "id": "BAI02_Q3_I3",
+        "text": "Requirements are validated by business and I&T teams before the design or development phase."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI02-Q4",
+    "items": [
+      {
+        "id": "BAI02_Q4_I1",
+        "text": "Requirements are prioritised according to defined criteria (business value, risks, regulatory constraints)."
+      },
+      {
+        "id": "BAI02_Q4_I2",
+        "text": "Arbitration on priorities is done in consultation with the business."
+      },
+      {
+        "id": "BAI02_Q4_I3",
+        "text": "Prioritisation decisions are traced and communicated to the relevant teams."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI02-Q5",
+    "items": [
+      {
+        "id": "BAI02_Q5_I1",
+        "text": "Traceability exists between requirements, use cases, specifications, tests, and deliverables."
+      },
+      {
+        "id": "BAI02_Q5_I2",
+        "text": "Traceability matrices are used to verify coverage of needs."
+      },
+      {
+        "id": "BAI02_Q5_I3",
+        "text": "Changes in requirements are reflected in the traceability elements."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI02-Q6",
+    "items": [
+      {
+        "id": "BAI02_Q6_I1",
+        "text": "Changes to requirements follow a formal process (request, impact analysis, decision)."
+      },
+      {
+        "id": "BAI02_Q6_I2",
+        "text": "The impacts of requirements changes on costs, deadlines, and risks are assessed."
+      },
+      {
+        "id": "BAI02_Q6_I3",
+        "text": "Decisions on these changes are communicated to all concerned stakeholders."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI02-Q7",
+    "items": [
+      {
+        "id": "BAI02_Q7_I1",
+        "text": "Requirements take into account regulatory, security, and performance constraints."
+      },
+      {
+        "id": "BAI02_Q7_I2",
+        "text": "Technical and architectural constraints (standards, enterprise architecture, integration) are incorporated from the definition of requirements."
+      },
+      {
+        "id": "BAI02_Q7_I3",
+        "text": "Risks related to complex or ambiguous requirements are identified and tracked."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI02-Q8",
+    "items": [
+      {
+        "id": "BAI02_Q8_I1",
+        "text": "Before go-live, it is verified that priority requirements are covered by the delivered solution."
+      },
+      {
+        "id": "BAI02_Q8_I2",
+        "text": "Business validates that their essential needs are properly addressed."
+      },
+      {
+        "id": "BAI02_Q8_I3",
+        "text": "Any discrepancies between initial needs and the provided solution are documented and accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI03-Q1",
+    "items": [
+      {
+        "id": "BAI03_Q1_I1",
+        "text": "A development or integration lifecycle (SDLC) is defined for I&T solutions."
+      },
+      {
+        "id": "BAI03_Q1_I2",
+        "text": "This cycle includes at least the phases of design, build, test, deployment, and support."
+      },
+      {
+        "id": "BAI03_Q1_I3",
+        "text": "Project teams systematically apply this lifecycle."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI03-Q2",
+    "items": [
+      {
+        "id": "BAI03_Q2_I1",
+        "text": "Solutions are designed consistently with enterprise architecture and technical standards."
+      },
+      {
+        "id": "BAI03_Q2_I2",
+        "text": "Functional and technical designs are documented and reviewed."
+      },
+      {
+        "id": "BAI03_Q2_I3",
+        "text": "Constraints related to performance, security, operations, and maintenance are integrated from the design phase."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI03-Q3",
+    "items": [
+      {
+        "id": "BAI03_Q3_I1",
+        "text": "Developments or configurations are carried out according to coding or configuration standards."
+      },
+      {
+        "id": "BAI03_Q3_I2",
+        "text": "Code or configuration reviews are performed for critical components."
+      },
+      {
+        "id": "BAI03_Q3_I3",
+        "text": "Development and integration environments are separated from production."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI03-Q4",
+    "items": [
+      {
+        "id": "BAI03_Q4_I1",
+        "text": "Unit and integration tests are carried out and tracked."
+      },
+      {
+        "id": "BAI03_Q4_I2",
+        "text": "Detected defects are recorded, prioritised, and corrected."
+      },
+      {
+        "id": "BAI03_Q4_I3",
+        "text": "Test exit criteria are defined (success rate, criticality of remaining anomalies)."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI03-Q5",
+    "items": [
+      {
+        "id": "BAI03_Q5_I1",
+        "text": "Security requirements are taken into account in development (controls, encryption, logging)."
+      },
+      {
+        "id": "BAI03_Q5_I2",
+        "text": "Specific security tests or reviews are carried out for sensitive solutions."
+      },
+      {
+        "id": "BAI03_Q5_I3",
+        "text": "Identified vulnerabilities are corrected before go-live where possible."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI03-Q6",
+    "items": [
+      {
+        "id": "BAI03_Q6_I1",
+        "text": "Test and pre-production environments are representative of production."
+      },
+      {
+        "id": "BAI03_Q6_I2",
+        "text": "Data used in testing complies with confidentiality and data protection constraints."
+      },
+      {
+        "id": "BAI03_Q6_I3",
+        "text": "Procedures for refreshing and managing environments are defined."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI03-Q7",
+    "items": [
+      {
+        "id": "BAI03_Q7_I1",
+        "text": "Interfaces and integrations with existing systems are formally specified and tested."
+      },
+      {
+        "id": "BAI03_Q7_I2",
+        "text": "Impacts on existing applications and data are analysed."
+      },
+      {
+        "id": "BAI03_Q7_I3",
+        "text": "Integration tests cover critical inter-system flows."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI03-Q8",
+    "items": [
+      {
+        "id": "BAI03_Q8_I1",
+        "text": "Documentation (technical, operational, administrative) of the solution is produced."
+      },
+      {
+        "id": "BAI03_Q8_I2",
+        "text": "Deployment and rollback procedures are defined and tested."
+      },
+      {
+        "id": "BAI03_Q8_I3",
+        "text": "Operations and support teams receive necessary information before go-live."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI04-Q1",
+    "items": [
+      {
+        "id": "BAI04_Q1_I1",
+        "text": "Availability objectives are defined for critical services and applications."
+      },
+      {
+        "id": "BAI04_Q1_I2",
+        "text": "Capacity objectives (volumes, peak load, growth) are identified."
+      },
+      {
+        "id": "BAI04_Q1_I3",
+        "text": "Business needs in terms of availability and performance are taken into account in these objectives."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI04-Q2",
+    "items": [
+      {
+        "id": "BAI04_Q2_I1",
+        "text": "Resource consumption (CPU, memory, storage, network) is monitored for key components."
+      },
+      {
+        "id": "BAI04_Q2_I2",
+        "text": "Load and performance trends are regularly analysed."
+      },
+      {
+        "id": "BAI04_Q2_I3",
+        "text": "Alerts and thresholds are defined to anticipate capacity saturation."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI04-Q3",
+    "items": [
+      {
+        "id": "BAI04_Q3_I1",
+        "text": "Availability and performance incidents are recorded and analysed."
+      },
+      {
+        "id": "BAI04_Q3_I2",
+        "text": "Root causes of major downtimes are sought."
+      },
+      {
+        "id": "BAI04_Q3_I3",
+        "text": "Improvement actions are defined and tracked to reduce these incidents."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI04-Q4",
+    "items": [
+      {
+        "id": "BAI04_Q4_I1",
+        "text": "A capacity plan is maintained, describing forecast demand evolution and envisaged responses."
+      },
+      {
+        "id": "BAI04_Q4_I2",
+        "text": "Investment decisions (servers, licenses, storage, network) take this plan into account."
+      },
+      {
+        "id": "BAI04_Q4_I3",
+        "text": "Revisions to the capacity plan are carried out at a defined frequency."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI04-Q5",
+    "items": [
+      {
+        "id": "BAI04_Q5_I1",
+        "text": "SLAs and performance objectives are used as a reference to assess availability and capacity."
+      },
+      {
+        "id": "BAI04_Q5_I2",
+        "text": "Significant deviations from SLAs are analysed with the business."
+      },
+      {
+        "id": "BAI04_Q5_I3",
+        "text": "Action plans are put in place to improve satisfaction related to availability and performance."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI04-Q6",
+    "items": [
+      {
+        "id": "BAI04_Q6_I1",
+        "text": "Load or performance tests are carried out for critical solutions."
+      },
+      {
+        "id": "BAI04_Q6_I2",
+        "text": "The results of these tests are used to validate infrastructure sizing."
+      },
+      {
+        "id": "BAI04_Q6_I3",
+        "text": "Load ramp-up scenarios are taken into account during new go-lives."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI04-Q7",
+    "items": [
+      {
+        "id": "BAI04_Q7_I1",
+        "text": "Continuity needs (RPO, RTO) are defined for key services."
+      },
+      {
+        "id": "BAI04_Q7_I2",
+        "text": "Redundancy and recovery mechanisms are in place for critical components."
+      },
+      {
+        "id": "BAI04_Q7_I3",
+        "text": "Recovery procedures are tested periodically."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI04-Q8",
+    "items": [
+      {
+        "id": "BAI04_Q8_I1",
+        "text": "Regular reviews of performance and availability are conducted with the business."
+      },
+      {
+        "id": "BAI04_Q8_I2",
+        "text": "Identified improvements (optimisation, reconfiguration, redesign) are planned."
+      },
+      {
+        "id": "BAI04_Q8_I3",
+        "text": "Availability and performance indicators show a controlled or improving trend."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI05-Q1",
+    "items": [
+      {
+        "id": "BAI05_Q1_I1",
+        "text": "An organisational change management approach is defined for I&T initiatives."
+      },
+      {
+        "id": "BAI05_Q1_I2",
+        "text": "This approach describes communication, training, support, and resistance management activities."
+      },
+      {
+        "id": "BAI05_Q1_I3",
+        "text": "Significant projects systematically include a change management component."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI05-Q2",
+    "items": [
+      {
+        "id": "BAI05_Q2_I1",
+        "text": "The impacts of projects on business processes, roles, and organisation are analysed."
+      },
+      {
+        "id": "BAI05_Q2_I2",
+        "text": "A mapping of impacted populations is carried out (by profile, department, location)."
+      },
+      {
+        "id": "BAI05_Q2_I3",
+        "text": "Support needs are tailored according to these impacts."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI05-Q3",
+    "items": [
+      {
+        "id": "BAI05_Q3_I1",
+        "text": "Communication plans are defined for major changes (messages, channels, calendar)."
+      },
+      {
+        "id": "BAI05_Q3_I2",
+        "text": "Messages are clear on the objectives, benefits, impacts, and practical arrangements of the change."
+      },
+      {
+        "id": "BAI05_Q3_I3",
+        "text": "User feedback on communication is taken into account (questions, misunderstandings, rumours)."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI05-Q4",
+    "items": [
+      {
+        "id": "BAI05_Q4_I1",
+        "text": "Training plans are established for users impacted by the new systems or processes."
+      },
+      {
+        "id": "BAI05_Q4_I2",
+        "text": "Training materials are adapted to the profiles (end-users, administrators, support)."
+      },
+      {
+        "id": "BAI05_Q4_I3",
+        "text": "Participation in training and comprehension of content are evaluated."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI05-Q5",
+    "items": [
+      {
+        "id": "BAI05_Q5_I1",
+        "text": "Managers of impacted teams are involved in change management."
+      },
+      {
+        "id": "BAI05_Q5_I2",
+        "text": "They have the necessary information and tools to support their teams."
+      },
+      {
+        "id": "BAI05_Q5_I3",
+        "text": "Managers relay key messages and facilitate the adoption of new practices."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI05-Q6",
+    "items": [
+      {
+        "id": "BAI05_Q6_I1",
+        "text": "Resistance to change is identified (via feedback, surveys, incidents)."
+      },
+      {
+        "id": "BAI05_Q6_I2",
+        "text": "Targeted actions are carried out to address resistance points (listening, support, adjustments)."
+      },
+      {
+        "id": "BAI05_Q6_I3",
+        "text": "Changes in user adoption are monitored over time."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI05-Q7",
+    "items": [
+      {
+        "id": "BAI05_Q7_I1",
+        "text": "Adoption of new solutions or processes is measured (usage, frequency, performance indicators)."
+      },
+      {
+        "id": "BAI05_Q7_I2",
+        "text": "User satisfaction is evaluated after major deployments."
+      },
+      {
+        "id": "BAI05_Q7_I3",
+        "text": "Corrective actions are initiated if adoption or satisfaction is insufficient."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI05-Q8",
+    "items": [
+      {
+        "id": "BAI05_Q8_I1",
+        "text": "Lessons learned on change management are carried out for the main projects."
+      },
+      {
+        "id": "BAI05_Q8_I2",
+        "text": "Best practices and mistakes to avoid are documented."
+      },
+      {
+        "id": "BAI05_Q8_I3",
+        "text": "These lessons are reused in subsequent projects."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI06-Q1",
+    "items": [
+      {
+        "id": "BAI06_Q1_I1",
+        "text": "A formalised I&T change management process exists (creation, evaluation, approval, implementation, closure)."
+      },
+      {
+        "id": "BAI06_Q1_I2",
+        "text": "Types of changes are defined (standard, normal, urgent) with their own rules."
+      },
+      {
+        "id": "BAI06_Q1_I3",
+        "text": "Teams are aware of this process and use it for their change requests."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI06-Q2",
+    "items": [
+      {
+        "id": "BAI06_Q2_I1",
+        "text": "Change requests are recorded in a dedicated tool or register."
+      },
+      {
+        "id": "BAI06_Q2_I2",
+        "text": "Each request includes at a minimum: description, justification, scope, risks, implementation plan, and rollback plan."
+      },
+      {
+        "id": "BAI06_Q2_I3",
+        "text": "Requests are categorised and prioritised."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI06-Q3",
+    "items": [
+      {
+        "id": "BAI06_Q3_I1",
+        "text": "Impacts of changes on services, infrastructures, security, and business are analysed."
+      },
+      {
+        "id": "BAI06_Q3_I2",
+        "text": "High-risk changes are subject to in-depth analysis and more formal validation."
+      },
+      {
+        "id": "BAI06_Q3_I3",
+        "text": "Potential conflicts between changes (windows, resources) are identified."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI06-Q4",
+    "items": [
+      {
+        "id": "BAI06_Q4_I1",
+        "text": "A Change Advisory Board (CAB) or equivalent reviews and approves significant changes."
+      },
+      {
+        "id": "BAI06_Q4_I2",
+        "text": "Business is involved in decisions for changes that impact them."
+      },
+      {
+        "id": "BAI06_Q4_I3",
+        "text": "Change committee decisions are documented."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI06-Q5",
+    "items": [
+      {
+        "id": "BAI06_Q5_I1",
+        "text": "Changes are planned within release windows compatible with business constraints."
+      },
+      {
+        "id": "BAI06_Q5_I2",
+        "text": "Critical changes are coordinated with operations, network, security, etc. teams."
+      },
+      {
+        "id": "BAI06_Q5_I3",
+        "text": "Change freeze periods are defined during sensitive times (peak activity, closings)."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI06-Q6",
+    "items": [
+      {
+        "id": "BAI06_Q6_I1",
+        "text": "Implementation and rollback plans are known before the change execution."
+      },
+      {
+        "id": "BAI06_Q6_I2",
+        "text": "The execution of changes is monitored and tracked (success, failure, related incidents)."
+      },
+      {
+        "id": "BAI06_Q6_I3",
+        "text": "Failed or problematic changes are subject to analysis and corrective measures."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI06-Q7",
+    "items": [
+      {
+        "id": "BAI06_Q7_I1",
+        "text": "Change records are linked to system documentation and the CMDB."
+      },
+      {
+        "id": "BAI06_Q7_I2",
+        "text": "Operating documents and procedures are updated following changes."
+      },
+      {
+        "id": "BAI06_Q7_I3",
+        "text": "Documentation updates are verified as part of the change process."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI06-Q8",
+    "items": [
+      {
+        "id": "BAI06_Q8_I1",
+        "text": "Change management indicators are tracked (success rate, urgent changes, post-change incidents)."
+      },
+      {
+        "id": "BAI06_Q8_I2",
+        "text": "The results of these indicators are examined to improve the process."
+      },
+      {
+        "id": "BAI06_Q8_I3",
+        "text": "Change practices evolve to reduce incidents and increase the success rate."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI07-Q1",
+    "items": [
+      {
+        "id": "BAI07_Q1_I1",
+        "text": "Acceptance criteria are defined for deliverables before going into production."
+      },
+      {
+        "id": "BAI07_Q1_I2",
+        "text": "These criteria are known by the project, business, and operations teams."
+      },
+      {
+        "id": "BAI07_Q1_I3",
+        "text": "Deliverables are formally evaluated against these criteria before acceptance."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI07-Q2",
+    "items": [
+      {
+        "id": "BAI07_Q2_I1",
+        "text": "A testing strategy (functional, technical, non-regression) is defined for each project."
+      },
+      {
+        "id": "BAI07_Q2_I2",
+        "text": "Test plans include representative business scenarios."
+      },
+      {
+        "id": "BAI07_Q2_I3",
+        "text": "Test results are documented and used as the basis for acceptance decisions."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI07-Q3",
+    "items": [
+      {
+        "id": "BAI07_Q3_I1",
+        "text": "Migration strategies (data, users, processes) are defined before deployment."
+      },
+      {
+        "id": "BAI07_Q3_I2",
+        "text": "Cut-over plans are detailed and tested when necessary."
+      },
+      {
+        "id": "BAI07_Q3_I3",
+        "text": "Risks associated with migrations are identified and taken into account."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI07-Q4",
+    "items": [
+      {
+        "id": "BAI07_Q4_I1",
+        "text": "Go-lives follow formalised procedures (release management)."
+      },
+      {
+        "id": "BAI07_Q4_I2",
+        "text": "Production teams validate go-live plans before execution."
+      },
+      {
+        "id": "BAI07_Q4_I3",
+        "text": "Go-live results are tracked (success, incidents, rollbacks)."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI07-Q5",
+    "items": [
+      {
+        "id": "BAI07_Q5_I1",
+        "text": "Operational prerequisites (supervision, backups, security, procedures) are verified before go-live."
+      },
+      {
+        "id": "BAI07_Q5_I2",
+        "text": "Operational and support responsibilities are assigned for new services."
+      },
+      {
+        "id": "BAI07_Q5_I3",
+        "text": "Outsourcing services or external suppliers are involved if necessary before going live."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI07-Q6",
+    "items": [
+      {
+        "id": "BAI07_Q6_I1",
+        "text": "A structured handover is organised between project teams and run/support teams."
+      },
+      {
+        "id": "BAI07_Q6_I2",
+        "text": "Support teams have the necessary documentation, access, and tools from the moment of go-live."
+      },
+      {
+        "id": "BAI07_Q6_I3",
+        "text": "Knowledge transfer sessions are carried out if needed."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI07-Q7",
+    "items": [
+      {
+        "id": "BAI07_Q7_I1",
+        "text": "A warranty or hypercare period is planned after major go-lives."
+      },
+      {
+        "id": "BAI07_Q7_I2",
+        "text": "Incidents and requests during this period are monitored in a reinforced manner."
+      },
+      {
+        "id": "BAI07_Q7_I3",
+        "text": "Recurrent problems identified during the warranty period are subject to lasting corrections."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI07-Q8",
+    "items": [
+      {
+        "id": "BAI07_Q8_I1",
+        "text": "Business validates the conformity of delivered solutions against needs and acceptance criteria."
+      },
+      {
+        "id": "BAI07_Q8_I2",
+        "text": "Projects are closed after confirmation that the transition to operations is stabilised."
+      },
+      {
+        "id": "BAI07_Q8_I3",
+        "text": "Lessons learned from the transition phase are collected and shared."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI08-Q1",
+    "items": [
+      {
+        "id": "BAI08_Q1_I1",
+        "text": "A strategy or framework for I&T knowledge management is defined."
+      },
+      {
+        "id": "BAI08_Q1_I2",
+        "text": "Types of knowledge to manage (technical, functional, procedures, lessons learned) are identified."
+      },
+      {
+        "id": "BAI08_Q1_I3",
+        "text": "Knowledge management objectives (incident reduction, resolution times, quality) are clarified."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI08-Q2",
+    "items": [
+      {
+        "id": "BAI08_Q2_I1",
+        "text": "A central repository or tool (knowledge base, wiki, portal) is used to store I&T knowledge."
+      },
+      {
+        "id": "BAI08_Q2_I2",
+        "text": "The structure of this repository is coherent and facilitates information retrieval."
+      },
+      {
+        "id": "BAI08_Q2_I3",
+        "text": "Access rights are managed to protect sensitive information."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI08-Q3",
+    "items": [
+      {
+        "id": "BAI08_Q3_I1",
+        "text": "Lessons learned (major incidents, projects) lead to formal capitalisation."
+      },
+      {
+        "id": "BAI08_Q3_I2",
+        "text": "Solutions to recurrent problems are documented in the knowledge base."
+      },
+      {
+        "id": "BAI08_Q3_I3",
+        "text": "Teams are encouraged to share their knowledge (communities of practice, workshops)."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI08-Q4",
+    "items": [
+      {
+        "id": "BAI08_Q4_I1",
+        "text": "System, process, and service documentation is centralised or referenced."
+      },
+      {
+        "id": "BAI08_Q4_I2",
+        "text": "User guides, support procedures, FAQs are available for key services."
+      },
+      {
+        "id": "BAI08_Q4_I3",
+        "text": "Documentation updates are integrated into project and change processes."
+      }
+    ]
+  },
+
+  {
+    "questionId": "BAI08-Q5",
+    "items": [
+      {
+        "id": "BAI08_Q5_I1",
+        "text": "The content of the knowledge repository is effectively searchable (search engine, indexing)."
+      },
+      {
+        "id": "BAI08_Q5_I2",
+        "text": "Metadata (keywords, categories, date, author) are used to qualify the content."
+      },
+      {
+        "id": "BAI08_Q5_I3",
+        "text": "Users can easily find the necessary information to resolve incidents or perform their tasks."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI08-Q6",
+    "items": [
+      {
+        "id": "BAI08_Q6_I1",
+        "text": "Knowledge owner roles are defined for key areas."
+      },
+      {
+        "id": "BAI08_Q6_I2",
+        "text": "These owners ensure the quality, relevance, and updating of the content."
+      },
+      {
+        "id": "BAI08_Q6_I3",
+        "text": "Contributions to the knowledge base are encouraged and recognized."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI08-Q7",
+    "items": [
+      {
+        "id": "BAI08_Q7_I1",
+        "text": "Regular reviews of content (obsolete, redundant, incomplete) are carried out."
+      },
+      {
+        "id": "BAI08_Q7_I2",
+        "text": "Obsolete documents are archived or deleted."
+      },
+      {
+        "id": "BAI08_Q7_I3",
+        "text": "Critical documents are reviewed according to a defined frequency."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI08-Q8",
+    "items": [
+      {
+        "id": "BAI08_Q8_I1",
+        "text": "Knowledge base usage is measured (consultations, resolution rate via the base)."
+      },
+      {
+        "id": "BAI08_Q8_I2",
+        "text": "Metrics show a contribution of knowledge management to the improvement of support and projects."
+      },
+      {
+        "id": "BAI08_Q8_I3",
+        "text": "User feedback on the quality of knowledge is taken into account to improve the system."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI09-Q1",
+    "items": [
+      {
+        "id": "BAI09_Q1_I1",
+        "text": "An inventory of I&T assets (hardware, software, data, documentation) is maintained."
+      },
+      {
+        "id": "BAI09_Q1_I2",
+        "text": "Each key asset has a unique identifier in the inventory."
+      },
+      {
+        "id": "BAI09_Q1_I3",
+        "text": "The inventory is updated upon asset acquisition, change, or retirement."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI09-Q2",
+    "items": [
+      {
+        "id": "BAI09_Q2_I1",
+        "text": "Assets are classified by type, criticality, and business or I&T owner."
+      },
+      {
+        "id": "BAI09_Q2_I2",
+        "text": "Management responsibilities for each asset category are defined."
+      },
+      {
+        "id": "BAI09_Q2_I3",
+        "text": "Classification information is used for security, maintenance, and prioritization."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI09-Q3",
+    "items": [
+      {
+        "id": "BAI09_Q3_I1",
+        "text": "The asset lifecycle is managed (acquisition, deployment, operation, maintenance, retirement)."
+      },
+      {
+        "id": "BAI09_Q3_I2",
+        "text": "Renewal or retirement decisions take into account obsolescence and associated risks."
+      },
+      {
+        "id": "BAI09_Q3_I3",
+        "text": "Retired assets are managed in accordance with security and compliance obligations (erasure, destruction)."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI09-Q4",
+    "items": [
+      {
+        "id": "BAI09_Q4_I1",
+        "text": "Software licenses are inventoried with their terms and conditions (count, duration, scope)."
+      },
+      {
+        "id": "BAI09_Q4_I2",
+        "text": "Compliance with license agreements is verified periodically."
+      },
+      {
+        "id": "BAI09_Q4_I3",
+        "text": "Risks of over-licensing or under-licensing are identified and addressed."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI09-Q5",
+    "items": [
+      {
+        "id": "BAI09_Q5_I1",
+        "text": "Physical assets are protected (secure premises, access controls, regular inventories)."
+      },
+      {
+        "id": "BAI09_Q5_I2",
+        "text": "Logical assets (data, software) are protected according to their sensitivity."
+      },
+      {
+        "id": "BAI09_Q5_I3",
+        "text": "Loss, theft, or degradation of assets are subject to specific procedures."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI09-Q6",
+    "items": [
+      {
+        "id": "BAI09_Q6_I1",
+        "text": "Costs associated with assets (acquisition, maintenance, licenses) are tracked."
+      },
+      {
+        "id": "BAI09_Q6_I2",
+        "text": "Investment or rationalization decisions are based on this information."
+      },
+      {
+        "id": "BAI09_Q6_I3",
+        "text": "Underutilized or redundant assets are identified to optimize costs."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI09-Q7",
+    "items": [
+      {
+        "id": "BAI09_Q7_I1",
+        "text": "Risks related to assets (obsolescence, vulnerabilities, dependencies) are identified."
+      },
+      {
+        "id": "BAI09_Q7_I2",
+        "text": "These risks are taken into account in the overall I&T risk management."
+      },
+      {
+        "id": "BAI09_Q7_I3",
+        "text": "Action plans exist for high-risk assets."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI09-Q8",
+    "items": [
+      {
+        "id": "BAI09_Q8_I1",
+        "text": "Regular reconciliation is performed between the asset inventory, procurement, the CMDB, and technical tools."
+      },
+      {
+        "id": "BAI09_Q8_I2",
+        "text": "Detected anomalies (undeclared assets, duplicates) are addressed."
+      },
+      {
+        "id": "BAI09_Q8_I3",
+        "text": "The quality of the asset inventory is monitored using metrics."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI10-Q1",
+    "items": [
+      {
+        "id": "BAI10_Q1_I1",
+        "text": "A Configuration Management Database (CMDB) or equivalent tool is implemented."
+      },
+      {
+        "id": "BAI10_Q1_I2",
+        "text": "A data model describes the types of Configuration Items (CIs) and their relationships."
+      },
+      {
+        "id": "BAI10_Q1_I3",
+        "text": "Major services, applications, infrastructures, and components are represented in the CMDB."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI10-Q2",
+    "items": [
+      {
+        "id": "BAI10_Q2_I1",
+        "text": "Configuration Items are uniquely identified (naming convention, code, reference)."
+      },
+      {
+        "id": "BAI10_Q2_I2",
+        "text": "Relationships between items (dependencies, hosting, composition) are modeled."
+      },
+      {
+        "id": "BAI10_Q2_I3",
+        "text": "Essential information (version, owner, location) is recorded for each CI."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI10-Q3",
+    "items": [
+      {
+        "id": "BAI10_Q3_I1",
+        "text": "The change management process mandates updating the CMDB during each validated change."
+      },
+      {
+        "id": "BAI10_Q3_I2",
+        "text": "Deployments are an opportunity to verify and adjust Configuration Items."
+      },
+      {
+        "id": "BAI10_Q3_I3",
+        "text": "Links between change requests, deployments, and affected CIs are tracked."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI10-Q4",
+    "items": [
+      {
+        "id": "BAI10_Q4_I1",
+        "text": "Procedures describe the creation, modification, and deletion of CIs in the CMDB."
+      },
+      {
+        "id": "BAI10_Q4_I2",
+        "text": "Teams know when and how to update the CMDB."
+      },
+      {
+        "id": "BAI10_Q4_I3",
+        "text": "Controls are performed to ensure the CMDB is updated after major changes."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI10-Q5",
+    "items": [
+      {
+        "id": "BAI10_Q5_I1",
+        "text": "CMDB data quality is evaluated (completeness, accuracy, consistency)."
+      },
+      {
+        "id": "BAI10_Q5_I2",
+        "text": "Audits or reconciliation (with inventory, monitoring tools, virtualization) are performed."
+      },
+      {
+        "id": "BAI10_Q5_I3",
+        "text": "Identified discrepancies are corrected and analyzed to prevent their recurrence."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI10-Q6",
+    "items": [
+      {
+        "id": "BAI10_Q6_I1",
+        "text": "Access to the CMDB is controlled (profiles, read/write permissions)."
+      },
+      {
+        "id": "BAI10_Q6_I2",
+        "text": "Sensitive operations (mass modifications) are restricted and traced."
+      },
+      {
+        "id": "BAI10_Q6_I3",
+        "text": "CMDB backups and recovery plans are in place."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI10-Q7",
+    "items": [
+      {
+        "id": "BAI10_Q7_I1",
+        "text": "The CMDB is used to analyze impacts during incidents or changes."
+      },
+      {
+        "id": "BAI10_Q7_I2",
+        "text": "Configuration reports (maps, service views) support operational decisions."
+      },
+      {
+        "id": "BAI10_Q7_I3",
+        "text": "Support teams use the CMDB to accelerate incident diagnosis."
+      }
+    ]
+  },
+  {
+    "questionId": "BAI10-Q8",
+    "items": [
+      {
+        "id": "BAI10_Q8_I1",
+        "text": "The configuration management process is subject to regular reviews."
+      },
+      {
+        "id": "BAI10_Q8_I2",
+        "text": "Identified improvements (automation, integration with other tools) are planned."
+      },
+      {
+        "id": "BAI10_Q8_I3",
+        "text": "The maturity and utility of the CMDB progress over time."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS01-Q1",
+    "items": [
+      {
+        "id": "DSS01_Q1_I1",
+        "text": "A formal process for I&T operations management (exploitation) is defined and documented."
+      },
+      {
+        "id": "DSS01_Q1_I2",
+        "text": "This process covers daily operational activities (monitoring, processing, backups, etc.)."
+      },
+      {
+        "id": "DSS01_Q1_I3",
+        "text": "Roles and responsibilities for I&T operations are clearly defined and known."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS01-Q2",
+    "items": [
+      {
+        "id": "DSS01_Q2_I1",
+        "text": "Recurring processing (batch, interfaces, scheduled tasks) are inventoried."
+      },
+      {
+        "id": "DSS01_Q2_I2",
+        "text": "Launch schedules and dependencies between processing tasks are planned."
+      },
+      {
+        "id": "DSS01_Q2_I3",
+        "text": "Processing failures are detected, recorded, and subject to corrective actions."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS01-Q3",
+    "items": [
+      {
+        "id": "DSS01_Q3_I1",
+        "text": "Technical supervision of systems (servers, databases, networks, applications) is in place."
+      },
+      {
+        "id": "DSS01_Q3_I2",
+        "text": "Thresholds and alerts are defined to detect malfunctions or capacity saturation."
+      },
+      {
+        "id": "DSS01_Q3_I3",
+        "text": "Alerts are handled according to defined procedures and deadlines."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS01-Q4",
+    "items": [
+      {
+        "id": "DSS01_Q4_I1",
+        "text": "A backup policy is defined (frequency, scope, retention) for systems and data."
+      },
+      {
+        "id": "DSS01_Q4_I2",
+        "text": "Backups are automated, monitored, and failures are addressed."
+      },
+      {
+        "id": "DSS01_Q4_I3",
+        "text": "Restoration tests are carried out periodically to verify data recoverability."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS01-Q5",
+    "items": [
+      {
+        "id": "DSS01_Q5_I1",
+        "text": "System and application logs are collected and retained according to defined rules."
+      },
+      {
+        "id": "DSS01_Q5_I2",
+        "text": "Critical logs (security, access, sensitive operations) are protected against modifications."
+      },
+      {
+        "id": "DSS01_Q5_I3",
+        "text": "Logs are used in case of incidents or investigations to reconstruct events."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS01-Q6",
+    "items": [
+      {
+        "id": "DSS01_Q6_I1",
+        "text": "Operating procedures (start/stop, monitoring, interventions) are documented for key systems."
+      },
+      {
+        "id": "DSS01_Q6_I2",
+        "text": "Instructions are accessible to on-call and support teams."
+      },
+      {
+        "id": "DSS01_Q6_I3",
+        "text": "Procedures are updated after significant technical changes."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS01-Q7",
+    "items": [
+      {
+        "id": "DSS01_Q7_I1",
+        "text": "Critical operational tasks are identified and, where possible, automated."
+      },
+      {
+        "id": "DSS01_Q7_I2",
+        "text": "Human errors in operations (manipulations, scripts) are analyzed and lead to preventive actions."
+      },
+      {
+        "id": "DSS01_Q7_I3",
+        "text": "The use of scheduling tools, supervision, and scripts is governed by best practices."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS01-Q8",
+    "items": [
+      {
+        "id": "DSS01_Q8_I1",
+        "text": "Operational metrics (availability, technical incidents, processing failures) are tracked."
+      },
+      {
+        "id": "DSS01_Q8_I2",
+        "text": "Regular performance reviews of I&T operations are organized."
+      },
+      {
+        "id": "DSS01_Q8_I3",
+        "text": "The results of these reviews feed into operational improvement plans."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS02-Q1",
+    "items": [
+      {
+        "id": "DSS02_Q1_I1",
+        "text": " A formal process for incident and service request management is defined."
+      },
+      {
+        "id": "DSS02_Q1_I2",
+        "text": "Ticket types are clearly distinguished (incident, request, problem, change)."
+      },
+      {
+        "id": "DSS02_Q1_I3",
+        "text": "Teams use a single tool or register to record tickets."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS02-Q2",
+    "items": [
+      {
+        "id": "DSS02_Q2_I1",
+        "text": "A single point of contact (service desk, support center) is defined for users."
+      },
+      {
+        "id": "DSS02_Q2_I2",
+        "text": "Contact channels (phone, portal, email, chat) are known to users."
+      },
+      {
+        "id": "DSS02_Q2_I3",
+        "text": "Support hours and service levels are communicated."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS02-Q3",
+    "items": [
+      {
+        "id": "DSS02_Q3_I1",
+        "text": "Tickets are recorded with essential information (requester, description, impacted service, priority)."
+      },
+      {
+        "id": "DSS02_Q3_I2",
+        "text": "Priorities are defined according to impact/urgency criteria."
+      },
+      {
+        "id": "DSS02_Q3_I3",
+        "text": "Tickets are categorized to allow for statistical analysis."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS02-Q4",
+    "items": [
+      {
+        "id": "DSS02_Q4_I1",
+        "text": "Procedures exist for functional and hierarchical escalation of incidents."
+      },
+      {
+        "id": "DSS02_Q4_I2",
+        "text": "Major incidents follow a specific management process (crisis unit, reinforced communication)."
+      },
+      {
+        "id": "DSS02_Q4_I3",
+        "text": "Handling and resolution times are tracked against commitments (SLA)."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS02-Q5",
+    "items": [
+      {
+        "id": "DSS02_Q5_I1",
+        "text": "Standard service requests (e.g., account creation, access, equipment) are defined and documented."
+      },
+      {
+        "id": "DSS02_Q5_I2",
+        "text": "Simplified or automated workflows exist for these frequent requests."
+      },
+      {
+        "id": "DSS02_Q5_I3",
+        "text": "Average processing times for standard requests are tracked."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS02-Q6",
+    "items": [
+      {
+        "id": "DSS02_Q6_I1",
+        "text": "Users are informed of the progress status of their incidents and requests (notifications, portal)."
+      },
+      {
+        "id": "DSS02_Q6_I2",
+        "text": "Communications during major incidents are coordinated with the business units."
+      },
+      {
+        "id": "DSS02_Q6_I3",
+        "text": "A closing message is sent to users with a summary of the resolution."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS02-Q7",
+    "items": [
+      {
+        "id": "DSS02_Q7_I1",
+        "text": "Satisfaction surveys are offered to users upon the closure of certain tickets."
+      },
+      {
+        "id": "DSS02_Q7_I2",
+        "text": "Satisfaction results are analyzed by service or request type."
+      },
+      {
+        "id": "DSS02_Q7_I3",
+        "text": "Improvement actions are defined when satisfaction is insufficient."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS02-Q8",
+    "items": [
+      {
+        "id": "DSS02_Q8_I1",
+        "text": "Incident/request management metrics (volumes, SLA compliance, re-openings) are tracked."
+      },
+      {
+        "id": "DSS02_Q8_I2",
+        "text": "Trends (increase, seasonality, distribution by service) are analyzed."
+      },
+      {
+        "id": "DSS02_Q8_I3",
+        "text": "Ticket analyses contribute to the identification of recurring problems."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS03-Q1",
+    "items": [
+      {
+        "id": "DSS03_Q1_I1",
+        "text": "A formal problem management process, distinct from incident management, is formalized."
+      },
+      {
+        "id": "DSS03_Q1_I2",
+        "text": "The roles of problem manager and analysis teams are identified."
+      },
+      {
+        "id": "DSS03_Q1_I3",
+        "text": "Criteria for problem creation (recurrence, impact, severity) are defined."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS03-Q2",
+    "items": [
+      {
+        "id": "DSS03_Q2_I1",
+        "text": "Recurring or significant incidents are analyzed to determine if they should be grouped as problems."
+      },
+      {
+        "id": "DSS03_Q2_I2",
+        "text": "Problems are recorded with a description, symptoms, and impacted services."
+      },
+      {
+        "id": "DSS03_Q2_I3",
+        "text": "Links between incidents and associated problems are traced in the tool."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS03-Q3",
+    "items": [
+      {
+        "id": "DSS03_Q3_I1",
+        "text": "Root cause analyses are carried out for major problems (structured method)."
+      },
+      {
+        "id": "DSS03_Q3_I2",
+        "text": "Technical, organizational, or human causes are investigated."
+      },
+      {
+        "id": "DSS03_Q3_I3",
+        "text": "The results of the analyses are documented and validated."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS03-Q4",
+    "items": [
+      {
+        "id": "DSS03_Q4_I1",
+        "text": "Permanent solutions (fixes, architectural changes, training) are defined to address the root causes of problems."
+      },
+      {
+        "id": "DSS03_Q4_I2",
+        "text": "These solutions are planned and tracked via change requests or projects."
+      },
+      {
+        "id": "DSS03_Q4_I3",
+        "text": "Problems are closed when solutions have been implemented and validated."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS03-Q5",
+    "items": [
+      {
+        "id": "DSS03_Q5_I1",
+        "text": "Workarounds are defined to reduce impact while awaiting the permanent solution."
+      },
+      {
+        "id": "DSS03_Q5_I2",
+        "text": "These workarounds are documented in the knowledge base."
+      },
+      {
+        "id": "DSS03_Q5_I3",
+        "text": "Support teams know and use these workarounds when relevant."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS03-Q6",
+    "items": [
+      {
+        "id": "DSS03_Q6_I1",
+        "text": "A Known Error Database is maintained."
+      },
+      {
+        "id": "DSS03_Q6_I2",
+        "text": "Entries in this database include symptoms, causes, workarounds, and associated fixes."
+      },
+      {
+        "id": "DSS03_Q6_I3",
+        "text": "The database is consulted when handling similar incidents."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS03-Q7",
+    "items": [
+      {
+        "id": "DSS03_Q7_I1",
+        "text": "Problem management metrics (number of open/closed problems, resolution time, avoided incidents) are tracked."
+      },
+      {
+        "id": "DSS03_Q7_I2",
+        "text": "Results are shared with I&T management and, if necessary, with the business units."
+      },
+      {
+        "id": "DSS03_Q7_I3",
+        "text": "Gains achieved (reduction of recurrence, increased stability) are documented."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS03-Q8",
+    "items": [
+      {
+        "id": "DSS03_Q8_I1",
+        "text": "Periodic reviews of major and recurring problems are organized."
+      },
+      {
+        "id": "DSS03_Q8_I2",
+        "text": "Lessons learned from problems feed into the improvement of processes, architecture, or development practices."
+      },
+      {
+        "id": "DSS03_Q8_I3",
+        "text": "Action plans resulting from these reviews are tracked until their implementation."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS04-Q1",
+    "items": [
+      {
+        "id": "DSS04_Q1_I1",
+        "text": "A policy or framework for I&T service continuity management is defined."
+      },
+      {
+        "id": "DSS04_Q1_I2",
+        "text": "This framework is aligned with the organization's overall Business Continuity Management (BCM)."
+      },
+      {
+        "id": "DSS04_Q1_I3",
+        "text": "Roles and responsibilities for I&T continuity are formalized."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS04-Q2",
+    "items": [
+      {
+        "id": "DSS04_Q2_I1",
+        "text": "I&T services critical for business operations are identified and prioritized."
+      },
+      {
+        "id": "DSS04_Q2_I2",
+        "text": "Continuity objectives (RTO, RPO) are defined for these critical services."
+      },
+      {
+        "id": "DSS04_Q2_I3",
+        "text": "Dependencies (applications, infrastructures, suppliers) are documented for each critical service."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS04-Q3",
+    "items": [
+      {
+        "id": "DSS04_Q3_I1",
+        "text": "A Business Impact Analysis (BIA) has been performed for the main business processes."
+      },
+      {
+        "id": "DSS04_Q3_I2",
+        "text": "BIA results are used to define I&T recovery priorities."
+      },
+      {
+        "id": "DSS04_Q3_I3",
+        "text": "Required service levels in case of a degraded situation are known."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS04-Q4",
+    "items": [
+      {
+        "id": "DSS04_Q4_I1",
+        "text": "IT Continuity and Disaster Recovery Plans (DRP) exist for critical services."
+      },
+      {
+        "id": "DSS04_Q4_I2",
+        "text": "These plans describe disaster scenarios, failover, and recovery procedures."
+      },
+      {
+        "id": "DSS04_Q4_I3",
+        "text": "Contact details for key personnel and suppliers are included in the plans."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS04-Q5",
+    "items": [
+      {
+        "id": "DSS04_Q5_I1",
+        "text": "Continuity/recovery tests or exercises are organized periodically."
+      },
+      {
+        "id": "DSS04_Q5_I2",
+        "text": "The results of these tests are documented (successes, difficulties, measured times)."
+      },
+      {
+        "id": "DSS04_Q5_I3",
+        "text": "Plans are updated following lessons learned from the exercises."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS04-Q6",
+    "items": [
+      {
+        "id": "DSS04_Q6_I1",
+        "text": "Critical suppliers and service providers have their own continuity arrangements."
+      },
+      {
+        "id": "DSS04_Q6_I2",
+        "text": "Suppliers' continuity commitments (SLA/DRP) are known and integrated into the overall strategy."
+      },
+      {
+        "id": "DSS04_Q6_I3",
+        "text": "Where possible, continuity tests involving suppliers are carried out."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS04-Q7",
+    "items": [
+      {
+        "id": "DSS04_Q7_I1",
+        "text": "I&T crisis management procedures are defined (activation, governance, communication)."
+      },
+      {
+        "id": "DSS04_Q7_I2",
+        "text": "Roles within the crisis unit are identified (decision-makers, communication, technical)."
+      },
+      {
+        "id": "DSS04_Q7_I3",
+        "text": "Major crisis scenarios (cyberattack, site loss, prolonged outage) are covered."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS04-Q8",
+    "items": [
+      {
+        "id": "DSS04_Q8_I1",
+        "text": "Periodic reviews of the I&T continuity strategy are organized."
+      },
+      {
+        "id": "DSS04_Q8_I2",
+        "text": "Changes in the environment (new systems, new risks, organization) are taken into account."
+      },
+      {
+        "id": "DSS04_Q8_I3",
+        "text": "Continuity plans are validated and approved by the appropriate governance bodies."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS05-Q1",
+    "items": [
+      {
+        "id": "DSS05_Q1_I1",
+        "text": "An operational security system (SOC, security team, service provider) is in place."
+      },
+      {
+        "id": "DSS05_Q1_I2",
+        "text": "Roles and responsibilities for operating security services are defined."
+      },
+      {
+        "id": "DSS05_Q1_I3",
+        "text": "Managed security services cover at least monitoring, detection, and incident response."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS05-Q2",
+    "items": [
+      {
+        "id": "DSS05_Q2_I1",
+        "text": "Technical security devices (firewalls, antivirus, EDR, proxies, etc.) are deployed across the defined scope."
+      },
+      {
+        "id": "DSS05_Q2_I2",
+        "text": "Signatures, rules, and configurations of these devices are kept up to date."
+      },
+      {
+        "id": "DSS05_Q2_I3",
+        "text": "Security configuration changes follow control procedures."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS05-Q3",
+    "items": [
+      {
+        "id": "DSS05_Q3_I1",
+        "text": "A vulnerability management process (scans, prioritization, remediation) is in place."
+      },
+      {
+        "id": "DSS05_Q3_I2",
+        "text": "Significant vulnerabilities are analyzed based on their criticality and exposure."
+      },
+      {
+        "id": "DSS05_Q3_I3",
+        "text": "Remediation plans are tracked until correction or mitigation."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS05-Q4",
+    "items": [
+      {
+        "id": "DSS05_Q4_I1",
+        "text": "Security events (alerts, logs, anomalies) are collected and correlated."
+      },
+      {
+        "id": "DSS05_Q4_I2",
+        "text": "Detection rules are defined to identify suspicious behavior or attacks."
+      },
+      {
+        "id": "DSS05_Q4_I3",
+        "text": "Significant security events are investigated."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS05-Q5",
+    "items": [
+      {
+        "id": "DSS05_Q5_I1",
+        "text": "A security incident management process is defined (detection, qualification, response, closure)."
+      },
+      {
+        "id": "DSS05_Q5_I2",
+        "text": "Security incidents are classified according to their severity and impact."
+      },
+      {
+        "id": "DSS05_Q5_I3",
+        "text": "Major incidents follow a reinforced process (communication, crisis unit, notification to authorities if necessary)."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS05-Q6",
+    "items": [
+      {
+        "id": "DSS05_Q6_I1",
+        "text": "Access rights to systems and applications are managed according to the principle of least privilege."
+      },
+      {
+        "id": "DSS05_Q6_I2",
+        "text": "Privileged accounts are subject to specific controls (vault, traceability, regular reviews)."
+      },
+      {
+        "id": "DSS05_Q6_I3",
+        "text": "Periodic reviews of access rights are conducted with business owners."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS05-Q7",
+    "items": [
+      {
+        "id": "DSS05_Q7_I1",
+        "text": "Users are sensitized to security best practices (campaigns, e-learning, phishing tests)."
+      },
+      {
+        "id": "DSS05_Q7_I2",
+        "text": "Newcomers receive security awareness training upon onboarding."
+      },
+      {
+        "id": "DSS05_Q7_I3",
+        "text": "Awareness messages are adapted to different user profiles."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS05-Q8",
+    "items": [
+      {
+        "id": "DSS05_Q8_I1",
+        "text": "Operational security metrics are tracked (incidents, open vulnerabilities, remediation time)."
+      },
+      {
+        "id": "DSS05_Q8_I2",
+        "text": "Results are reported to governance bodies and relevant business owners."
+      },
+      {
+        "id": "DSS05_Q8_I3",
+        "text": "Lessons learned from incidents and vulnerabilities feed into the improvement of security services."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS06-Q1",
+    "items": [
+      {
+        "id": "DSS06_Q1_I1",
+        "text": "Automated or I&T-dependent business controls (e.g., application controls) are identified."
+      },
+      {
+        "id": "DSS06_Q1_I2",
+        "text": "The objectives of these controls (integrity, completeness, compliance) are defined."
+      },
+      {
+        "id": "DSS06_Q1_I3",
+        "text": "Business owners for these controls are designated."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS06-Q2",
+    "items": [
+      {
+        "id": "DSS06_Q2_I1",
+        "text": "The design of application controls is documented (rules, parameters, frequencies)."
+      },
+      {
+        "id": "DSS06_Q2_I2",
+        "text": "Controls are aligned with regulatory and internal compliance requirements."
+      },
+      {
+        "id": "DSS06_Q2_I3",
+        "text": "Changes in business rules are reflected in application controls."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS06-Q3",
+    "items": [
+      {
+        "id": "DSS06_Q3_I1",
+        "text": "Automated controls are executed at a defined frequency (real-time, daily, periodic)."
+      },
+      {
+        "id": "DSS06_Q3_I2",
+        "text": "Control results (OK, anomalies) are tracked."
+      },
+      {
+        "id": "DSS06_Q3_I3",
+        "text": "Exceptions or anomalies reported by the controls are analyzed and processed."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS06-Q4",
+    "items": [
+      {
+        "id": "DSS06_Q4_I1",
+        "text": "Manual controls dependent on I&T (extractions, reconciliations) are described and formalized."
+      },
+      {
+        "id": "DSS06_Q4_I2",
+        "text": "Control documentation (files, reports, dashboards) is retained for a defined period."
+      },
+      {
+        "id": "DSS06_Q4_I3",
+        "text": "Critical manual controls are supervised by an appropriate hierarchical level."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS06-Q5",
+    "items": [
+      {
+        "id": "DSS06_Q5_I1",
+        "text": "Reconciliations (accounting, operational, technical) are performed to ensure data integrity."
+      },
+      {
+        "id": "DSS06_Q5_I2",
+        "text": "Discrepancies identified during reconciliations are analyzed and corrected."
+      },
+      {
+        "id": "DSS06_Q5_I3",
+        "text": "Recurring causes of discrepancies lead to corrective actions on processes or systems."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS06-Q6",
+    "items": [
+      {
+        "id": "DSS06_Q6_I1",
+        "text": "Key controls supporting critical processes are identified and evaluated regularly."
+      },
+      {
+        "id": "DSS06_Q6_I2",
+        "text": "Evaluations take into account control results, incidents, audits, and changes in processes."
+      },
+      {
+        "id": "DSS06_Q6_I3",
+        "text": "Ineffective or redundant controls are improved or rationalized."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS06-Q7",
+    "items": [
+      {
+        "id": "DSS06_Q7_I1",
+        "text": "Internal or external auditors rely on the description of application and business controls."
+      },
+      {
+        "id": "DSS06_Q7_I2",
+        "text": "Audit recommendations related to I&T controls are tracked."
+      },
+      {
+        "id": "DSS06_Q7_I3",
+        "text": "Action plans resulting from audits are implemented and evaluated."
+      }
+    ]
+  },
+  {
+    "questionId": "DSS06-Q8",
+    "items": [
+      {
+        "id": "DSS06_Q8_I1",
+        "text": "Changes in systems or processes lead to a revision of associated controls."
+      },
+      {
+        "id": "DSS06_Q8_I2",
+        "text": "Business units are involved in validating the continued effectiveness of controls after changes."
+      },
+      {
+        "id": "DSS06_Q8_I3",
+        "text": "The control mapping is kept up to date and used as a reference during compliance reviews."
+      }
+    ]
+  },
+
+  {
+    "questionId": "MEA01-Q1",
+    "items": [
+      {
+        "id": "MEA01_Q1_I1",
+        "text": "A formal I&T performance management system is defined (process, responsibilities, review frequency)."
+      },
+      {
+        "id": "MEA01_Q1_I2",
+        "text": "The objectives of this system cover operational performance, value creation, and compliance."
+      },
+      {
+        "id": "MEA01_Q1_I3",
+        "text": "Key stakeholders (management, business units, I&T) are aware of this system."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA01-Q2",
+    "items": [
+      {
+        "id": "MEA01_Q2_I1",
+        "text": "Key Performance Indicators (KPIs) are defined for the main I&T services."
+      },
+      {
+        "id": "MEA01_Q2_I2",
+        "text": "Performance indicators for projects and programs (costs, deadlines, quality, benefits) are also defined."
+      },
+      {
+        "id": "MEA01_Q2_I3",
+        "text": "Indicators are aligned with strategic business and I&T objectives."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA01-Q3",
+    "items": [
+      {
+        "id": "MEA01_Q3_I1",
+        "text": "Data sources used for the indicators (tools, reports, databases) are identified."
+      },
+      {
+        "id": "MEA01_Q3_I2",
+        "text": "The quality of management data (reliability, completeness, freshness) is regularly evaluated."
+      },
+      {
+        "id": "MEA01_Q3_I3",
+        "text": "Identified data quality gaps are subject to corrective actions."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA01-Q4",
+    "items": [
+      {
+        "id": "MEA01_Q4_I1",
+        "text": "I&T performance indicators are presented in dashboards distributed to the relevant stakeholders."
+      },
+      {
+        "id": "MEA01_Q4_I2",
+        "text": "The frequency of dashboard production is adapted to decision needs (e.g., monthly, quarterly)."
+      },
+      {
+        "id": "MEA01_Q4_I3",
+        "text": "Dashboards are presented during formal committees (I&T committee, governance committee, steering committee)."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA01-Q5",
+    "items": [
+      {
+        "id": "MEA01_Q5_I1",
+        "text": "Significant deviations from performance objectives (KPIs in red) are analyzed."
+      },
+      {
+        "id": "MEA01_Q5_I2",
+        "text": "The causes of these deviations (technical, organizational, external) are investigated and documented."
+      },
+      {
+        "id": "MEA01_Q5_I3",
+        "text": "Corrective or preventive actions are decided and tracked to address major deviations."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA01-Q6",
+    "items": [
+      {
+        "id": "MEA01_Q6_I1",
+        "text": "I&T performance indicators include customer/user satisfaction metrics where relevant."
+      },
+      {
+        "id": "MEA01_Q6_I2",
+        "text": "Satisfaction results are compared to defined targets or standards."
+      },
+      {
+        "id": "MEA01_Q6_I3",
+        "text": "Feedback from users or business units is taken into account to adjust services or priorities."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA01-Q7",
+    "items": [
+      {
+        "id": "MEA01_Q7_I1",
+        "text": "A consolidated view of I&T performance (services, projects, security, risks, costs) is available to management."
+      },
+      {
+        "id": "MEA01_Q7_I2",
+        "text": "This consolidated view is used during strategic and budgetary arbitrations."
+      },
+      {
+        "id": "MEA01_Q7_I3",
+        "text": "Decisions made (prioritization, resource reallocation) are tracked and linked to performance information."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA01-Q8",
+    "items": [
+      {
+        "id": "MEA01_Q8_I1",
+        "text": "The I&T performance management system (indicators, instances, supports) is reviewed periodically."
+      },
+      {
+        "id": "MEA01_Q8_I2",
+        "text": "Obsolete indicators are removed, and new indicators are introduced if necessary."
+      },
+      {
+        "id": "MEA01_Q8_I3",
+        "text": "Stakeholder information needs are considered to evolve the management system."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA02-Q1",
+    "items": [
+      {
+        "id": "MEA02_Q1_I1",
+        "text": "A specific I&T internal control framework (or one integrated into the overall internal control) is defined."
+      },
+      {
+        "id": "MEA02_Q1_I2",
+        "text": "This framework specifies objectives, principles, responsibilities, and covered areas (I&T processes, security, continuity, etc.)."
+      },
+      {
+        "id": "MEA02_Q1_I3",
+        "text": "The I&T internal control framework is approved by management or appropriate governance bodies."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA02-Q2",
+    "items": [
+      {
+        "id": "MEA02_Q2_I1",
+        "text": "A mapping of I&T processes and associated main risks is available."
+      },
+      {
+        "id": "MEA02_Q2_I2",
+        "text": "Existing control points (manual, automated) are identified for these processes."
+      },
+      {
+        "id": "MEA02_Q2_I3",
+        "text": "Key controls are distinguished from secondary controls."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA02-Q3",
+    "items": [
+      {
+        "id": "MEA02_Q3_I1",
+        "text": "Controls related to access, changes, operations, and security are included in the I&T internal control system."
+      },
+      {
+        "id": "MEA02_Q3_I2",
+        "text": "Controls cover prevention, detection, and correction of anomalies."
+      },
+      {
+        "id": "MEA02_Q3_I3",
+        "text": "Controls are aligned with identified risks and compliance requirements."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA02-Q4",
+    "items": [
+      {
+        "id": "MEA02_Q4_I1",
+        "text": "Regular tests or evaluations of the effectiveness of I&T controls are carried out (self-assessments, second-level controls, audits)."
+      },
+      {
+        "id": "MEA02_Q4_I2",
+        "text": "Tests cover both the control design and their operating effectiveness."
+      },
+      {
+        "id": "MEA02_Q4_I3",
+        "text": "Test results are documented and shared with the responsible parties."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA02-Q5",
+    "items": [
+      {
+        "id": "MEA02_Q5_I1",
+        "text": "Identified control dysfunctions (missing, ineffective, non-applied controls) are listed."
+      },
+      {
+        "id": "MEA02_Q5_I2",
+        "text": "Deviations are classified according to their severity and potential impact."
+      },
+      {
+        "id": "MEA02_Q5_I3",
+        "text": "Action plans are implemented to correct or improve insufficient controls."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA02-Q6",
+    "items": [
+      {
+        "id": "MEA02_Q6_I1",
+        "text": "Significant incidents (errors, potential frauds, major failures) are analyzed from an internal control perspective."
+      },
+      {
+        "id": "MEA02_Q6_I2",
+        "text": "Causes related to control weaknesses are identified (non-existent procedure, non-compliance, lack of supervision)."
+      },
+      {
+        "id": "MEA02_Q6_I3",
+        "text": "Lessons learned from incidents lead to adjustments or reinforcement of controls."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA02-Q7",
+    "items": [
+      {
+        "id": "MEA02_Q7_I1",
+        "text": "Results from I&T internal control assessments are integrated into the organization's overall internal control system."
+      },
+      {
+        "id": "MEA02_Q7_I2",
+        "text": "I&T internal control reports are communicated to the risk/audit committees and management."
+      },
+      {
+        "id": "MEA02_Q7_I3",
+        "text": "Action plans related to I&T internal control are tracked in the same bodies as other internal control action plans."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA02-Q8",
+    "items": [
+      {
+        "id": "MEA02_Q8_I1",
+        "text": "The I&T internal control framework is updated based on changes in processes, systems, risks, and regulatory requirements."
+      },
+      {
+        "id": "MEA02_Q8_I2",
+        "text": "Internal control approaches and tools (frameworks, checklists, GRC tools) are improved over time."
+      },
+      {
+        "id": "MEA02_Q8_I3",
+        "text": "The overall maturity of I&T internal control is periodically evaluated and improvement objectives are set."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA03-Q1",
+    "items": [
+      {
+        "id": "MEA03_Q1_I1",
+        "text": "Applicable external requirements for I&T are identified (laws, regulations, standards, directives, customer or partner requirements)."
+      },
+      {
+        "id": "MEA03_Q1_I2",
+        "text": "These requirements are mapped by domain (data protection, security, regulated sector, finance, etc.)."
+      },
+      {
+        "id": "MEA03_Q1_I3",
+        "text": "Responsibilities for monitoring these requirements (legal, compliance, CISO, CIO) are defined."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA03-Q2",
+    "items": [
+      {
+        "id": "MEA03_Q2_I1",
+        "text": "The impact of external requirements on I&T processes, systems, and data is analyzed."
+      },
+      {
+        "id": "MEA03_Q2_I2",
+        "text": "Obligations are translated into internal requirements (policies, procedures, controls)."
+      },
+      {
+        "id": "MEA03_Q2_I3",
+        "text": "Affected stakeholders are informed of the obligations that impact them."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA03-Q3",
+    "items": [
+      {
+        "id": "MEA03_Q3_I1",
+        "text": "Specific controls are in place to ensure compliance with external requirements (e.g., GDPR, SOX, sectoral rules)."
+      },
+      {
+        "id": "MEA03_Q3_I2",
+        "text": "Compliance controls are integrated into the I&T internal control system."
+      },
+      {
+        "id": "MEA03_Q3_I3",
+        "text": "Responsibilities for implementing and supervising these controls are clearly defined."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA03-Q4",
+    "items": [
+      {
+        "id": "MEA03_Q4_I1",
+        "text": "Compliance reviews (self-assessments, controls by the compliance function or legal department) are carried out."
+      },
+      {
+        "id": "MEA03_Q4_I2",
+        "text": "Reviews cover the main applicable texts and critical areas (personal data, security, finance, etc.)."
+      },
+      {
+        "id": "MEA03_Q4_I3",
+        "text": "Results of compliance reviews are documented and shared with the responsible parties."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA03-Q5",
+    "items": [
+      {
+        "id": "MEA03_Q5_I1",
+        "text": "External audits or inspections by authorities (regulators, statutory auditors, customers) are prepared and followed up."
+      },
+      {
+        "id": "MEA03_Q5_I2",
+        "text": "Requests for information from auditors or authorities are processed within reasonable timeframes."
+      },
+      {
+        "id": "MEA03_Q5_I3",
+        "text": "External audit or control reports are analyzed and discussed with internal stakeholders."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA03-Q6",
+    "items": [
+      {
+        "id": "MEA03_Q6_I1",
+        "text": "Identified non-compliances (internal or external) are listed and classified according to their severity."
+      },
+      {
+        "id": "MEA03_Q6_I2",
+        "text": "Action plans with owners and deadlines are defined for each significant non-compliance."
+      },
+      {
+        "id": "MEA03_Q6_I3",
+        "text": "Follow-up of these action plans is ensured until resolution or acceptance of the residual risk."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA03-Q7",
+    "items": [
+      {
+        "id": "MEA03_Q7_I1",
+        "text": "Regulatory or normative changes are monitored (legal watch, participation in professional groups, etc.)."
+      },
+      {
+        "id": "MEA03_Q7_I2",
+        "text": "Significant changes are analyzed to assess their impacts on I&T."
+      },
+      {
+        "id": "MEA03_Q7_I3",
+        "text": "Compliance plans associated with these changes are defined and tracked."
+      }
+    ]
+  },
+  {
+    "questionId": "MEA03-Q8",
+    "items": [
+      {
+        "id": "MEA03_Q8_I1",
+        "text": "Governance bodies (management committee, risk committee, I&T committee) receive a regular summary of the I&T compliance status."
+      },
+      {
+        "id": "MEA03_Q8_I2",
+        "text": "Major non-compliance risks are integrated into the organization's overall risk mapping."
+      },
+      {
+        "id": "MEA03_Q8_I3",
+        "text": "The I&T compliance strategy and priorities are adjusted based on feedback from these bodies."
+      }
+    ]
+  }
+]
+

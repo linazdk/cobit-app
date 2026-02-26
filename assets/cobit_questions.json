@@ -1,0 +1,1559 @@
+[
+  {
+    "id": "EDM01-Q1",
+    "objectiveId": "EDM01",
+    "text": "Is a formal I&T governance framework defined and approved by the governing body?"
+  },
+  {
+    "id": "EDM01-Q2",
+    "objectiveId": "EDM01",
+    "text": "Are I&T governance roles and responsibilities clearly documented and communicated?"
+  },
+  {
+    "id": "EDM01-Q3",
+    "objectiveId": "EDM01",
+    "text": "Is the committee structure (IT steering, etc.) in place and functioning effectively?"
+  },
+  {
+    "id": "EDM01-Q4",
+    "objectiveId": "EDM01",
+    "text": "Are I&T governance decisions recorded and justified (minutes, resolutions)?"
+  },
+  {
+    "id": "EDM01-Q5",
+    "objectiveId": "EDM01",
+    "text": "Is the I&T governance framework reviewed periodically to remain aligned with strategy?"
+  },
+  {
+    "id": "EDM01-Q6",
+    "objectiveId": "EDM01",
+    "text": "Do key stakeholders participate in defining the I&T governance framework?"
+  },
+  {
+    "id": "EDM01-Q7",
+    "objectiveId": "EDM01",
+    "text": "Are governance principles (accountability, transparency, fairness, etc.) explicitly defined?"
+  },
+  {
+    "id": "EDM01-Q8",
+    "objectiveId": "EDM01",
+    "text": "Are regulatory and standards requirements taken into account in the I&T governance framework?"
+  },
+
+  {
+    "id": "EDM02-Q1",
+    "objectiveId": "EDM02",
+    "text": "Are the expected benefits of I&T investments formalized in business cases?"
+  },
+  {
+    "id": "EDM02-Q2",
+    "objectiveId": "EDM02",
+    "text": "Are benefit realization indicators (KPIs) defined and monitored regularly?"
+  },
+  {
+    "id": "EDM02-Q3",
+    "objectiveId": "EDM02",
+    "text": "Are I&T benefits reviewed after go-live (post-implementation review)?"
+  },
+  {
+    "id": "EDM02-Q4",
+    "objectiveId": "EDM02",
+    "text": "Are I&T investment priorities aligned with business strategy and value creation?"
+  },
+  {
+    "id": "EDM02-Q5",
+    "objectiveId": "EDM02",
+    "text": "Are gaps between planned and realized benefits analyzed and documented?"
+  },
+  {
+    "id": "EDM02-Q6",
+    "objectiveId": "EDM02",
+    "text": "Do decisions to continue, redirect, or stop a project consider benefit realization?"
+  },
+  {
+    "id": "EDM02-Q7",
+    "objectiveId": "EDM02",
+    "text": "Is there a benefit governance structure (benefit owner, sponsor)?"
+  },
+  {
+    "id": "EDM02-Q8",
+    "objectiveId": "EDM02",
+    "text": "Are stakeholders regularly informed about I&T benefit realization?"
+  },
+
+  {
+    "id": "EDM03-Q1",
+    "objectiveId": "EDM03",
+    "text": "Is an I&T risk management policy defined, approved, and communicated?"
+  },
+  {
+    "id": "EDM03-Q2",
+    "objectiveId": "EDM03",
+    "text": "Is an I&T risk register maintained and updated regularly?"
+  },
+  {
+    "id": "EDM03-Q3",
+    "objectiveId": "EDM03",
+    "text": "Are I&T risks integrated into the enterprise-wide risk register?"
+  },
+  {
+    "id": "EDM03-Q4",
+    "objectiveId": "EDM03",
+    "text": "Are I&T risk appetite and tolerance levels defined and approved by management?"
+  },
+  {
+    "id": "EDM03-Q5",
+    "objectiveId": "EDM03",
+    "text": "Are regular reports on major I&T risks presented to governance bodies?"
+  },
+  {
+    "id": "EDM03-Q6",
+    "objectiveId": "EDM03",
+    "text": "Are I&T risk treatment plans monitored and updated as conditions change?"
+  },
+  {
+    "id": "EDM03-Q7",
+    "objectiveId": "EDM03",
+    "text": "Are cybersecurity and compliance risks explicitly covered in I&T risk management?"
+  },
+  {
+    "id": "EDM03-Q8",
+    "objectiveId": "EDM03",
+    "text": "Are lessons learned from past incidents and crises integrated into the risk management framework?"
+  },
+
+  {
+    "id": "EDM04-Q1",
+    "objectiveId": "EDM04",
+    "text": "Is a consolidated view of I&T resources (people, applications, infrastructure, data) available?"
+  },
+  {
+    "id": "EDM04-Q2",
+    "objectiveId": "EDM04",
+    "text": "Are I&T resource capabilities and constraints considered in strategic decisions?"
+  },
+  {
+    "id": "EDM04-Q3",
+    "objectiveId": "EDM04",
+    "text": "Are utilization and performance indicators for I&T resources monitored?"
+  },
+  {
+    "id": "EDM04-Q4",
+    "objectiveId": "EDM04",
+    "text": "Are sourcing decisions (internal/external/cloud) governed and justified?"
+  },
+  {
+    "id": "EDM04-Q5",
+    "objectiveId": "EDM04",
+    "text": "Are key skills required to support I&T activities identified and managed?"
+  },
+  {
+    "id": "EDM04-Q6",
+    "objectiveId": "EDM04",
+    "text": "Does management arbitrate prioritization conflicts related to limited I&T resources?"
+  },
+  {
+    "id": "EDM04-Q7",
+    "objectiveId": "EDM04",
+    "text": "Do critical projects and services receive the resources needed to meet commitments?"
+  },
+  {
+    "id": "EDM04-Q8",
+    "objectiveId": "EDM04",
+    "text": "Are investment and divestment decisions regarding I&T resources documented and tracked?"
+  },
+
+  {
+    "id": "EDM05-Q1",
+    "objectiveId": "EDM05",
+    "text": "Are key stakeholders for I&T topics clearly identified?"
+  },
+  {
+    "id": "EDM05-Q2",
+    "objectiveId": "EDM05",
+    "text": "Are major I&T-related decisions communicated transparently to stakeholders?"
+  },
+  {
+    "id": "EDM05-Q3",
+    "objectiveId": "EDM05",
+    "text": "Are regular reports on I&T performance, risks, and costs shared with management?"
+  },
+  {
+    "id": "EDM05-Q4",
+    "objectiveId": "EDM05",
+    "text": "Are stakeholder expectations regarding I&T collected and taken into account?"
+  },
+  {
+    "id": "EDM05-Q5",
+    "objectiveId": "EDM05",
+    "text": "Does I&T governance promote transparency on major incidents and their handling?"
+  },
+  {
+    "id": "EDM05-Q6",
+    "objectiveId": "EDM05",
+    "text": "Are I&T financial reports reliable, complete, and understandable to decision-makers?"
+  },
+  {
+    "id": "EDM05-Q7",
+    "objectiveId": "EDM05",
+    "text": "Are major changes in the I&T landscape (mergers, architecture changes) communicated in advance?"
+  },
+  {
+    "id": "EDM05-Q8",
+    "objectiveId": "EDM05",
+    "text": "Are mechanisms in place to collect and handle stakeholder feedback on I&T performance?"
+  },
+
+  {
+    "id": "APO01-Q1",
+    "objectiveId": "APO01",
+    "text": "Is an I&T management framework (policies, processes, structures) formally defined?"
+  },
+  {
+    "id": "APO01-Q2",
+    "objectiveId": "APO01",
+    "text": "Are I&T policies approved by management and communicated to all teams?"
+  },
+  {
+    "id": "APO01-Q3",
+    "objectiveId": "APO01",
+    "text": "Are I&T processes described, documented, and kept up to date?"
+  },
+  {
+    "id": "APO01-Q4",
+    "objectiveId": "APO01",
+    "text": "Are indicators in place to measure the effectiveness of the I&T management system?"
+  },
+  {
+    "id": "APO01-Q5",
+    "objectiveId": "APO01",
+    "text": "Are I&T management responsibilities (CIO, domain managers) clearly defined?"
+  },
+  {
+    "id": "APO01-Q6",
+    "objectiveId": "APO01",
+    "text": "Is the I&T management system aligned with recognized frameworks (COBIT, ITIL, ISO)?"
+  },
+  {
+    "id": "APO01-Q7",
+    "objectiveId": "APO01",
+    "text": "Are periodic reviews of the I&T management system performed and documented?"
+  },
+  {
+    "id": "APO01-Q8",
+    "objectiveId": "APO01",
+    "text": "Do gaps identified during I&T management reviews lead to action plans?"
+  },
+
+  {
+    "id": "APO02-Q1",
+    "objectiveId": "APO02",
+    "text": "Is a formal I&T strategy defined and approved by management?"
+  },
+  {
+    "id": "APO02-Q2",
+    "objectiveId": "APO02",
+    "text": "Is the I&T strategy aligned with business strategy and enterprise objectives?"
+  },
+  {
+    "id": "APO02-Q3",
+    "objectiveId": "APO02",
+    "text": "Does the I&T strategy cover digital transformation and innovation?"
+  },
+  {
+    "id": "APO02-Q4",
+    "objectiveId": "APO02",
+    "text": "Is the I&T strategy communicated to business leaders and I&T teams?"
+  },
+  {
+    "id": "APO02-Q5",
+    "objectiveId": "APO02",
+    "text": "Are strategic I&T action plans (roadmaps) defined with milestones and priorities?"
+  },
+  {
+    "id": "APO02-Q6",
+    "objectiveId": "APO02",
+    "text": "Does management periodically review the I&T strategy in light of internal and external changes?"
+  },
+  {
+    "id": "APO02-Q7",
+    "objectiveId": "APO02",
+    "text": "Are I&T-related risks and opportunities integrated into strategic thinking?"
+  },
+  {
+    "id": "APO02-Q8",
+    "objectiveId": "APO02",
+    "text": "Do business stakeholders actively contribute to defining the I&T strategy?"
+  },
+
+  {
+    "id": "APO03-Q1",
+    "objectiveId": "APO03",
+    "text": "Is an enterprise architecture defined covering processes, data, applications, and technologies?"
+  },
+  {
+    "id": "APO03-Q2",
+    "objectiveId": "APO03",
+    "text": "Are urbanization or architecture reference models formalized and up to date?"
+  },
+  {
+    "id": "APO03-Q3",
+    "objectiveId": "APO03",
+    "text": "Are I&T projects required to comply with defined architecture principles?"
+  },
+  {
+    "id": "APO03-Q4",
+    "objectiveId": "APO03",
+    "text": "Is an application and data-flow landscape maintained?"
+  },
+  {
+    "id": "APO03-Q5",
+    "objectiveId": "APO03",
+    "text": "Do acquisition or development decisions for new solutions take the target architecture into account?"
+  },
+  {
+    "id": "APO03-Q6",
+    "objectiveId": "APO03",
+    "text": "Is enterprise architecture reviewed regularly to reflect changes in IT and the business?"
+  },
+  {
+    "id": "APO03-Q7",
+    "objectiveId": "APO03",
+    "text": "Are gaps between current and target architecture identified and managed?"
+  },
+  {
+    "id": "APO03-Q8",
+    "objectiveId": "APO03",
+    "text": "Do architecture boards decide on major choices (technologies, integration, cloud)?"
+  },
+
+  {
+    "id": "APO04-Q1",
+    "objectiveId": "APO04",
+    "text": "Is a structured approach to managing I&T innovation in place?"
+  },
+  {
+    "id": "APO04-Q2",
+    "objectiveId": "APO04",
+    "text": "Can innovation ideas be proposed by business users and internal teams?"
+  },
+  {
+    "id": "APO04-Q3",
+    "objectiveId": "APO04",
+    "text": "Are criteria defined to evaluate and prioritize innovation initiatives?"
+  },
+  {
+    "id": "APO04-Q4",
+    "objectiveId": "APO04",
+    "text": "Are experiments (POCs, pilots) framed with clear objectives and risk limits?"
+  },
+  {
+    "id": "APO04-Q5",
+    "objectiveId": "APO04",
+    "text": "Are the results of innovation initiatives evaluated and capitalized on (successes, failures, lessons learned)?"
+  },
+  {
+    "id": "APO04-Q6",
+    "objectiveId": "APO04",
+    "text": "Is I&T innovation aligned with enterprise strategic priorities?"
+  },
+  {
+    "id": "APO04-Q7",
+    "objectiveId": "APO04",
+    "text": "Are resources (budget, time, skills) allocated to I&T innovation management?"
+  },
+  {
+    "id": "APO04-Q8",
+    "objectiveId": "APO04",
+    "text": "Are risks related to innovations (technology, security, regulatory) systematically assessed?"
+  },
+
+  {
+    "id": "APO05-Q1",
+    "objectiveId": "APO05",
+    "text": "Is a consolidated portfolio of I&T projects and services maintained?"
+  },
+  {
+    "id": "APO05-Q2",
+    "objectiveId": "APO05",
+    "text": "Do I&T project requests follow a formal selection and prioritization process?"
+  },
+  {
+    "id": "APO05-Q3",
+    "objectiveId": "APO05",
+    "text": "Are portfolio prioritization criteria (benefits, risks, costs, resources) defined?"
+  },
+  {
+    "id": "APO05-Q4",
+    "objectiveId": "APO05",
+    "text": "Is the I&T portfolio reviewed regularly by management or a dedicated committee?"
+  },
+  {
+    "id": "APO05-Q5",
+    "objectiveId": "APO05",
+    "text": "Are troubled projects identified and subject to formal decisions (correct, stop, redefine)?"
+  },
+  {
+    "id": "APO05-Q6",
+    "objectiveId": "APO05",
+    "text": "Is the portfolio aligned with strategic objectives and organizational capabilities?"
+  },
+  {
+    "id": "APO05-Q7",
+    "objectiveId": "APO05",
+    "text": "Is the workload of critical resources taken into account at portfolio level?"
+  },
+  {
+    "id": "APO05-Q8",
+    "objectiveId": "APO05",
+    "text": "Is information on the portfolio status (progress, costs, risks) reliable and up to date?"
+  },
+
+  {
+    "id": "APO06-Q1",
+    "objectiveId": "APO06",
+    "text": "Is an I&T budgeting process formalized and aligned with the corporate budget cycle?"
+  },
+  {
+    "id": "APO06-Q2",
+    "objectiveId": "APO06",
+    "text": "Are I&T costs broken down by nature, service, project, and business unit?"
+  },
+  {
+    "id": "APO06-Q3",
+    "objectiveId": "APO06",
+    "text": "Are budgets for I&T projects justified through business cases?"
+  },
+  {
+    "id": "APO06-Q4",
+    "objectiveId": "APO06",
+    "text": "Are mechanisms in place to track actual project spend versus budget?"
+  },
+  {
+    "id": "APO06-Q5",
+    "objectiveId": "APO06",
+    "text": "Are significant budget variances analyzed and explained?"
+  },
+  {
+    "id": "APO06-Q6",
+    "objectiveId": "APO06",
+    "text": "Are I&T costs communicated in a way that business users can understand (showback/chargeback)?"
+  },
+  {
+    "id": "APO06-Q7",
+    "objectiveId": "APO06",
+    "text": "Are cost optimization decisions (rationalization, cloud, outsourcing) managed?"
+  },
+  {
+    "id": "APO06-Q8",
+    "objectiveId": "APO06",
+    "text": "Are financial risks related to I&T (overruns, contractual penalties) identified and monitored?"
+  },
+
+  {
+    "id": "APO07-Q1",
+    "objectiveId": "APO07",
+    "text": "Is an I&T human resources management strategy defined (recruitment, retention, training)?"
+  },
+  {
+    "id": "APO07-Q2",
+    "objectiveId": "APO07",
+    "text": "Are the key skills required to support I&T activities identified?"
+  },
+  {
+    "id": "APO07-Q3",
+    "objectiveId": "APO07",
+    "text": "Is a skills development plan (training, certification) in place for I&T teams?"
+  },
+  {
+    "id": "APO07-Q4",
+    "objectiveId": "APO07",
+    "text": "Are I&T job descriptions formalized and aligned with actual responsibilities?"
+  },
+  {
+    "id": "APO07-Q5",
+    "objectiveId": "APO07",
+    "text": "Are individual and team performance assessed against clear objectives?"
+  },
+  {
+    "id": "APO07-Q6",
+    "objectiveId": "APO07",
+    "text": "Is a knowledge transfer mechanism in place to limit dependency on key individuals?"
+  },
+  {
+    "id": "APO07-Q7",
+    "objectiveId": "APO07",
+    "text": "Are turnover and the risk of losing critical skills monitored?"
+  },
+  {
+    "id": "APO07-Q8",
+    "objectiveId": "APO07",
+    "text": "Are well-being, workload, and working conditions of I&T teams taken into account?"
+  },
+
+  {
+    "id": "APO08-Q1",
+    "objectiveId": "APO08",
+    "text": "Are key business stakeholders identified for each I&T service?"
+  },
+  {
+    "id": "APO08-Q2",
+    "objectiveId": "APO08",
+    "text": "Are formal contact points (business relationship managers, business counterparts) defined?"
+  },
+  {
+    "id": "APO08-Q3",
+    "objectiveId": "APO08",
+    "text": "Are business needs and expectations regarding I&T services collected regularly?"
+  },
+  {
+    "id": "APO08-Q4",
+    "objectiveId": "APO08",
+    "text": "Is user satisfaction with I&T services measured?"
+  },
+  {
+    "id": "APO08-Q5",
+    "objectiveId": "APO08",
+    "text": "Are service commitments discussed and agreed with the business before implementation?"
+  },
+  {
+    "id": "APO08-Q6",
+    "objectiveId": "APO08",
+    "text": "Are recurring frictions between business and I&T identified and addressed?"
+  },
+  {
+    "id": "APO08-Q7",
+    "objectiveId": "APO08",
+    "text": "Are business units informed in advance of changes impacting services (maintenance, migrations)?"
+  },
+  {
+    "id": "APO08-Q8",
+    "objectiveId": "APO08",
+    "text": "Do regular forums (follow-up committees, steering committees) exist with business departments?"
+  },
+
+  {
+    "id": "APO09-Q1",
+    "objectiveId": "APO09",
+    "text": "Are I&T service catalogs defined and communicated to users?"
+  },
+  {
+    "id": "APO09-Q2",
+    "objectiveId": "APO09",
+    "text": "Are service-level agreements (SLAs) defined for critical services?"
+  },
+  {
+    "id": "APO09-Q3",
+    "objectiveId": "APO09",
+    "text": "Are service performance indicators (availability, response time, incidents) monitored?"
+  },
+  {
+    "id": "APO09-Q4",
+    "objectiveId": "APO09",
+    "text": "Are SLAs reviewed periodically with the business to check their relevance?"
+  },
+  {
+    "id": "APO09-Q5",
+    "objectiveId": "APO09",
+    "text": "Are deviations from SLAs analyzed and translated into improvement plans?"
+  },
+  {
+    "id": "APO09-Q6",
+    "objectiveId": "APO09",
+    "text": "Are internal OLAs (Operational Level Agreements) defined to support the SLAs?"
+  },
+  {
+    "id": "APO09-Q7",
+    "objectiveId": "APO09",
+    "text": "Do users have clear channels to report issues related to I&T services?"
+  },
+  {
+    "id": "APO09-Q8",
+    "objectiveId": "APO09",
+    "text": "If applicable, is service cost allocation or billing transparent and understandable?"
+  },
+
+  {
+    "id": "APO10-Q1",
+    "objectiveId": "APO10",
+    "text": "Is a policy for managing I&T suppliers and providers defined?"
+  },
+  {
+    "id": "APO10-Q2",
+    "objectiveId": "APO10",
+    "text": "Are supplier selection criteria (quality, security, costs, compliance) formalized?"
+  },
+  {
+    "id": "APO10-Q3",
+    "objectiveId": "APO10",
+    "text": "Do I&T contracts include clauses on service levels, security, and confidentiality?"
+  },
+  {
+    "id": "APO10-Q4",
+    "objectiveId": "APO10",
+    "text": "Is supplier performance monitored through indicators and regular reviews?"
+  },
+  {
+    "id": "APO10-Q5",
+    "objectiveId": "APO10",
+    "text": "Are supplier-related risks (dependency, location, security) identified and managed?"
+  },
+  {
+    "id": "APO10-Q6",
+    "objectiveId": "APO10",
+    "text": "Are continuity or exit plans defined for critical suppliers?"
+  },
+  {
+    "id": "APO10-Q7",
+    "objectiveId": "APO10",
+    "text": "Are regulatory obligations (e.g. GDPR) considered when managing suppliers?"
+  },
+  {
+    "id": "APO10-Q8",
+    "objectiveId": "APO10",
+    "text": "Are disputes or contractual breaches handled through a formal process?"
+  },
+
+  {
+    "id": "APO11-Q1",
+    "objectiveId": "APO11",
+    "text": "Is a quality policy covering I&T activities defined and communicated?"
+  },
+  {
+    "id": "APO11-Q2",
+    "objectiveId": "APO11",
+    "text": "Do I&T processes include systematic quality controls (reviews, tests, validations)?"
+  },
+  {
+    "id": "APO11-Q3",
+    "objectiveId": "APO11",
+    "text": "Are recurring non-conformities or defects analyzed to identify root causes?"
+  },
+  {
+    "id": "APO11-Q4",
+    "objectiveId": "APO11",
+    "text": "Are continuous improvement plans implemented based on quality results?"
+  },
+  {
+    "id": "APO11-Q5",
+    "objectiveId": "APO11",
+    "text": "Are quality requirements (standards, regulations) known and followed by I&T teams?"
+  },
+  {
+    "id": "APO11-Q6",
+    "objectiveId": "APO11",
+    "text": "Do internal or external audits regularly evaluate I&T process quality?"
+  },
+  {
+    "id": "APO11-Q7",
+    "objectiveId": "APO11",
+    "text": "Is the quality of project deliverables (specifications, development, tests) tracked and measured?"
+  },
+  {
+    "id": "APO11-Q8",
+    "objectiveId": "APO11",
+    "text": "Are user feedback on I&T service quality taken into account in improvement plans?"
+  },
+
+  {
+    "id": "APO12-Q1",
+    "objectiveId": "APO12",
+    "text": "Is an I&T risk management framework defined (method, roles, deliverables)?"
+  },
+  {
+    "id": "APO12-Q2",
+    "objectiveId": "APO12",
+    "text": "Are I&T risks identified using a structured approach (workshops, analysis, mapping)?"
+  },
+  {
+    "id": "APO12-Q3",
+    "objectiveId": "APO12",
+    "text": "Are I&T risks assessed in terms of likelihood and impact (qualitatively or quantitatively)?"
+  },
+  {
+    "id": "APO12-Q4",
+    "objectiveId": "APO12",
+    "text": "Are I&T risk treatment plans (mitigate, transfer, accept) defined?"
+  },
+  {
+    "id": "APO12-Q5",
+    "objectiveId": "APO12",
+    "text": "Is regular follow-up performed on I&T risks and related actions?"
+  },
+  {
+    "id": "APO12-Q6",
+    "objectiveId": "APO12",
+    "text": "Are I&T risks integrated into the organization’s overall risk register?"
+  },
+  {
+    "id": "APO12-Q7",
+    "objectiveId": "APO12",
+    "text": "Do significant incidents (outages, cyberattacks) lead to updates of I&T risks?"
+  },
+  {
+    "id": "APO12-Q8",
+    "objectiveId": "APO12",
+    "text": "Are appetite and tolerance thresholds defined for major I&T risks?"
+  },
+
+  {
+    "id": "APO13-Q1",
+    "objectiveId": "APO13",
+    "text": "Is an information security policy defined, approved, and communicated?"
+  },
+  {
+    "id": "APO13-Q2",
+    "objectiveId": "APO13",
+    "text": "Are information security risks assessed regularly?"
+  },
+  {
+    "id": "APO13-Q3",
+    "objectiveId": "APO13",
+    "text": "Are security measures (technical and organizational) implemented according to the risks?"
+  },
+  {
+    "id": "APO13-Q4",
+    "objectiveId": "APO13",
+    "text": "Is user awareness of security (phishing, passwords, confidentiality) organized?"
+  },
+  {
+    "id": "APO13-Q5",
+    "objectiveId": "APO13",
+    "text": "Are procedures for handling security incidents defined, tested, and known?"
+  },
+  {
+    "id": "APO13-Q6",
+    "objectiveId": "APO13",
+    "text": "Is compliance with regulatory requirements (e.g. GDPR) assessed and monitored?"
+  },
+  {
+    "id": "APO13-Q7",
+    "objectiveId": "APO13",
+    "text": "Are logical and physical access to critical systems controlled and reviewed regularly?"
+  },
+  {
+    "id": "APO13-Q8",
+    "objectiveId": "APO13",
+    "text": "Are security tests (penetration tests, vulnerability scans) performed periodically?"
+  },
+
+  {
+    "id": "BAI01-Q1",
+    "objectiveId": "BAI01",
+    "text": "Is a framework for managing the portfolio of I&T programs and projects defined?"
+  },
+  {
+    "id": "BAI01-Q2",
+    "objectiveId": "BAI01",
+    "text": "Are programs and projects managed using a recognized methodology (waterfall, agile, hybrid)?"
+  },
+  {
+    "id": "BAI01-Q3",
+    "objectiveId": "BAI01",
+    "text": "Are project roles (sponsor, project manager, business owner) clearly defined?"
+  },
+  {
+    "id": "BAI01-Q4",
+    "objectiveId": "BAI01",
+    "text": "Are project risks, costs, timelines, and benefits monitored and reported regularly?"
+  },
+  {
+    "id": "BAI01-Q5",
+    "objectiveId": "BAI01",
+    "text": "Do project stage gates result in formal go/no-go decisions?"
+  },
+  {
+    "id": "BAI01-Q6",
+    "objectiveId": "BAI01",
+    "text": "Are dependencies between programs and projects identified and managed?"
+  },
+  {
+    "id": "BAI01-Q7",
+    "objectiveId": "BAI01",
+    "text": "Are lessons learned from projects captured and shared?"
+  },
+  {
+    "id": "BAI01-Q8",
+    "objectiveId": "BAI01",
+    "text": "Are projects evaluated after go-live against their initial objectives?"
+  },
+
+  {
+    "id": "BAI02-Q1",
+    "objectiveId": "BAI02",
+    "text": "Are business needs collected using a structured approach (workshops, interviews, models)?"
+  },
+  {
+    "id": "BAI02-Q2",
+    "objectiveId": "BAI02",
+    "text": "Are functional and non-functional requirements documented and validated by the business?"
+  },
+  {
+    "id": "BAI02-Q3",
+    "objectiveId": "BAI02",
+    "text": "Are requirements prioritized based on value and constraints?"
+  },
+  {
+    "id": "BAI02-Q4",
+    "objectiveId": "BAI02",
+    "text": "Are requirement changes managed through a formal change management process?"
+  },
+  {
+    "id": "BAI02-Q5",
+    "objectiveId": "BAI02",
+    "text": "Are requirements traceable throughout their lifecycle (specifications, development, testing)?"
+  },
+  {
+    "id": "BAI02-Q6",
+    "objectiveId": "BAI02",
+    "text": "Are regulatory, security, and performance constraints integrated from the requirements definition stage?"
+  },
+  {
+    "id": "BAI02-Q7",
+    "objectiveId": "BAI02",
+    "text": "Are standard templates or models used for specifications to ensure consistency?"
+  },
+  {
+    "id": "BAI02-Q8",
+    "objectiveId": "BAI02",
+    "text": "Are critical requirements reviewed jointly by business, I&T, and security teams?"
+  },
+
+  {
+    "id": "BAI03-Q1",
+    "objectiveId": "BAI03",
+    "text": "Are solution options (buy, build, outsource, SaaS) systematically evaluated?"
+  },
+  {
+    "id": "BAI03-Q2",
+    "objectiveId": "BAI03",
+    "text": "Do solution choices consider the target architecture and technical standards?"
+  },
+  {
+    "id": "BAI03-Q3",
+    "objectiveId": "BAI03",
+    "text": "Are developments or configurations carried out following controlled development practices?"
+  },
+  {
+    "id": "BAI03-Q4",
+    "objectiveId": "BAI03",
+    "text": "Are design and code reviews organized for solutions developed in-house?"
+  },
+  {
+    "id": "BAI03-Q5",
+    "objectiveId": "BAI03",
+    "text": "Are reusable components (services, APIs, modules) favored to reduce redundancy?"
+  },
+  {
+    "id": "BAI03-Q6",
+    "objectiveId": "BAI03",
+    "text": "Do solutions integrate security requirements from the design stage (security by design)?"
+  },
+  {
+    "id": "BAI03-Q7",
+    "objectiveId": "BAI03",
+    "text": "Are solution acceptance criteria defined upfront with the business and operations?"
+  },
+  {
+    "id": "BAI03-Q8",
+    "objectiveId": "BAI03",
+    "text": "Is technical and user documentation produced and approved before go-live?"
+  },
+
+  {
+    "id": "BAI04-Q1",
+    "objectiveId": "BAI04",
+    "text": "Are service capacity and availability needs defined with the business?"
+  },
+  {
+    "id": "BAI04-Q2",
+    "objectiveId": "BAI04",
+    "text": "Are infrastructure and application performance measured and monitored?"
+  },
+  {
+    "id": "BAI04-Q3",
+    "objectiveId": "BAI04",
+    "text": "Are trend analyses performed to anticipate capacity needs?"
+  },
+  {
+    "id": "BAI04-Q4",
+    "objectiveId": "BAI04",
+    "text": "Is architecture designed to ensure high availability where required?"
+  },
+  {
+    "id": "BAI04-Q5",
+    "objectiveId": "BAI04",
+    "text": "Are the impacts of new solutions on capacity and performance assessed before deployment?"
+  },
+  {
+    "id": "BAI04-Q6",
+    "objectiveId": "BAI04",
+    "text": "Are load and performance tests carried out for critical applications?"
+  },
+  {
+    "id": "BAI04-Q7",
+    "objectiveId": "BAI04",
+    "text": "Are availability SLAs considered in technical solution design?"
+  },
+  {
+    "id": "BAI04-Q8",
+    "objectiveId": "BAI04",
+    "text": "Do performance or capacity incidents lead to structural corrective actions?"
+  },
+
+  {
+    "id": "BAI05-Q1",
+    "objectiveId": "BAI05",
+    "text": "Are the organizational impacts of projects (processes, roles, skills) analyzed?"
+  },
+  {
+    "id": "BAI05-Q2",
+    "objectiveId": "BAI05",
+    "text": "Is a change management plan defined for projects that affect users?"
+  },
+  {
+    "id": "BAI05-Q3",
+    "objectiveId": "BAI05",
+    "text": "Is communication on changes (objectives, schedule, impacts) organized and planned?"
+  },
+  {
+    "id": "BAI05-Q4",
+    "objectiveId": "BAI05",
+    "text": "Is appropriate training planned for affected users?"
+  },
+  {
+    "id": "BAI05-Q5",
+    "objectiveId": "BAI05",
+    "text": "Are resistances to change identified and addressed with targeted actions?"
+  },
+  {
+    "id": "BAI05-Q6",
+    "objectiveId": "BAI05",
+    "text": "Are new processes and ways of working documented and integrated into internal reference frameworks?"
+  },
+  {
+    "id": "BAI05-Q7",
+    "objectiveId": "BAI05",
+    "text": "Are business sponsors involved to promote change within their teams?"
+  },
+  {
+    "id": "BAI05-Q8",
+    "objectiveId": "BAI05",
+    "text": "Are the effects of change (adoption, ownership, actual usage) evaluated after deployment?"
+  },
+
+  {
+    "id": "BAI06-Q1",
+    "objectiveId": "BAI06",
+    "text": "Is an I&T change management process defined (normal, urgent, standard)?"
+  },
+  {
+    "id": "BAI06-Q2",
+    "objectiveId": "BAI06",
+    "text": "Are changes recorded in a central tool or register?"
+  },
+  {
+    "id": "BAI06-Q3",
+    "objectiveId": "BAI06",
+    "text": "Are change impacts and risks assessed before approval?"
+  },
+  {
+    "id": "BAI06-Q4",
+    "objectiveId": "BAI06",
+    "text": "Does a change advisory board (CAB) rule on significant changes?"
+  },
+  {
+    "id": "BAI06-Q5",
+    "objectiveId": "BAI06",
+    "text": "Do urgent changes follow a simplified but documented and post-approved process?"
+  },
+  {
+    "id": "BAI06-Q6",
+    "objectiveId": "BAI06",
+    "text": "Are changes scheduled to minimize impact on production?"
+  },
+  {
+    "id": "BAI06-Q7",
+    "objectiveId": "BAI06",
+    "text": "Are implemented changes documented and reflected in reference repositories (CMDB, documentation)?"
+  },
+  {
+    "id": "BAI06-Q8",
+    "objectiveId": "BAI06",
+    "text": "Do failed changes or rollbacks result in analysis and preventive actions?"
+  },
+
+  {
+    "id": "BAI07-Q1",
+    "objectiveId": "BAI07",
+    "text": "Are detailed deployment plans (technical and organizational) defined for go-lives?"
+  },
+  {
+    "id": "BAI07-Q2",
+    "objectiveId": "BAI07",
+    "text": "Are environments (development, test, pre-production, production) clearly separated?"
+  },
+  {
+    "id": "BAI07-Q3",
+    "objectiveId": "BAI07",
+    "text": "Are tests (functional, integration, performance, security) performed and approved before deployment?"
+  },
+  {
+    "id": "BAI07-Q4",
+    "objectiveId": "BAI07",
+    "text": "Are production acceptance criteria defined and validated by operations and the business?"
+  },
+  {
+    "id": "BAI07-Q5",
+    "objectiveId": "BAI07",
+    "text": "Are rollback plans prepared for each major go-live?"
+  },
+  {
+    "id": "BAI07-Q6",
+    "objectiveId": "BAI07",
+    "text": "Is go-live formally authorized by the relevant stakeholders?"
+  },
+  {
+    "id": "BAI07-Q7",
+    "objectiveId": "BAI07",
+    "text": "Are operations teams informed and prepared before each deployment?"
+  },
+  {
+    "id": "BAI07-Q8",
+    "objectiveId": "BAI07",
+    "text": "Is post-go-live monitoring carried out to quickly detect incidents related to the change?"
+  },
+
+  {
+    "id": "BAI08-Q1",
+    "objectiveId": "BAI08",
+    "text": "Is an I&T knowledge base (procedures, FAQs, solutions, articles) maintained?"
+  },
+  {
+    "id": "BAI08-Q2",
+    "objectiveId": "BAI08",
+    "text": "Do resolved incidents and problems lead to the creation or update of knowledge articles?"
+  },
+  {
+    "id": "BAI08-Q3",
+    "objectiveId": "BAI08",
+    "text": "Are I&T teams trained to use and feed the knowledge base?"
+  },
+  {
+    "id": "BAI08-Q4",
+    "objectiveId": "BAI08",
+    "text": "Do end-users have access to a knowledge base for self-service?"
+  },
+  {
+    "id": "BAI08-Q5",
+    "objectiveId": "BAI08",
+    "text": "Is critical knowledge identified and protected against loss (departure of key people)?"
+  },
+  {
+    "id": "BAI08-Q6",
+    "objectiveId": "BAI08",
+    "text": "Are obsolete contents in the knowledge base regularly cleaned up or updated?"
+  },
+  {
+    "id": "BAI08-Q7",
+    "objectiveId": "BAI08",
+    "text": "Are knowledge base usage and consultation indicators monitored?"
+  },
+  {
+    "id": "BAI08-Q8",
+    "objectiveId": "BAI08",
+    "text": "Is the knowledge base integrated with support tools (ticketing, user portal)?"
+  },
+
+  {
+    "id": "BAI09-Q1",
+    "objectiveId": "BAI09",
+    "text": "Is an inventory of I&T assets (hardware, software, data, licenses) maintained?"
+  },
+  {
+    "id": "BAI09-Q2",
+    "objectiveId": "BAI09",
+    "text": "Are asset management responsibilities (owner, custodian) defined?"
+  },
+  {
+    "id": "BAI09-Q3",
+    "objectiveId": "BAI09",
+    "text": "Are asset lifecycles (acquisition, operation, retirement) managed through defined procedures?"
+  },
+  {
+    "id": "BAI09-Q4",
+    "objectiveId": "BAI09",
+    "text": "Are software licenses managed to avoid under-licensing and over-licensing?"
+  },
+  {
+    "id": "BAI09-Q5",
+    "objectiveId": "BAI09",
+    "text": "Are critical assets protected with appropriate measures (physical and logical security)?"
+  },
+  {
+    "id": "BAI09-Q6",
+    "objectiveId": "BAI09",
+    "text": "Are physical inventories periodically conducted to verify assets?"
+  },
+  {
+    "id": "BAI09-Q7",
+    "objectiveId": "BAI09",
+    "text": "Are asset inventory data integrated into the CMDB or another central repository?"
+  },
+  {
+    "id": "BAI09-Q8",
+    "objectiveId": "BAI09",
+    "text": "Are asset renewal or disposal decisions managed (costs, obsolescence, risks)?"
+  },
+
+  {
+    "id": "BAI10-Q1",
+    "objectiveId": "BAI10",
+    "text": "Is a configuration management database (CMDB) used to record configuration items?"
+  },
+  {
+    "id": "BAI10-Q2",
+    "objectiveId": "BAI10",
+    "text": "Are relationships between items (applications, servers, databases, networks) documented?"
+  },
+  {
+    "id": "BAI10-Q3",
+    "objectiveId": "BAI10",
+    "text": "Are CMDB updates integrated with the change management process?"
+  },
+  {
+    "id": "BAI10-Q4",
+    "objectiveId": "BAI10",
+    "text": "Are controls performed to verify consistency between the CMDB and the actual environment?"
+  },
+  {
+    "id": "BAI10-Q5",
+    "objectiveId": "BAI10",
+    "text": "Is the CMDB used to analyze the impact of incidents and changes?"
+  },
+  {
+    "id": "BAI10-Q6",
+    "objectiveId": "BAI10",
+    "text": "Are CMDB access rights managed to ensure data integrity?"
+  },
+  {
+    "id": "BAI10-Q7",
+    "objectiveId": "BAI10",
+    "text": "Do critical configuration items receive particular attention (specific monitoring)?"
+  },
+  {
+    "id": "BAI10-Q8",
+    "objectiveId": "BAI10",
+    "text": "Is the CMDB integrated with monitoring, ticketing, and inventory tools?"
+  },
+
+  {
+    "id": "BAI11-Q1",
+    "objectiveId": "BAI11",
+    "text": "Is the I&T project management methodology defined and known (classic, agile, hybrid)?"
+  },
+  {
+    "id": "BAI11-Q2",
+    "objectiveId": "BAI11",
+    "text": "Do projects have a documented project plan (scope, schedule, resources, budget)?"
+  },
+  {
+    "id": "BAI11-Q3",
+    "objectiveId": "BAI11",
+    "text": "Are project risks identified, assessed, and monitored regularly?"
+  },
+  {
+    "id": "BAI11-Q4",
+    "objectiveId": "BAI11",
+    "text": "Are scope or priority changes managed and approved formally?"
+  },
+  {
+    "id": "BAI11-Q5",
+    "objectiveId": "BAI11",
+    "text": "Are steering indicators (progress, costs, quality) monitored and shared with stakeholders?"
+  },
+  {
+    "id": "BAI11-Q6",
+    "objectiveId": "BAI11",
+    "text": "Are critical projects subject to independent reviews or enhanced controls?"
+  },
+  {
+    "id": "BAI11-Q7",
+    "objectiveId": "BAI11",
+    "text": "Are formal project closures carried out (lessons learned, capitalization, archiving)?"
+  },
+  {
+    "id": "BAI11-Q8",
+    "objectiveId": "BAI11",
+    "text": "Is project management maturity assessed and the subject of improvement plans?"
+  },
+
+  {
+    "id": "DSS01-Q1",
+    "objectiveId": "DSS01",
+    "text": "Are daily I&T operations (backups, batch jobs, checks) planned and documented?"
+  },
+  {
+    "id": "DSS01-Q2",
+    "objectiveId": "DSS01",
+    "text": "Are operations tasks performed according to standardized procedures?"
+  },
+  {
+    "id": "DSS01-Q3",
+    "objectiveId": "DSS01",
+    "text": "Are operations logs (logs, reports) reviewed to detect anomalies and deviations?"
+  },
+  {
+    "id": "DSS01-Q4",
+    "objectiveId": "DSS01",
+    "text": "Are scheduled changes coordinated with operations teams?"
+  },
+  {
+    "id": "DSS01-Q5",
+    "objectiveId": "DSS01",
+    "text": "Do critical operations tasks have backup procedures (plan B)?"
+  },
+  {
+    "id": "DSS01-Q6",
+    "objectiveId": "DSS01",
+    "text": "Are planned jobs (batches, nightly processes) monitored to ensure they run correctly?"
+  },
+  {
+    "id": "DSS01-Q7",
+    "objectiveId": "DSS01",
+    "text": "Are access to administration and operations consoles controlled and logged?"
+  },
+  {
+    "id": "DSS01-Q8",
+    "objectiveId": "DSS01",
+    "text": "Are operations capacities adequate for predictable peak loads?"
+  },
+
+  {
+    "id": "DSS02-Q1",
+    "objectiveId": "DSS02",
+    "text": "Are service requests and incidents recorded in a ticketing tool?"
+  },
+  {
+    "id": "DSS02-Q2",
+    "objectiveId": "DSS02",
+    "text": "Are incidents categorized and prioritized according to defined criteria?"
+  },
+  {
+    "id": "DSS02-Q3",
+    "objectiveId": "DSS02",
+    "text": "Are incident resolution times monitored against service commitments?"
+  },
+  {
+    "id": "DSS02-Q4",
+    "objectiveId": "DSS02",
+    "text": "Do standard service requests (e.g. account creation) follow predefined workflows?"
+  },
+  {
+    "id": "DSS02-Q5",
+    "objectiveId": "DSS02",
+    "text": "Are users informed when their tickets are taken in charge and resolved?"
+  },
+  {
+    "id": "DSS02-Q6",
+    "objectiveId": "DSS02",
+    "text": "Do recurring tickets lead to more structural corrective actions?"
+  },
+  {
+    "id": "DSS02-Q7",
+    "objectiveId": "DSS02",
+    "text": "Is user satisfaction with support measured?"
+  },
+  {
+    "id": "DSS02-Q8",
+    "objectiveId": "DSS02",
+    "text": "Are tickets properly documented to facilitate resolution and knowledge sharing?"
+  },
+
+  {
+    "id": "DSS03-Q1",
+    "objectiveId": "DSS03",
+    "text": "Are recurring problems identified based on incident analysis?"
+  },
+  {
+    "id": "DSS03-Q2",
+    "objectiveId": "DSS03",
+    "text": "Is a problem register used to track root causes and corrective actions?"
+  },
+  {
+    "id": "DSS03-Q3",
+    "objectiveId": "DSS03",
+    "text": "Are root cause analyses (RCA) performed for major incidents?"
+  },
+  {
+    "id": "DSS03-Q4",
+    "objectiveId": "DSS03",
+    "text": "Are workarounds documented and communicated to support teams?"
+  },
+  {
+    "id": "DSS03-Q5",
+    "objectiveId": "DSS03",
+    "text": "Are corrective actions to eliminate problems planned and monitored?"
+  },
+  {
+    "id": "DSS03-Q6",
+    "objectiveId": "DSS03",
+    "text": "Are problems prioritized according to their business impact?"
+  },
+  {
+    "id": "DSS03-Q7",
+    "objectiveId": "DSS03",
+    "text": "Do security-related problems receive specific treatment with the relevant teams?"
+  },
+  {
+    "id": "DSS03-Q8",
+    "objectiveId": "DSS03",
+    "text": "Are problem trends analyzed to identify weak areas in the information system?"
+  },
+
+  {
+    "id": "DSS04-Q1",
+    "objectiveId": "DSS04",
+    "text": "Are business continuity and disaster recovery plans (BCP/DRP) defined for critical services?"
+  },
+  {
+    "id": "DSS04-Q2",
+    "objectiveId": "DSS04",
+    "text": "Are business continuity requirements (RTO, RPO) formalized and approved?"
+  },
+  {
+    "id": "DSS04-Q3",
+    "objectiveId": "DSS04",
+    "text": "Are backups performed, controlled, and tested regularly?"
+  },
+  {
+    "id": "DSS04-Q4",
+    "objectiveId": "DSS04",
+    "text": "Are failover and recovery tests organized to verify the effectiveness of continuity arrangements?"
+  },
+  {
+    "id": "DSS04-Q5",
+    "objectiveId": "DSS04",
+    "text": "Are disaster risks (fire, flood, major outage) considered in continuity planning?"
+  },
+  {
+    "id": "DSS04-Q6",
+    "objectiveId": "DSS04",
+    "text": "Are crisis management procedures defined and known (crisis team, roles, communication)?"
+  },
+  {
+    "id": "DSS04-Q7",
+    "objectiveId": "DSS04",
+    "text": "Do continuity test results lead to improvement plans?"
+  },
+  {
+    "id": "DSS04-Q8",
+    "objectiveId": "DSS04",
+    "text": "Are continuity plans updated after major changes in the IT environment or organization?"
+  },
+
+  {
+    "id": "DSS05-Q1",
+    "objectiveId": "DSS05",
+    "text": "Are security logs (authentication, access, events) collected and analyzed?"
+  },
+  {
+    "id": "DSS05-Q2",
+    "objectiveId": "DSS05",
+    "text": "Does a security operations center (SOC) or equivalent monitor security events?"
+  },
+  {
+    "id": "DSS05-Q3",
+    "objectiveId": "DSS05",
+    "text": "Are intrusion detection, anti-malware, and endpoint protection tools deployed?"
+  },
+  {
+    "id": "DSS05-Q4",
+    "objectiveId": "DSS05",
+    "text": "Are procedures for managing security incidents (detection, response, communication) in place?"
+  },
+  {
+    "id": "DSS05-Q5",
+    "objectiveId": "DSS05",
+    "text": "Are privileged accounts subject to specific controls (bastion, traceability)?"
+  },
+  {
+    "id": "DSS05-Q6",
+    "objectiveId": "DSS05",
+    "text": "Are security patches applied under a defined patch management process?"
+  },
+  {
+    "id": "DSS05-Q7",
+    "objectiveId": "DSS05",
+    "text": "Are remote accesses (VPN, supplier access) secured and monitored?"
+  },
+  {
+    "id": "DSS05-Q8",
+    "objectiveId": "DSS05",
+    "text": "Are security incidents analyzed to implement preventive measures?"
+  },
+
+  {
+    "id": "DSS06-Q1",
+    "objectiveId": "DSS06",
+    "text": "Are I&T controls embedded in critical business processes identified and documented?"
+  },
+  {
+    "id": "DSS06-Q2",
+    "objectiveId": "DSS06",
+    "text": "Are data integrity, completeness, and confidentiality controls implemented?"
+  },
+  {
+    "id": "DSS06-Q3",
+    "objectiveId": "DSS06",
+    "text": "Are application access controls defined according to the least-privilege principle?"
+  },
+  {
+    "id": "DSS06-Q4",
+    "objectiveId": "DSS06",
+    "text": "Are automated application controls (validations, reconciliations) reviewed regularly?"
+  },
+  {
+    "id": "DSS06-Q5",
+    "objectiveId": "DSS06",
+    "text": "Are critical manual controls documented and are responsible persons trained?"
+  },
+  {
+    "id": "DSS06-Q6",
+    "objectiveId": "DSS06",
+    "text": "Do internal or external audits evaluate the effectiveness of business process controls?"
+  },
+  {
+    "id": "DSS06-Q7",
+    "objectiveId": "DSS06",
+    "text": "Are control failures analyzed and corrected quickly?"
+  },
+  {
+    "id": "DSS06-Q8",
+    "objectiveId": "DSS06",
+    "text": "Do business process changes include a review of associated controls?"
+  },
+
+  {
+    "id": "MEA01-Q1",
+    "objectiveId": "MEA01",
+    "text": "Is a mechanism for monitoring I&T performance (dashboards, KPIs) in place?"
+  },
+  {
+    "id": "MEA01-Q2",
+    "objectiveId": "MEA01",
+    "text": "Are I&T performance indicators aligned with business and strategic objectives?"
+  },
+  {
+    "id": "MEA01-Q3",
+    "objectiveId": "MEA01",
+    "text": "Are I&T performance results shared with key stakeholders?"
+  },
+  {
+    "id": "MEA01-Q4",
+    "objectiveId": "MEA01",
+    "text": "Are improvement actions defined based on I&T performance results?"
+  },
+  {
+    "id": "MEA01-Q5",
+    "objectiveId": "MEA01",
+    "text": "Are I&T performance targets reviewed periodically to remain relevant?"
+  },
+  {
+    "id": "MEA01-Q6",
+    "objectiveId": "MEA01",
+    "text": "Are I&T performance reports reliable and produced in time to support decision-making?"
+  },
+  {
+    "id": "MEA01-Q7",
+    "objectiveId": "MEA01",
+    "text": "Is supplier performance included in the overall I&T performance monitoring?"
+  },
+  {
+    "id": "MEA01-Q8",
+    "objectiveId": "MEA01",
+    "text": "Are I&T performance trends analyzed to anticipate deviations?"
+  },
+
+  {
+    "id": "MEA02-Q1",
+    "objectiveId": "MEA02",
+    "text": "Is an I&T internal control framework defined (references, policies, responsibilities)?"
+  },
+  {
+    "id": "MEA02-Q2",
+    "objectiveId": "MEA02",
+    "text": "Are key I&T controls (access, changes, continuity, security) identified?"
+  },
+  {
+    "id": "MEA02-Q3",
+    "objectiveId": "MEA02",
+    "text": "Are periodic assessments of I&T internal control effectiveness carried out?"
+  },
+  {
+    "id": "MEA02-Q4",
+    "objectiveId": "MEA02",
+    "text": "Do identified control weaknesses lead to remediation plans that are monitored?"
+  },
+  {
+    "id": "MEA02-Q5",
+    "objectiveId": "MEA02",
+    "text": "Are responsibilities for I&T internal control clearly assigned (lines 1, 2, 3)?"
+  },
+  {
+    "id": "MEA02-Q6",
+    "objectiveId": "MEA02",
+    "text": "Are I&T internal control assessment results shared with management and internal audit?"
+  },
+  {
+    "id": "MEA02-Q7",
+    "objectiveId": "MEA02",
+    "text": "Are I&T controls adapted when significant changes occur in systems or processes?"
+  },
+  {
+    "id": "MEA02-Q8",
+    "objectiveId": "MEA02",
+    "text": "Are external reference frameworks (e.g. SOX, ISO 27001) considered in the I&T internal control system?"
+  },
+
+  {
+    "id": "MEA03-Q1",
+    "objectiveId": "MEA03",
+    "text": "Are regulatory and contractual requirements applicable to I&T identified and tracked?"
+  },
+  {
+    "id": "MEA03-Q2",
+    "objectiveId": "MEA03",
+    "text": "Are I&T compliance responsibilities (legal, DPO, CISO, etc.) clearly established?"
+  },
+  {
+    "id": "MEA03-Q3",
+    "objectiveId": "MEA03",
+    "text": "Are I&T compliance reviews or audits conducted regularly?"
+  },
+  {
+    "id": "MEA03-Q4",
+    "objectiveId": "MEA03",
+    "text": "Do identified non-compliances result in tracked action plans?"
+  },
+  {
+    "id": "MEA03-Q5",
+    "objectiveId": "MEA03",
+    "text": "Are regulatory changes monitored and integrated into I&T processes?"
+  },
+  {
+    "id": "MEA03-Q6",
+    "objectiveId": "MEA03",
+    "text": "Is compliance with personal data protection requirements (e.g. GDPR) assessed?"
+  },
+  {
+    "id": "MEA03-Q7",
+    "objectiveId": "MEA03",
+    "text": "Are I&T compliance reports communicated to authorities or other stakeholders when required?"
+  },
+  {
+    "id": "MEA03-Q8",
+    "objectiveId": "MEA03",
+    "text": "Are compliance clauses included in and monitored through contracts with I&T suppliers?"
+  }
+]
